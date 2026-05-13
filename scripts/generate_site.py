@@ -33,6 +33,11 @@ def main():
     channels = load_json(CHANNELS_FILE)
     relations = load_json(RELATIONS_FILE)
 
+    # Strip large fields not needed for display
+    for v in videos:
+        v.pop("raw_transcript", None)
+        v.pop("description", None)
+
     # Prepare data payload
     data_payload = {
         "videos": videos,
