@@ -876,7 +876,16 @@
     "has_captions": true,
     "raw_transcript": "Quickly, very quickly, very quickly and sharply. I feel like this book is perfectly timed. Because on the one hand, you have the the the Democrats, and I don't mean voters, I mean the politicians like Bernie Sanders and and AOC. You have them all saying like we need to slow it down, we need to tax billionaires, we need to put a moratorium on data centers. And I think that a lot of that is very silly. And even some of the more like progressive people that I follow online are like, \"Yeah, this is this is silly. Like the most dystopian thing is maintaining the status quo of wage slavery.\" And there's not enough creativity out there yet to really imagine new solutions. Because even this paper that I just referenced, the AI layoff trap, and let me let me actually drop the link in case anyone wants to AI layoff trap. Um in case anyone wants to read it. So here here it is. I'll drop it in chat. Um that's the the AI layoff trap. They do not conceive of most of the solutions that I talk about. They they stress test a a tiny handful of solutions. And it's very narrowly defined and what I'm hoping to do with this book, with Labor Zero, is to really pry open the Overton window and get people thinking bigger about how to restructure the economy in a way that is one, politically viable, two, will actually work. Um is that that's one of the things that I've that I've said. I gave a talk at Clemson University last week. And um and I said this isn't communism, this isn't socialism, this isn't Marxism. Ask me why later. And one of the students did. Um and I was and I I I said like at the very beginning of the book, one of the things that I lay out is that the transition to post-labor economics has to be politically viable and it has to actually work uh on top of a few other constraints. And so like many people have you know, gone and created their own philosophical treatise and their own economic treatise and they said, \"I have redesigned the economy.\" And I'm like, \"That's great, but this is a work of fiction.\" And and you know, I I hate",
     "fetched_at": "2026-05-13T09:28:06.304383+00:00",
-    "analyzed": false
+    "analyzed": true,
+    "analysis": {
+      "summary": "演讲者David Shapiro讨论其著作《Labor Zero》，旨在提出政治上可行且实用的后劳动力经济转型方案。他批评政客减缓科技发展（如暂停数据中心）的提议“愚蠢”，力求超越现有框架，提供更宏大的经济重构方案，并强调其非共产主义或社会主义。",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "David Shapiro",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-05-13T15:08:03.886354+00:00"
+    }
   },
   {
     "video_id": "nMjc63DUi1Y",
