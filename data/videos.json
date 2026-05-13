@@ -836,7 +836,16 @@
     "has_captions": true,
     "raw_transcript": "That's what Henry Ford said, \"Give your hardest problems to your laziest engineers. They'll find an easier way to do it.\" I don't know if it's true, but like that's why I became an automation engineer. Cuz I was like, \"Let me just find the easiest way to do it where I push a button and then I don't have to worry about it again. The visible struggle and suffering, that is what is considered valorous in for instance Indian culture, Japanese culture, and also Chinese culture. Although I don't know the terms for it, but but I know that Chinese culture basically anywhere where Confucianism has had influence has a similar work ethic. Um",
     "fetched_at": "2026-05-13T09:28:09.883537+00:00",
-    "analyzed": false
+    "analyzed": true,
+    "analysis": {
+      "summary": "引用亨利·福特关于“将难题交给懒惰工程师”的名言，探讨了自动化工程的理念，以及印度、日本和中国文化中对工作与奋斗的不同价值观。",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "David Shapiro",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-05-13T10:36:21.155958+00:00"
+    }
   },
   {
     "video_id": "sVVJNb45h2M",
