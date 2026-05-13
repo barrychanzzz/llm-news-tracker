@@ -64,7 +64,7 @@ def main():
         html = f.read()
 
     # Replace the placeholder with actual data
-    data_line = f'const APP_DATA = {data_json};'
+    data_line = f'window.APP_DATA = {data_json};'
 
     if 'const DATA_PLACEHOLDER = null;' in html:
         html = html.replace(
