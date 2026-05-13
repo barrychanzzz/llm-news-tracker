@@ -10,7 +10,7 @@ import shutil
 from datetime import datetime, timezone
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
-SITE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "site")
+SITE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "docs")
 
 VIDEOS_FILE = os.path.join(DATA_DIR, "videos.json")
 CHANNELS_FILE = os.path.join(DATA_DIR, "channels.json")
