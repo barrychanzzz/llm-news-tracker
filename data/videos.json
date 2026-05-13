@@ -1,5 +1,30 @@
 [
   {
+    "video_id": "DlCoCfTDzMI",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Tokenize Time: Inside the Interaction Model Architecture.",
+    "url": "https://www.youtube.com/watch?v=DlCoCfTDzMI",
+    "published_at": "2026-05-13T13:15:01+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thinking Machines just changed the turn-based AI paradigm by introducing a new architecture that tokenizes time into continuous 200ms micro-turns. Let's dive deep into the technical paper to explore their encoder-free early fusion approach and see why it fundamentally changes how we build agentic systems compared to frontier models like GPT-4o and Gemini.\n\nhttps://thinkingmachines.ai/blog/interaction-models/\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-13T13:36:08.224136+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-13T13:36:08.612233+00:00"
+    }
+  },
+  {
     "video_id": "-Bp2Sz5xir4",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
