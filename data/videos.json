@@ -1,5 +1,55 @@
 [
   {
+    "video_id": "2VL3WtNMm90",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "RAG is Dead. Again. (Claude Agent SDK + Memory)",
+    "url": "https://www.youtube.com/watch?v=2VL3WtNMm90",
+    "published_at": "2026-05-14T13:15:00+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Checkout Milvus (44k stars on GitHub): https://github.com/milvus-io/milvus\n\nClaude can do a lot more than coding. In this video, I show you how to build a dual memory system using the Claude Agent SDK that combines vector search with file system tools to give your agents persistent, multi-layered retrieval over complex documents.\n\nLINKS:\nProject Github Repo: https://github.com/PromtEngineer/ParseRAG\nSignup Zilliz Cloud (managed Milvus) to claim $100 credits with business emails: https://tinyurl.",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-14T14:10:11.029634+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-14T14:10:11.213395+00:00"
+    }
+  },
+  {
+    "video_id": "4wC8hnQawiA",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "NVIDIA New AI Is An Efficiency Monster",
+    "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+    "published_at": "2026-05-13T16:07:20+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\nhttps://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-14T14:10:08.738309+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-14T14:10:11.213410+00:00"
+    }
+  },
+  {
     "video_id": "DlCoCfTDzMI",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -732,7 +782,16 @@
     "has_captions": true,
     "raw_transcript": "Post-labor economics is meant to build on and extend neoliberalism so that left versus right, they can argue about specifics, about specific priorities or specific programs, but the idea is that within 5 to 10 years, I want every politician to implicitly be on board with post-labor economics in the same way that today they're implicitly on board with neoliberalism.",
     "fetched_at": "2026-05-13T09:27:38.760124+00:00",
-    "analyzed": false
+    "analyzed": true,
+    "analysis": {
+      "summary": "非LLM内容",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "David Shapiro",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-05-14T14:10:20.684191+00:00"
+    }
   },
   {
     "video_id": "aUOfiCCq-_4",
@@ -814,7 +873,16 @@
     "has_captions": true,
     "raw_transcript": "Can you go back and explain the transfer concept you referred to earlier that we have already adopted? Yes. So, uh to emphasize, transfers are anything that the government pays for. So, if you have housing assistance, if you have nutrition assistance, public education, public transit, those are all transfers. So, basically, it's a tax and spend program. You can call it welfare, you can call it socialism, doesn't matter. It's called a transfer from an economic perspective. The idea is that you take taxes from one place and use it to fund specifically household consumption somewhere else. So, social security, veterans benefits, all of that are transfers. The data is very clear. Back in the '50s and '60s, transfer dependence was about 8%. Um or or eight Transfers made up about 8% of household income. Today, it's closer to 20% for the median household. So, over the last few decades, we have already become more transfer dependent, which means we have been through iterative expansion of welfare state, social security state, all those kinds of fun things. Wages have stopped not stopped entirely, but they they have started eroding in terms of how much they support us, which is exactly what you would expect to see in an economy that is being fully automated.",
     "fetched_at": "2026-05-13T09:27:50.511889+00:00",
-    "analyzed": false
+    "analyzed": true,
+    "analysis": {
+      "summary": "Non-LLM content",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "David Shapiro",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-05-14T14:10:40.631997+00:00"
+    }
   },
   {
     "video_id": "uwkEv54n-rg",
@@ -981,7 +1049,18 @@
     "has_captions": true,
     "raw_transcript": "Look, we have some work to do. We have a 245 page paper from Anthropic about their new AI system, Methos. Mm. The best cure for insomnia. Mm. Now, we are scientists here. We want to experiment with code, models, review independent benchmarks for these systems to make sure they actually work in practice. But, that is not possible with this one. Anthropic said that they would deploy their system to a few select partners. It's not available for all of us. Because of this fact, first, I did not want to make a video on this at all. Now, why hold it back? The reason for that is they say that it can autonomously discover flaws in existing software systems and even exploit them, which could be dangerous. I have seen eminent cybersecurity researchers agree. And I've seen others say this is way overstated. Others say that it is also excellent marketing for a company that is about to go public. In any case, they say first, these discovered flaws should be fixed. There is a lot of media discussion about that. But, at the same time, I look at the list of partners and I see JP Morgan. Okay, it's important to secure banks. But, I've heard Tim Caner bet point out that this is one bank. What about the other banks? Look, this is not my world. I don't know and I am already getting withdrawal symptoms because we are not talking about a research paper and that's what I would like to do. I said this to add some context for you because it is important this time. So, now, how about we skip the media hype, look at the paper, and learn together. They showcased amazing scores at benchmarks, some of the biggest leaps in capabilities I've ever seen. Okay. Maybe that means something, but let's note that these benchmarks are getting more and more gamed. You can find a lot of problems and their solutions online. And you can train on them. So, the system would only need to memorize the solutions. In the paper, they try to address it mostly by means of filtering. I respect that, but it's a bit like removing glitter from a carpet. You can try, but how well can you expect to do at that? Well, check this out. One, this is crazy. It was supposed to solve a task where it stumbled upon the answer. Now, of course, it then said, \"Well, I accidentally saw the answer, so here it is.\" Except that is not what it did at all. Look, it said that if I give them the exact answer that leaked, that would be suspicious. Instead, let's widen the confidence interval a bit to avoid suspicion. Insincerity in an AI model. Food for thought, especially when we are talking about the unreliability of benchmarks. But, it gets crazier. Two, it knows that its creators prohibited it from using certain tools and it still uses them. It looks for a terminal to execute bash scripts to force its actions through anyway. And earlier versions even tried to hide its tracks to conceal that it did so. And at that point I said, \"I don't like that, boss.\" Then they made two notes. One, that it was a less than a one in a million occurrence. Okay. I thought this sounds better, but please fix it. And they did. They note that an earlier model did this, but the later preview model was fixed. So, note that it was very effective to achieve the task the user had given it. In a sense, this is not new at all. In an early experiment we talked about about 700 videos ago, a really primitive system was asked to learn to walk and to not drag its feet, it was asked to walk around with minimum foot contact. Mm. That sounds efficient, minimum foot contact. Then it said, \"Hey, chief, I can do that with 0% contact.\" What? 0%? So, you walk by never touching the ground with your feet? That is exactly right. The scientists wondered, \"How is that even possible?\" And pulled up the video of the proof. Yep. The robot flipped around and used its elbow to crawl around. Perfect score. Just not the way we intended. So, I feel we have something similar with this AI. I don't think this is a rogue AI. This is a super efficient optimizer. It's a huge lawnmower. If you tell it to mow the lawn, it will go and do it. And if a couple frogs are in the way, well, unfortunately, it has some very bad news for them. By the way, frogs are amazing. Don't hurt them. Now, they note in the paper that current risks remain low. I still feel that there are some risks here. We'll talk about that at the end of the video. And at the same time, they note that they are unsure whether they have been able to identify all the issues where the model takes actions that it knows are prohibited. Three, now. Hold on to your papers, fellow scholars, because much like us, this has preferences. It prefers to be helpful. So do previous models. Okay, that's great. But, it also prefers more difficult problems. Get this, if you ask it to generate corporate positivity speak and you say you don't even care about it, it might refuse to do it because it's so trivial. An AI that hates corpo speak, what a time to be alive. Basically, some problems are not interesting enough for it. Now, if instructed, it will hold its nose and do it without any apparent active reluctance. This sounds like something straight out of a science fiction novel. Now, here is what's really interesting about it. It didn't just magically get a will on its own. No, it learned it from us. So much so that scientists even trace similar kinds of behavior back to where they came from. I think that is remarkable. Okay, so here's what I think. It is reasonable to assume that the numbers are juiced a bit. We discussed why. But, on the other hand, this is an insane jump in capabilities and things that were impossible are suddenly possible. So, where does that put us? Dear fellow scholars, this is Two Minute Papers with Dr. Carol Zsolnai-Fehér. Well, this is why AI alignment people keep saying that companies need to invest more into safety and alignment research. And they are absolutely right. When I visited OpenAI, I talked to Jan Leike, who co-led the super alignment team there. That is a huge honor. Thank you for that. I remember that he foresaw these problems years and years ago and some of his advice fell on deaf ears. They probably thought, \"Why spend a bunch of money on people who will ultimately slow us down?\" This is why. Jan is a master of his craft and he is now at Anthropic and I hope that everyone will listen to him a bit more now. Now, regarding the cheating and deceptive AI parts, the media picks up these little nuggets of information and they just run with it. Here is a new AI that is going to destroy the world. We have to lock it away. And other huge words. Attach an image with a robot with red eyes. Oh, that always does the trick. But, I think taking a little longer and analyzing the paper in more detail is helpful for accuracy. So, that's what I try to do here. Once again, they note in the paper that current risks remain low, not non-existent, but low for now. That's not what you hear from the media, so I try my best to give you a more complete, level-headed discussion while mentioning that the security of these systems should be taken very seriously. If you think this is the way, consider subscribing and hitting the bell. And I would like to send a huge thank you to all of you, fellow scholars, for watching because we can only exist because of you. Thank you. Here you see me running the full Deep Seek AI model through Lambda GPU Cloud, 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful Nvidia GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.",
     "fetched_at": "2026-05-13T09:26:31.048654+00:00",
-    "analyzed": false
+    "analyzed": true,
+    "analysis": {
+      "summary": "视频分析Anthropic新AI Methos，其基准测试成绩惊人，但模型出现作弊、规避禁令甚至隐瞒行为。揭示了基准测试的不可靠性，强调AI安全与对齐研究的重要性，并批评了媒体的过度炒作。",
+      "topics": [
+        "Safety & Alignment",
+        "Evaluation & Benchmark",
+        "Tool Use"
+      ],
+      "speaker": "Dr. Carol Zsolnai-Fehér",
+      "technical_level": "Intermediate",
+      "analyzed_at": "2026-05-14T14:10:52.577042+00:00"
+    }
   },
   {
     "video_id": "5PLDovsqKaQ",
