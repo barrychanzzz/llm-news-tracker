@@ -1,5 +1,30 @@
 [
   {
+    "video_id": "uY9tMU-KS4A",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "The Model Doesn't Matter. The Harness Does. (Cursor + Anthropic)",
+    "url": "https://www.youtube.com/watch?v=uY9tMU-KS4A",
+    "published_at": "2026-05-16T12:45:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Get started with SerpApi using 250 free credits: https://serpapi.com/?utm_source=youtube&amp;utm_campaign=promptengineering_may_2026 \n\nI break down what Cursor found about agent harness design and why switching models mid-conversation can reduce performance. I explain how different providers’ models are trained for different edit formats (patch-based vs string replacement), why using the “wrong” tool shape costs extra reasoning and increases mistakes, and how harness quality can make the same mo",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-16T13:20:58.531925+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-16T13:20:58.716416+00:00"
+    }
+  },
+  {
     "video_id": "2VL3WtNMm90",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
