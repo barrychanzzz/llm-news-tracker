@@ -1,5 +1,30 @@
 [
   {
+    "video_id": "VNMvqCgA7C0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Minimax Mavis Agent: The Verifier Pattern Changes Everything",
+    "url": "https://www.youtube.com/watch?v=VNMvqCgA7C0",
+    "published_at": "2026-05-17T12:45:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to MiniMax for sponsoring this video.  Checkout:\nToken plan 12% off: https://platform.minimax.io/subscribe/token-plan?code=BsIrd0MMQO&amp;source=link\nDownload Agent Desktop: https://agent.minimax.io/download\n\nMost coding agents use the same model to write code and verify it, which means the biases that caused the bug survive the review. This video breaks down the independent verifier pattern and parallel agent execution using Minimax Agent, a multi-agent system where the reviewer starts f",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-17T13:19:15.237673+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-17T13:19:15.423760+00:00"
+    }
+  },
+  {
     "video_id": "uY9tMU-KS4A",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
