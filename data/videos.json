@@ -1,5 +1,30 @@
 [
   {
+    "video_id": "-Bc_VeH3kQ4",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "MCP vs CLI: Both Sides Are Wrong",
+    "url": "https://www.youtube.com/watch?v=-Bc_VeH3kQ4",
+    "published_at": "2026-05-18T12:45:00+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to BrightData for sponsoring this video. Checkout their new CLI here: https://docs.brightdata.com/cli/overview\n\nCLI vs MCP isn't an architecture choice. Both are surfaces over the same underlying engine, useful at different stages. This video walks through when to use the CLI for developer experimentation and when to wire up the MCP for your agent at runtime.\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-18T15:31:42.553247+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "No transcript available",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-18T15:31:42.729074+00:00"
+    }
+  },
+  {
     "video_id": "VNMvqCgA7C0",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
