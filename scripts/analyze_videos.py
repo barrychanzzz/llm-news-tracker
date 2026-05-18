@@ -138,21 +138,27 @@ def main():
     print(f"Videos without transcripts: {len(no_transcript)}")
     print()
 
-    # Mark videos without transcripts
+    # Mark videos without transcripts (but DON'T mark as analyzed, retry next run)
     for v in no_transcript:
-        v["analyzed"] = True
-        v["has_captions"] = False
-        v["analysis"] = {
-            "summary": "No transcript available",
-            "topics": ["Other"],
-            "speaker": "Unknown",
-            "technical_level": "N/A",
-            "analyzed_at": datetime.now(timezone.utc).isoformat(),
-        }
+        if not v.get("no_subtitle_count"):
+            v["no_subtitle_count"] = 0
+        v["no_subtitle_count"] += 1
+        # Only give up after 3 failed subtitle attempts
+        if v["no_subtitle_count"] >= 3:
+            v["analyzed"] = True
+            v["has_captions"] = False
+            v["analysis"] = {
+                "summary": "No transcript available after multiple attempts",
+                "topics": ["Other"],
+                "speaker": "Unknown",
+                "technical_level": "N/A",
+                "analyzed_at": datetime.now(timezone.utc).isoformat(),
+            }
 
     # Analyze videos with transcripts
     success = 0
     failed = 0
+    # Gemini free tier: 5 RPM, 20 RPD. Sleep 15s for safety.
     for i, video in enumerate(to_analyze):
         title = video.get("title", "Unknown")[:80]
         channel = video.get("channel_name", "Unknown")
@@ -166,7 +172,16 @@ def main():
         truncated = transcript[:MAX_TRANSCRIPT_CHARS]
         print(f"  Sending {len(truncated)} chars to Gemini...")
 
-        result = analyze_with_gemini(api_key, truncated, title, channel)
+        # Retry up to 3 times with backoff
+        result = None
+        for retry in range(3):
+            result = analyze_with_gemini(api_key, truncated, title, channel)
+            if result:
+                break
+            if retry < 2:
+                wait = (retry + 1) * 15
+                print(f"    [RETRY] Waiting {wait}s...")
+                time.sleep(wait)
 
         if result:
             video["analyzed"] = True
@@ -182,9 +197,9 @@ def main():
             failed += 1
             print(f"  [FAIL] Analysis failed, will retry next run")
 
-        # Rate limit: Gemini free tier allows ~15 requests/min
+        # Rate limit: Gemini free tier allows 5 RPM
         if i < len(to_analyze) - 1:
-            time.sleep(4)  # ~15 requests per minute
+            time.sleep(15)  # ~4 requests per minute (safe margin)
 
     # Save updated videos
     save_json(VIDEOS_FILE, videos)

@@ -222,7 +222,7 @@ def main():
         focus = analyze_channel_focus(api_key, ch["name"], dist, samples)
         ch["content_focus"] = focus
         print(f"    → {focus[:100]}...")
-        time.sleep(2)  # Rate limit
+        time.sleep(15)  # Rate limit: Gemini free tier = 5 RPM
 
     save_json(CHANNELS_FILE, channels)
 
@@ -257,7 +257,7 @@ def main():
                 "generated_at": datetime.now(timezone.utc).isoformat(),
             })
             print(f"    → {relation.get('description', '')[:80]}...")
-            time.sleep(2)  # Rate limit
+            time.sleep(15)  # Rate limit: Gemini free tier = 5 RPM
 
     save_json(RELATIONS_FILE, relations)
 

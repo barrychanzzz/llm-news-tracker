@@ -7,6 +7,7 @@ import json
 import subprocess
 import sys
 import os
+import time
 import tempfile
 from datetime import datetime, timedelta, timezone
 from typing import Optional
@@ -67,58 +68,122 @@ def fetch_rss_videos(rss_url: str, days: int = 30) -> list:
         return []
 
 
-def get_video_metadata(video_url: str) -> dict:
-    """Get view count, duration, and other metadata via yt-dlp."""
-    try:
-        result = subprocess.run(
-            ["yt-dlp", "--dump-json", "--no-playlist", video_url],
-            capture_output=True, text=True, timeout=30,
-        )
-        if result.returncode == 0 and result.stdout.strip():
-            data = json.loads(result.stdout.strip())
-            return {
-                "view_count": data.get("view_count", 0) or 0,
-                "duration": data.get("duration", 0) or 0,
-                "duration_string": data.get("duration_string", ""),
-            }
-    except Exception as e:
-        print(f"    [WARN] Metadata fetch failed: {e}")
+def get_video_metadata(video_url: str, retries: int = 3) -> dict:
+    """Get view count, duration, and other metadata via yt-dlp with retries."""
+    for attempt in range(retries):
+        try:
+            result = subprocess.run(
+                [
+                    "yt-dlp",
+                    "--dump-json",
+                    "--no-playlist",
+                    "--no-check-certificate",
+                    "--extractor-args", "youtube:player_client=web,android,ios",
+                    video_url,
+                ],
+                capture_output=True, text=True, timeout=45,
+            )
+            if result.returncode == 0 and result.stdout.strip():
+                data = json.loads(result.stdout.strip())
+                view_count = data.get("view_count")
+                duration = data.get("duration")
+                # Also try alternative fields
+                if not view_count:
+                    view_count = data.get("like_count") or data.get("concurrent_view_count")
+                return {
+                    "view_count": int(view_count) if view_count else 0,
+                    "duration": int(duration) if duration else 0,
+                    "duration_string": data.get("duration_string", ""),
+                }
+            elif attempt < retries - 1:
+                time.sleep(2)
+        except Exception as e:
+            if attempt < retries - 1:
+                print(f"    [WARN] Metadata retry {attempt+1}: {e}")
+                time.sleep(3)
+            else:
+                print(f"    [WARN] Metadata fetch failed: {e}")
     return {"view_count": 0, "duration": 0, "duration_string": ""}
 
 
 def download_subtitles(video_url: str) -> tuple:
     """Download auto-generated English subtitles using yt-dlp.
     Returns (transcript_text, has_captions).
+    Tries multiple methods: auto-subs, manual subs, and different player clients.
     """
-    with tempfile.TemporaryDirectory() as tmpdir:
-        try:
-            result = subprocess.run(
-                [
-                    "yt-dlp",
-                    "--write-auto-subs",
-                    "--sub-lang", "en",
-                    "--skip-download",
-                    "--convert-subs", "vtt",
-                    "--output", f"{tmpdir}/%(id)s",
-                    "--no-warnings",
-                    video_url,
-                ],
-                capture_output=True, text=True, timeout=60,
-            )
+    methods = [
+        # Method 1: Auto-subs with web client
+        ["yt-dlp", "--write-auto-subs", "--sub-lang", "en",
+         "--skip-download", "--convert-subs", "vtt",
+         "--extractor-args", "youtube:player_client=web",
+         "--no-check-certificate", "--no-warnings"],
+        # Method 2: Auto-subs with android client
+        ["yt-dlp", "--write-auto-subs", "--sub-lang", "en",
+         "--skip-download", "--convert-subs", "vtt",
+         "--extractor-args", "youtube:player_client=android",
+         "--no-check-certificate", "--no-warnings"],
+        # Method 3: All subs (manual + auto)
+        ["yt-dlp", "--write-subs", "--write-auto-subs", "--sub-lang", "en",
+         "--skip-download", "--convert-subs", "vtt",
+         "--extractor-args", "youtube:player_client=web",
+         "--no-check-certificate", "--no-warnings"],
+    ]
 
-            # Look for VTT subtitle file
-            for fname in os.listdir(tmpdir):
-                if fname.endswith(".en.vtt"):
+    for method_idx, base_args in enumerate(methods):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            try:
+                args = base_args + ["--output", f"{tmpdir}/%(id)s", video_url]
+                result = subprocess.run(
+                    args,
+                    capture_output=True, text=True, timeout=90,
+                )
+
+                # Check for VTT subtitle files
+                vtt_files = [f for f in os.listdir(tmpdir) if f.endswith(".en.vtt")]
+                for fname in vtt_files:
                     filepath = os.path.join(tmpdir, fname)
                     text = parse_vtt(filepath)
-                    if text.strip():
+                    if text.strip() and len(text) > 100:
                         return text.strip(), True
-        except subprocess.TimeoutExpired:
-            print(f"    [WARN] Subtitle download timed out")
-        except Exception as e:
-            print(f"    [WARN] Subtitle download failed: {e}")
+
+                # Also check .srt files
+                srt_files = [f for f in os.listdir(tmpdir) if f.endswith(".en.srt")]
+                for fname in srt_files:
+                    filepath = os.path.join(tmpdir, fname)
+                    text = parse_srt(filepath)
+                    if text.strip() and len(text) > 100:
+                        return text.strip(), True
+
+                if method_idx < len(methods) - 1:
+                    time.sleep(1)
+
+            except subprocess.TimeoutExpired:
+                continue
+            except Exception:
+                continue
 
     return "", False
+
+
+def parse_srt(filepath: str) -> str:
+    """Parse SRT subtitle file and extract plain text."""
+    lines = []
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read()
+        import re
+        # Remove SRT timing and index lines
+        for line in content.split("\n"):
+            line = line.strip()
+            if not line or "-->" in line or line.isdigit():
+                continue
+            # Remove HTML-like tags
+            line = re.sub(r'<[^>]+>', '', line)
+            if line:
+                lines.append(line)
+        return " ".join(lines)
+    except Exception:
+        return ""
 
 
 def parse_vtt(filepath: str) -> str:

@@ -138,7 +138,7 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-13T13:36:08.224136+00:00",
-    "analyzed": true,
+    "analyzed": false,
     "analysis": {
       "summary": "No transcript available",
       "topics": [
@@ -147,7 +147,8 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-05-13T13:36:08.612233+00:00"
-    }
+    },
+    "no_subtitle_count": 1
   },
   {
     "video_id": "-Bp2Sz5xir4",
