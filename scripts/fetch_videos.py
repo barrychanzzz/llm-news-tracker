@@ -329,6 +329,32 @@ def main():
                   f"Captions: {'Yes' if has_captions else 'No'}, "
                   f"Transcript: {len(transcript)} chars")
 
+    # Retry subtitles for existing videos without transcripts
+    retry_count = 0
+    print(f"\n[Retry] Checking existing videos without subtitles...")
+    for v in existing_videos:
+        if v.get("raw_transcript"):
+            continue  # Already has subtitles
+        if v.get("subtitle_retries", 0) >= 3:
+            continue  # Give up after 3 attempts
+
+        vid_id = v["video_id"]
+        v["subtitle_retries"] = v.get("subtitle_retries", 0) + 1
+        print(f"  Retrying [{v['subtitle_retries']}/3]: {v['title'][:60]}...")
+
+        transcript, has_captions = download_subtitles_api(vid_id)
+        if not has_captions:
+            transcript, has_captions = download_subtitles_ytdlp(v["url"])
+
+        if has_captions:
+            v["raw_transcript"] = transcript
+            v["has_captions"] = True
+            v["fetched_at"] = datetime.now(timezone.utc).isoformat()
+            retry_count += 1
+            print(f"    ✅ Got {len(transcript)} chars")
+        else:
+            print(f"    ❌ Still no subtitles")
+
     # Clean old videos
     existing_videos = clean_old_videos(existing_videos)
 
@@ -337,7 +363,8 @@ def main():
 
     save_json(VIDEOS_FILE, existing_videos)
     print(f"\n{'=' * 60}")
-    print(f"DONE: {total_new} new videos ({total_subtitles} with subtitles)")
+    print(f"DONE: {total_new} new videos ({total_subtitles} with subtitles), "
+          f"{retry_count} retried successfully")
     print(f"Total videos in DB: {len(existing_videos)}")
     print(f"Data saved to: {VIDEOS_FILE}")
 
