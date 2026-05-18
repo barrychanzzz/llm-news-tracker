@@ -1,7 +1,7 @@
 """
 LLM News Tracker — Video Fetcher
 Fetches new videos from monitored channels via RSS,
-downloads auto-generated subtitles via yt-dlp.
+downloads subtitles via YouTube Transcript API (primary) and yt-dlp (fallback).
 """
 import json
 import subprocess
@@ -106,10 +106,31 @@ def get_video_metadata(video_url: str, retries: int = 3) -> dict:
     return {"view_count": 0, "duration": 0, "duration_string": ""}
 
 
-def download_subtitles(video_url: str) -> tuple:
-    """Download auto-generated English subtitles using yt-dlp.
+def download_subtitles_api(video_id: str) -> tuple:
+    """Download English transcript using YouTube Transcript API (primary method).
+    This is more reliable than yt-dlp and works even when yt-dlp is blocked.
     Returns (transcript_text, has_captions).
-    Tries multiple methods: auto-subs, manual subs, and different player clients.
+    """
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+        api = YouTubeTranscriptApi()
+        transcript = api.fetch(video_id, languages=('en',))
+        segments = [s for s in transcript]
+        text = ' '.join(s.text for s in segments).strip()
+        if text and len(text) > 50:
+            return text, True
+    except Exception as e:
+        stderr_preview = str(e)[:80]
+        if 'TranscriptsDisabled' in str(e) or 'NoTranscriptFound' in str(e):
+            print(f"    [INFO] No transcript via API: {stderr_preview}")
+        else:
+            print(f"    [WARN] Transcript API failed: {stderr_preview}")
+    return "", False
+
+
+def download_subtitles_ytdlp(video_url: str) -> tuple:
+    """Download subtitles via yt-dlp (fallback method).
+    Returns (transcript_text, has_captions).
     """
     methods = [
         # Method 1: Auto-subs with web client
@@ -275,9 +296,12 @@ def main():
             # Get metadata
             meta = get_video_metadata(vid["url"])
 
-            # Download subtitles
+            # Download subtitles — try YouTube Transcript API first, then yt-dlp
             print(f"    Downloading subtitles...")
-            transcript, has_captions = download_subtitles(vid["url"])
+            transcript, has_captions = download_subtitles_api(vid_id)
+            if not has_captions:
+                print(f"    API failed, trying yt-dlp...")
+                transcript, has_captions = download_subtitles_ytdlp(vid["url"])
 
             entry = {
                 "video_id": vid_id,
