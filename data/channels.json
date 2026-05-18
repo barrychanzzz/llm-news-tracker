@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-05-18T18:07:47.460485+00:00"
+    "updated_at": "2026-05-18T18:31:37.060805+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "该频道深入分析大语言模型（LLM）的前沿进展，侧重于最新模型的基准性能评估、技术细节，并探讨其领域特异性、计算资源与成本效益的权衡，以及由模型发布引发的争议。它通过对比不同模型在编码、幻觉等方面的表现，为希望全面了解LLM技术趋势、模型优劣及实际应用考量的开发者、研究员或高级爱好者提供了宝贵的洞察。",
+    "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-05-18T18:07:47.505210+00:00"
+    "updated_at": "2026-05-18T18:31:37.106236+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-05-18T18:07:47.549965+00:00"
+    "updated_at": "2026-05-18T18:31:37.224050+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,18 +41,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-05-18T18:07:47.625966+00:00"
+    "updated_at": "2026-05-18T18:31:37.310423+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "AI Jason频道主要聚焦于大语言模型（LLM）的智能体（Agent）开发与工具使用，辅以提示工程和推理能力探讨。它深度解析最新的技术范式（如OpenAI Symphony、自进化Agent）和具体项目，着重解决构建自主AI系统时的实际开发挑战。对于关注LLM智能体前沿、自动化编程以及AI系统构建的开发者和研究人员，此频道提供了宝贵的实践洞察。",
+    "content_focus": "主要关注Agent相关内容",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-05-18T18:07:47.671646+00:00"
+    "updated_at": "2026-05-18T18:31:37.423510+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -63,7 +63,7 @@
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-05-18T18:07:47.717448+00:00"
+    "updated_at": "2026-05-18T18:31:37.466801+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -74,7 +74,7 @@
     "is_seed": true,
     "active_score": 5,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-05-18T18:07:47.764883+00:00"
+    "updated_at": "2026-05-18T18:31:37.509707+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -85,7 +85,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-05-18T18:07:47.827976+00:00"
+    "updated_at": "2026-05-18T18:31:37.557948+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
@@ -96,6 +96,6 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-05-18T18:07:47.873036+00:00"
+    "updated_at": "2026-05-18T18:31:37.668000+00:00"
   }
 ]
