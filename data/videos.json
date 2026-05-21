@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "HPiFoofbKr0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Google I/O 2026 Breakdown - What you Missed",
+    "url": "https://www.youtube.com/watch?v=HPiFoofbKr0",
+    "published_at": "2026-05-21T12:45:01+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Checkout OutSkills for their first Claude-Athon: https://links.outskill.com/PROEN\n\nI sat down with Sam Witteveen at Google I/O 2026 to break down \neverything that shipped and the bigger industry trend hiding \nunderneath it. Sam plants a flag early: the era of \"bigger models\" \nis ending, and products are now where the action is. We go through \nGemini 3.5 Flash, Gemini Spark, Antigravity 2.0, ADK, Gemma 4, and \nthe trend most people are missing; the rise of RL environments and \nharness engineering",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-21T15:24:51.514134+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "o_av1b9rs2g",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Two Rival Bets on AGI: Google I/O Highlights",
+    "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+    "published_at": "2026-05-20T16:50:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "The biggest Google AI push of the year, but what is the bigger story? Why is Google pursuing a different fork in the road than OpenAI or Anthropic? \n\nhttps://assemblyai.com/aiexplained\n\nWhat does Gemini 3.5 Flash mean for the near-term future of AI? Plus the highlights from a provocative new paper on AI, 8 key moments you may have missed, and the signal from 5+ hours of AI lab interviews.\n\n\n\nCheck out my free app, code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://ww",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-21T15:24:35.029276+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "mkMTYov26To",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-20T15:20:52.389559+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-21T15:25:32.966206+00:00"
+    }
   },
   {
     "video_id": "AREWYbVtX64",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-20T15:20:37.611951+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-21T15:25:32.966218+00:00"
+    }
   },
   {
     "video_id": "qwEmvqPkdes",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-20T15:20:06.738802+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-21T15:25:32.966221+00:00"
+    }
   },
   {
     "video_id": "v1xqYZ3s23s",
@@ -67,9 +130,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-20T15:20:22.312376+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-21T15:25:32.966223+00:00"
+    }
   },
   {
     "video_id": "-Bc_VeH3kQ4",
