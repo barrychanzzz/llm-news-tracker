@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "ZLx88uFDj9Q",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "The EASIEST Way to Build Voice Agents",
+    "url": "https://www.youtube.com/watch?v=ZLx88uFDj9Q",
+    "published_at": "2026-05-22T16:16:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "I built an AI twin of myself — it sounds like me, knows what I know \nabout RAG, and can book meetings on my calendar. Talking to it was \ngenuinely kind of scary. Here's how I built it in ElevenLabs' new \nElevenAgents platform, walked through step by step.\n\n🎁 2 months of ElevenLabs Creator tier free: https://elevenlabs.io/?coupon=INFLUENCER-917340C2\n\nThanks to Elevanlabs for sponsoring this video.\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttp",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-23T02:53:32.593928+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "LpXhy2iiaQE",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-22T14:38:43.367104+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "HPiFoofbKr0",
