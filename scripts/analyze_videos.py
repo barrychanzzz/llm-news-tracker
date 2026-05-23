@@ -123,10 +123,13 @@ def main():
         print("No videos found. Run fetch_videos.py first.")
         return
 
-    # Find videos that need analysis
+    # Find videos that need analysis (including fallback rule-based ones)
     to_analyze = [
         v for v in videos
-        if v.get("raw_transcript") and not v.get("analyzed", False)
+        if v.get("raw_transcript") and (
+            not v.get("analyzed", False) or
+            v.get("analysis", {}).get("_fallback", False)
+        )
     ]
     # Also include videos without transcripts (mark as no-analysis)
     no_transcript = [
