@@ -161,14 +161,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Machine Learning Street Talk关于Other的视频内容",
+      "summary": "迈克尔·I·乔丹教授批判当前AI领域的拟人化倾向、AGI炒作及其对年轻研究者的消极影响。他认为AI研究缺乏深刻的经济学和社会系统思维，应将AI视为服务亿万人的集体经济生态系统一部分。他强调构建可预测、可信赖的系统，而非追求机器“理解”或“智能”，并倡导AI创造人类价值和机会，而非简单取代。",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark",
+        "Industry Application",
+        "Reasoning"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael I. Jordan",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-05-23T17:07:30.461533+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T13:25:16.855520+00:00"
     }
   },
   {
@@ -189,14 +190,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Other的视频内容",
+      "summary": "本视频深入分析谷歌Gemini Omni模型，强调其“任意输入、任意输出”的多模态视频生成与编辑能力。演示了精细控制、角色一致性、定向编辑、世界知识应用及文本/代码渲染等功能。探讨了当前限制（如视频时长、音频漂移、迭代编辑伪影）及安全护栏。预测其未来将支持更多模态输入。",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Prompt Engineering",
+        "Safety & Alignment"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461544+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T13:25:39.689970+00:00"
     }
   },
   {
@@ -217,14 +219,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Other的视频内容",
+      "summary": "Google发布了Gemini 1.5 Flash (又称3.5 Flash)，可用于生产环境，旨在成为代理工作流的核心模型。视频通过多项复杂测试（如气流模拟、3D动画、代码生成、网站构建、推理任务）评估其性能，并与Gemini 3 Flash Preview和3.1 Pro Preview进行比较",
       "topics": [
-        "Other"
+        "Agent",
+        "Prompt Engineering",
+        "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461555+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T13:26:01.633353+00:00"
     }
   },
   {
@@ -243,14 +246,14 @@
     "fetched_at": "2026-05-18T15:31:42.553247+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Evaluation & Benchmark的视频内容",
+      "summary": "视频探讨LLM代理调用CLI与MCP的选择，认为两者并非架构竞争而是封装互补。CLI适用于开发者实验和调试，MCP适用于生产环境中代理的工具调用，提供schema验证、鉴权和可发现性。视频以Bright Data为例，演示如何结合使用CLI进行开发，再通过MCP将相同工具集成到代理，并提及“技能”这",
       "topics": [
-        "Evaluation & Benchmark"
+        "Agent",
+        "Tool Use"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461566+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T13:26:21.546183+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
@@ -271,14 +274,15 @@
     "fetched_at": "2026-05-17T13:19:15.237673+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Agent的视频内容",
+      "summary": "视频介绍MiniMax Mavis多智能体系统，解决LLM编码智能体的偏见和串行问题。它采用独立验证器模式，确保代码审查的公正性；支持任务并行化以提高效率；并拥有分层记忆功能。演示了其在市场研究中的应用，强调了独立验证和并行处理的重要性。",
       "topics": [
-        "Agent"
+        "Agent",
+        "Tool Use",
+        "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461578+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T13:26:43.796669+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
@@ -328,15 +332,15 @@
     "fetched_at": "2026-05-14T14:10:11.029634+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于RAG、Agent的视频内容",
+      "summary": "该视频展示了一个为Claude智能体设计的先进多层记忆系统，用于从包含文本、表格和图像的复杂文档中检索信息。该系统结合了Milvus向量数据库进行语义搜索、Llama Index的Light Parser进行文档解析（包括图像截图），并赋予智能体文件系统工具，使其能进行复杂的规划、推理和回溯，以处理",
       "topics": [
         "RAG",
-        "Agent"
+        "Agent",
+        "Tool Use"
       ],
       "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461601+00:00",
-      "_fallback": true
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-05-24T13:27:06.108808+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
@@ -357,14 +361,15 @@
     "fetched_at": "2026-05-14T14:10:08.738309+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Two Minute Papers关于Other的视频内容",
+      "summary": "视频介绍NVIDIA推出一个300亿参数、开源免费的多模态AI模型，支持图像、视频和音频。其核心优势是极高的吞吐量和成本效率，视频处理速度比实时快10倍。通过线性上下文扩展、高效音频处理、3D卷积、精炼CLIP模型及智能视频采样实现。虽非文本推理最强，但在快速、低成本多模态处理方面表现卓越，强调开源",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Inference Optimization",
+        "Model Architecture"
       ],
-      "speaker": "Dr. Karoly Zsolnai-Feher",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-23T17:07:30.461611+00:00",
-      "_fallback": true
+      "speaker": "Dr. Károly Zsolnai-Fehér",
+      "technical_level": "Intermediate",
+      "analyzed_at": "2026-05-24T13:27:26.970025+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
@@ -385,14 +390,15 @@
     "fetched_at": "2026-05-13T13:36:08.224136+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Model Architecture的视频内容",
+      "summary": "该视频深入探讨Thinking Machines的交互模型架构，核心创新在于“时间标记化”（200毫秒分块），实现实时、全双工多模态交互。它区别于GPT-4o，采用统一的时间感知模型，结合快速交互模型与异步后台模型，并重构推理基础设施。演示了状态管理、多模态互动和时间感知能力，并提供了初步基准，强调",
       "topics": [
-        "Model Architecture"
+        "Model Architecture",
+        "Multimodal",
+        "Inference Optimization"
       ],
       "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461623+00:00",
-      "_fallback": true
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-05-24T13:27:48.371385+00:00"
     },
     "no_subtitle_count": 0,
     "subtitle_retries": 0
