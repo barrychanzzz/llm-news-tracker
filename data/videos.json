@@ -17,15 +17,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Agent、Multimodal的视频内容",
+      "summary": "视频演示如何使用Eleven Labs平台轻松构建语音AI代理，无需代码。讲解了如何创建数字分身、克隆声音、集成RAG知识库（使用视频转录）、连接工具（如Calendly），以及多语言支持、预设模板、代理行为定制、工作流分支和性能监控等功能。旨在简化客户服务等对话代理的开发。",
       "topics": [
         "Agent",
-        "Multimodal"
+        "RAG",
+        "Tool Use"
       ],
-      "speaker": "Unknown",
+      "speaker": "Muhammad",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461118+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T03:32:24.331813+00:00"
     }
   },
   {
@@ -46,14 +46,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Two Minute Papers关于Other的视频内容",
+      "summary": "视频介绍DeepSeek的新AI技术，让AI能像人类一样“指点”视觉内容，大幅提升视觉任务（如计数、拓扑推理）的准确性和速度，同时减少90%视觉tokens。该免费开放研究通过策略蒸馏，让学生模型从专家教师学习，匹配甚至超越现有前沿模型表现。它提供AI思考过程的可解释性，是提升效率和理解力的突破，但",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Reasoning",
+        "Inference Optimization"
       ],
-      "speaker": "Dr. Karoly Zsolnai-Feher",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-23T17:07:30.461479+00:00",
-      "_fallback": true
+      "speaker": "Dr. Károly Zsolnai-Fehér",
+      "technical_level": "Intermediate",
+      "analyzed_at": "2026-05-24T03:32:45.757475+00:00"
     }
   },
   {
@@ -74,14 +75,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Other的视频内容",
+      "summary": "视频分析了Google I/O 2026大会，强调产品而非模型的重要性。重点讨论了个人智能代理Gemini Spark及其生态集成，模型定价趋高及算力稀缺问题。深入探讨了RL环境在模型训练中的关键作用、沙盒与托管代理的兴起，以及开源模型的发展趋势与挑战。最后提出前沿实验室正转向推理优化而非单纯扩大模",
       "topics": [
-        "Other"
+        "Agent",
+        "Inference Optimization",
+        "Open Source"
       ],
-      "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461494+00:00",
-      "_fallback": true
+      "speaker": "Muhammad",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-05-24T03:33:29.160951+00:00"
     }
   },
   {
@@ -102,14 +104,15 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] AI Explained关于Other的视频内容",
+      "summary": "该视频分析了Google I/O大会的亮点，包括谷歌将“足够好”的AI整合到搜索中的策略，并与OpenAI的聊天框策略进行对比。探讨了Gemini Omni在AGI之路上的作用，与OpenAI的Sora进行比较。还评估了Gemini 3.5 Flash的性能，以及LLM普遍存在的“锯齿状”智能（如模",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Agent",
+        "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461506+00:00",
-      "_fallback": true
+      "analyzed_at": "2026-05-24T03:33:51.361087+00:00"
     }
   },
   {
@@ -130,14 +133,14 @@
     "subtitle_retries": 0,
     "no_subtitle_count": 0,
     "analysis": {
-      "summary": "[规则分析] David Shapiro关于Other的视频内容",
+      "summary": "视频警告，在AI和自动化加速发展的背景下，人类正走向“技术封建主义”。由于AI将超越人类智能，大部分人可能沦为“冗余生物量”。讲者强调人权并非天赋，而是通过强制力量争取而来，并指出地缘战略竞争、资本主义和经济理性决策将加速这一趋势。自动化既带来希望也使人类结构性地变得无关紧要，呼吁关注后劳动世界的公",
       "topics": [
-        "Other"
+        "Industry Application",
+        "Safety & Alignment"
       ],
       "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461518+00:00",
-      "_fallback": true
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-05-24T03:34:29.907456+00:00"
     }
   },
   {
@@ -296,15 +299,15 @@
     "fetched_at": "2026-05-16T13:20:58.531925+00:00",
     "analyzed": true,
     "analysis": {
-      "summary": "[规则分析] Prompt Engineering关于Agent、Tool Use的视频内容",
+      "summary": "视频强调LLM代理性能的关键在于其“Harness”（即工具、上下文管理、错误处理和编排逻辑），而非模型本身。模型与工具格式匹配性、模型切换的弊端以及多代理系统中的可靠性挑战均需通过精心设计的Harness解决。Harness工程是LLM代理成功的核心，是新的竞争优势。",
       "topics": [
         "Agent",
-        "Tool Use"
+        "Tool Use",
+        "Prompt Engineering"
       ],
       "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-23T17:07:30.461590+00:00",
-      "_fallback": true
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-05-24T03:39:52.795173+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
