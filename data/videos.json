@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "PnEusTChQcE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Managed Agents: The Biggest Shift in AI Development Right Now",
+    "url": "https://www.youtube.com/watch?v=PnEusTChQcE",
+    "published_at": "2026-05-25T12:51:56+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to n8n for sponsoring this video: https://plug.dev.plug.dev/kY17OO2\n\nGoogle just shipped Managed Agents in the Gemini API as part of \nAntigravity 2.0 — six weeks after Anthropic launched their own \nversion. In this video, I walk through what Managed Agents actually \nare, the four places where the Anthropic and Google implementations \ndiverge, and the vendor-lock-in trap most teams underestimate. Plus \nthe Google Enterprise tier almost nobody is talking about.\n\n=== KEY LINKS ===\n\nAnthropic",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-25T14:53:00.714613+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ZLx88uFDj9Q",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
