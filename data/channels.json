@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-05-26T03:28:35.461275+00:00"
+    "updated_at": "2026-05-26T15:25:39.214054+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "该频道主要深入分析大型语言模型（LLM）的最新进展，包括新模型发布、基准测试表现和不同模型间的性能对比。它擅长从行业竞争、技术取舍和战略发展角度解读AI“算力战”与“AGI竞赛”，非常适合关注LLM前沿动态、模型评估及宏观行业趋势的AI从业者和爱好者。",
+    "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-05-26T03:28:35.579451+00:00"
+    "updated_at": "2026-05-26T15:25:39.598728+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-05-26T03:28:35.628549+00:00"
+    "updated_at": "2026-05-26T15:25:39.756583+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,18 +41,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-05-26T03:28:35.739771+00:00"
+    "updated_at": "2026-05-26T15:25:40.086037+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "AI Jason频道主要聚焦于LLM智能体（Agent）及其工具使用，尤其深入探讨AI编码代理的最新范式、自主智能体的进化与连续任务实现。它通过分析OpenAI Symphony等项目案例，为关注LLM智能体开发、自动化应用及前沿趋势的开发者和研究者提供了宝贵的实践洞察。",
+    "content_focus": "主要关注Agent相关内容",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-05-26T03:28:35.849188+00:00"
+    "updated_at": "2026-05-26T15:25:40.152603+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -61,9 +61,9 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
     "content_focus": "主要关注Inference Optimization相关内容",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 2,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-05-26T03:28:36.031475+00:00"
+    "updated_at": "2026-05-26T15:25:40.220774+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -72,9 +72,9 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
     "content_focus": "主要关注Agent相关内容",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 4,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-05-26T03:28:36.079909+00:00"
+    "updated_at": "2026-05-26T15:25:40.608244+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -83,19 +83,19 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
     "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-05-26T03:28:36.127505+00:00"
+    "updated_at": "2026-05-26T15:25:40.993798+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "name": "David Shapiro",
     "url": "https://www.youtube.com/@DaveShap",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
-    "content_focus": "主要关注Industry Application相关内容",
+    "content_focus": "David Shapiro频道主要聚焦大型语言模型的行业应用、安全与对齐，并以独特的产业视角，批判性地分析AI发展趋势及其经济、社会影响。它深入探讨AI基础设施、模型劣化等现实问题，并挑战传统评估方法，适合希望理解AI深层机制、宏观趋势，并寻求非学术性批判分析的观众。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-05-26T03:28:36.252081+00:00"
+    "updated_at": "2026-05-26T15:25:41.382828+00:00"
   }
 ]

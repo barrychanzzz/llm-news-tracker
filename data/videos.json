@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "huAwz_BR8WM",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+    "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+    "published_at": "2026-05-25T17:49:30+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thank you to Google DeepMind for the invite. 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Sta",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-26T15:26:03.673165+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "PnEusTChQcE",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-25T14:53:00.714613+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-26T15:26:18.470153+00:00"
+    }
   },
   {
     "video_id": "ZLx88uFDj9Q",
