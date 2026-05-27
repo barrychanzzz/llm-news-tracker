@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "HDMqDV7mmGo",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Prompt Caching: Cut Your AI Cost by 90%",
+    "url": "https://www.youtube.com/watch?v=HDMqDV7mmGo",
+    "published_at": "2026-05-27T12:45:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to Descope for sponsoring this video, checkout Agent Identify Hub: https://descope.plug.dev/BWwF1nd\n\nI break down why AI model prices are rising at most labs while DeepSeek cut V4 Pro pricing by 75%, and why prompt caching is the key. I explain the two phases of an LLM request (compute-bound prefill vs memory-bound decode), what the KV cache stores, and why reusing cached prefixes can cut cost and latency, citing the “Don’t Break the Cache” paper’s reported savings. I then cover how DeepS",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-27T15:40:32.476133+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "kIvvzCR5NjA",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-27T03:42:57.407353+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "huAwz_BR8WM",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-26T15:26:03.673165+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-05-27T15:41:08.552393+00:00"
+    }
   },
   {
     "video_id": "PnEusTChQcE",
