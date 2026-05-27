@@ -6,8 +6,8 @@
     "channel_b_name": "AI Explained",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道可能关注AI模型的底层原理与实现，B频道则专注于AI模型的性能评估与基准测试，两者内容互补。",
-    "generated_at": "2026-05-26T15:28:08.297467+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-05-27T03:45:07.615252+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -16,8 +16,8 @@
     "channel_b_name": "AI Jason",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Andrej Karpathy的频道预计将提供LLM的基础原理与工程视角，而AI Jason则深入探讨LLM代理的多种应用和管理范式，两者在内容上相互补充。",
-    "generated_at": "2026-05-26T15:28:30.291111+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-05-27T03:45:22.783814+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -26,8 +26,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Karpathy频道可能侧重于LLM的工程实现和底层原理教学，而Two Minute Papers则专注于最新研究论文的摘要和对AI前沿进展的批判性分析，两者为观众提供了互补的学习视角。",
-    "generated_at": "2026-05-26T15:28:50.634774+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-05-27T03:45:37.984447+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -37,7 +37,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:29:07.498958+00:00"
+    "generated_at": "2026-05-27T03:45:53.162030+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -47,7 +47,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:29:24.543810+00:00"
+    "generated_at": "2026-05-27T03:46:08.325400+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -56,8 +56,8 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Karpathy的频道预计聚焦AI/LLM的技术实现与工程挑战，而Shapiro则从产业视角批判性分析AI的发展趋势及其社会经济影响，两者互为补充。",
-    "generated_at": "2026-05-26T15:29:47.530782+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-05-27T03:46:23.550384+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -67,7 +67,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:30:03.223132+00:00"
+    "generated_at": "2026-05-27T03:46:38.712929+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -77,7 +77,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:30:19.385313+00:00"
+    "generated_at": "2026-05-27T03:46:53.878120+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -87,7 +87,7 @@
     "topic_overlap": 0.25,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:30:35.086233+00:00"
+    "generated_at": "2026-05-27T03:47:09.033978+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -96,8 +96,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.455,
     "relation_type": "complementary",
-    "description": "AI Explained侧重模型性能评估与基准测试分析，Two Minute Papers则聚焦推理优化技术及对基准测试的深层解读，两者互补。",
-    "generated_at": "2026-05-26T15:31:00.132415+00:00"
+    "description": "两者在45%的LLM主题上有重叠",
+    "generated_at": "2026-05-27T03:47:24.202680+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -106,8 +106,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.5,
     "relation_type": "complementary",
-    "description": "AI Explained 侧重于AI模型的性能评估与基准分析，Prompt Engineering 则关注基于LLM的Agent构建与实现，两者在LLM/AI领域形成互补。",
-    "generated_at": "2026-05-26T15:31:21.967053+00:00"
+    "description": "两者在50%的LLM主题上有重叠",
+    "generated_at": "2026-05-27T03:47:39.341332+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -117,7 +117,7 @@
     "topic_overlap": 0.429,
     "relation_type": "complementary",
     "description": "两者在43%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:31:38.377349+00:00"
+    "generated_at": "2026-05-27T03:47:54.499330+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -127,7 +127,7 @@
     "topic_overlap": 0.333,
     "relation_type": "complementary",
     "description": "两者在33%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:31:54.238755+00:00"
+    "generated_at": "2026-05-27T03:48:09.643343+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -137,7 +137,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:32:12.216151+00:00"
+    "generated_at": "2026-05-27T03:48:24.817951+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -147,7 +147,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:32:48.387078+00:00"
+    "generated_at": "2026-05-27T03:48:39.969780+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -156,8 +156,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Prompt Engineering频道专注于AI智能体的具体应用和工程实践，而Yannic Kilcher频道（尽管数据有限）预计将侧重于更广泛的AI理论、模型分析或研究解读，两者在LLM/AI领域形成不同侧重点的互补关系。",
-    "generated_at": "2026-05-26T15:33:10.053987+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-05-27T03:48:55.130568+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -167,7 +167,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:33:26.046711+00:00"
+    "generated_at": "2026-05-27T03:49:10.325363+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -177,7 +177,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:33:41.238012+00:00"
+    "generated_at": "2026-05-27T03:49:25.489875+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -187,7 +187,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:33:56.406334+00:00"
+    "generated_at": "2026-05-27T03:49:40.654411+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -197,7 +197,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:34:11.601330+00:00"
+    "generated_at": "2026-05-27T03:49:55.858794+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -207,7 +207,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:34:26.786367+00:00"
+    "generated_at": "2026-05-27T03:50:11.014566+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -217,7 +217,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:34:41.981830+00:00"
+    "generated_at": "2026-05-27T03:50:26.168046+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -227,7 +227,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:34:57.324412+00:00"
+    "generated_at": "2026-05-27T03:50:41.325737+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -237,7 +237,7 @@
     "topic_overlap": 0.167,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:35:12.512244+00:00"
+    "generated_at": "2026-05-27T03:50:56.482838+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -247,7 +247,7 @@
     "topic_overlap": 0.333,
     "relation_type": "complementary",
     "description": "两者在33%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:35:27.686772+00:00"
+    "generated_at": "2026-05-27T03:51:11.639041+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -257,7 +257,7 @@
     "topic_overlap": 0.143,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:35:42.862037+00:00"
+    "generated_at": "2026-05-27T03:51:26.789495+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -267,7 +267,7 @@
     "topic_overlap": 0.25,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:35:58.052356+00:00"
+    "generated_at": "2026-05-27T03:51:41.934292+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -277,7 +277,7 @@
     "topic_overlap": 0.571,
     "relation_type": "complementary",
     "description": "两者在57%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:36:13.216854+00:00"
+    "generated_at": "2026-05-27T03:51:57.093877+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -287,7 +287,7 @@
     "topic_overlap": 0.273,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-05-26T15:36:28.411519+00:00"
+    "generated_at": "2026-05-27T03:52:12.266296+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -297,7 +297,7 @@
     "topic_overlap": 0.333,
     "relation_type": "complementary",
     "description": "两者在33%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:36:43.641288+00:00"
+    "generated_at": "2026-05-27T03:52:27.419186+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -307,7 +307,7 @@
     "topic_overlap": 0.333,
     "relation_type": "complementary",
     "description": "两者在33%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:36:58.824862+00:00"
+    "generated_at": "2026-05-27T03:52:42.580031+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -317,7 +317,7 @@
     "topic_overlap": 0.5,
     "relation_type": "complementary",
     "description": "两者在50%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:37:14.007302+00:00"
+    "generated_at": "2026-05-27T03:52:57.745345+00:00"
   },
   {
     "channel_a_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -327,6 +327,6 @@
     "topic_overlap": 0.429,
     "relation_type": "complementary",
     "description": "两者在43%的LLM主题上有重叠",
-    "generated_at": "2026-05-26T15:37:29.191134+00:00"
+    "generated_at": "2026-05-27T03:53:12.937034+00:00"
   }
 ]

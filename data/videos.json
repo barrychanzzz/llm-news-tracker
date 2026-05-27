@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "kIvvzCR5NjA",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Google DeepMind CEO Likes Hard Questions",
+    "url": "https://www.youtube.com/shorts/kIvvzCR5NjA",
+    "published_at": "2026-05-26T17:35:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-27T03:42:57.407353+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "huAwz_BR8WM",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-26T15:26:03.673165+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "PnEusTChQcE",
