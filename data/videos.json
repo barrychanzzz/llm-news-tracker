@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "NbhNlpRsofY",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Opus 4.8: Here is Everything that Changed",
+    "url": "https://www.youtube.com/watch?v=NbhNlpRsofY",
+    "published_at": "2026-05-28T19:04:41+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Checkout the AI Learning paths:  https://jb.gg/academy/aws-ai-paths  \n\nIn this video I break down Anthropic’s Claude Opus 4.8 release, which they frame as an incremental upgrade over 4.7 but optimized for long-running tasks. I walk through the key new features: dynamic workflows that can spawn hundreds of parallel sub-agents for verifiable work like large code migrations, the return of manual effort control (low to max) replacing adaptive thinking, and a Messages API update that lets developers ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-29T03:32:18.419375+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "HDMqDV7mmGo",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
