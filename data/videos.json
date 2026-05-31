@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "Y6kz0eUxbaE",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "The last 300 days of work? (No, but...)",
+    "url": "https://www.youtube.com/watch?v=Y6kz0eUxbaE",
+    "published_at": "2026-05-31T13:07:59+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-31T13:44:31.813973+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "WnmVGVOPtrA",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Anthropic's Dynamic Workflows: What Everyone Gets Wrong!",
+    "url": "https://www.youtube.com/watch?v=WnmVGVOPtrA",
+    "published_at": "2026-05-31T12:45:25+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Dynamic Workflows Explained: When to Use Them (and Avoid Burning Tokens)\n\nIn this video I break down what “dynamic workflows” actually are and clear up common confusion, then compare them to single-agent setups, sub-agents, and agent teams by focusing on where the plan lives. I explain how dynamic workflows move the plan into versionable code (a script) and use primitives like agent/parallel/pipeline, plus an implement–adversarial verify–fix loop that requires an objective oracle like a strong t",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-05-31T13:44:15.365326+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "TpyS50ifmX4",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-31T03:44:18.693659+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "aJvP3nXWkwM",
