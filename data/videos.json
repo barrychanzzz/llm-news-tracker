@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "vsKH3oPwss4",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+    "url": "https://www.youtube.com/shorts/vsKH3oPwss4",
+    "published_at": "2026-06-01T00:16:21+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Check the pinned comment for the link to the full interview. In this quick clip, we explore which legendary scientist ranks higher among the experts. It's a fun debate that leads into an even bigger discussion about AI's role in future scientific breakthroughs. You won't want to miss the full deep dive with Demis Hassabis! ⚡️",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-01T03:59:30.847783+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Y6kz0eUxbaE",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-31T13:44:31.813973+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "WnmVGVOPtrA",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-05-31T13:44:15.365326+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "TpyS50ifmX4",
@@ -49,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-05-31T03:44:18.693659+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-01T04:00:01.189807+00:00"
+    }
   },
   {
     "video_id": "aJvP3nXWkwM",
