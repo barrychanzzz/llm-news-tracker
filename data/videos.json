@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "ikH1--DSzMs",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "How to build proactive agents & self-improving company (Fully explained)",
+    "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
+    "published_at": "2026-06-02T12:17:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Free AEO Grader for your company: https://clickhubspot.com/6537aa\n\n🔗 Links\n- Join AI Builder Club: https://www.aibuilderclub.com/\n- Loopany: https://github.com/superdesigndev/loopany\n- Follow me on twitter: https://twitter.com/jasonzhou1993\n\n⏱️ Timestamps\n0:00 What is it\n2:33 How to build proactive AI loops\n5:25 Use case: Autonomous ads optimisation & SEO\n6:59 Loopany, Memory and tools enabling this",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-02T16:24:15.987721+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "MOviZKtFeHM",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+    "url": "https://www.youtube.com/shorts/MOviZKtFeHM",
+    "published_at": "2026-06-02T07:13:59+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million researchers already using AlphaFold, the real-world impact is already historic. Hear what the experts think about what comes next for scientific discovery! 🔬",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-02T16:24:32.386546+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "yz6I23VRbdg",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-01T17:38:37.101965+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-02T16:24:54.282089+00:00"
+    }
   },
   {
     "video_id": "vsKH3oPwss4",
