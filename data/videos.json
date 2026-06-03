@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "ypL7kUiw_LM",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Claude Opus 4.8: Lying Machine No More?",
+    "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
+    "published_at": "2026-06-03T13:49:31+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nAnthropic's Opus 4.8: https://www.anthropic.com/news/claude-opus-4-8\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagen",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-03T16:48:10.899786+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "l5rae4LMKBc",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Can Now Build Its Own Harness... For Every Task",
+    "url": "https://www.youtube.com/watch?v=l5rae4LMKBc",
+    "published_at": "2026-06-03T12:45:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In this video I explain why using one coding harness (like Claude Code/Codex) for all knowledge work breaks down as the context window fills, leading to agentic laziness, self-preferential bias, and goal drift. I show how dynamic workflows solve this by splitting work into clean contexts via a JavaScript workflow that can spawn agents, run them in parallel, and use pipelines, choose models, resume after interruption, and optionally isolate work trees.\n\nAnthropic Blogpost: https://claude.com/blog",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-03T16:48:26.853920+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "35f5MDHJq10",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Microsoft and Uber slam on the brakes of AI",
+    "url": "https://www.youtube.com/watch?v=35f5MDHJq10",
+    "published_at": "2026-06-03T11:49:02+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-03T16:48:43.682286+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ikH1--DSzMs",
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "channel_name": "AI Jason",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-02T16:24:15.987721+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-03T16:49:18.407811+00:00"
+    }
   },
   {
     "video_id": "MOviZKtFeHM",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-02T16:24:32.386546+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-03T16:49:18.407833+00:00"
+    }
   },
   {
     "video_id": "yz6I23VRbdg",
