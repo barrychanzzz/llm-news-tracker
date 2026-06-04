@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "_sCme6IKOAM",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Nemotron 3 Ultra: Is NVIDIA a Model Company Now?",
+    "url": "https://www.youtube.com/watch?v=_sCme6IKOAM",
+    "published_at": "2026-06-04T13:15:02+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "NVIDIA just released Nemotron 3 Ultra, a 550B mixture-of-experts model built on a hybrid Transformer-Mamba architecture, and it's a clear sign of how far NVIDIA has moved beyond being just a hardware company. In this video I break down what the model is actually good at and where it still lags, the other open-weight models NVIDIA is shipping across speech, retrieval, robotics, and world models, and the business logic behind giving it all away for free. I'll also walk through how to access Nemotr",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-04T15:00:05.108280+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "iz7elwbqZVI",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+    "url": "https://www.youtube.com/shorts/iz7elwbqZVI",
+    "published_at": "2026-06-03T17:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-04T14:59:49.798605+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ypL7kUiw_LM",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-03T16:48:10.899786+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-04T15:00:43.453824+00:00"
+    }
   },
   {
     "video_id": "l5rae4LMKBc",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-03T16:48:26.853920+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-04T15:00:43.453845+00:00"
+    }
   },
   {
     "video_id": "35f5MDHJq10",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-03T16:48:43.682286+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-04T15:00:43.453848+00:00"
+    }
   },
   {
     "video_id": "ikH1--DSzMs",
