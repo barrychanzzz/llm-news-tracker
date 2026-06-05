@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "-wQ8TM8CD3c",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Bernie's plan sucks, actually",
+    "url": "https://www.youtube.com/watch?v=-wQ8TM8CD3c",
+    "published_at": "2026-06-05T11:56:20+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-05T14:49:52.029428+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "_sCme6IKOAM",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-04T15:00:05.108280+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-05T14:50:12.985936+00:00"
+    }
   },
   {
     "video_id": "iz7elwbqZVI",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-04T14:59:49.798605+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-05T14:50:12.985953+00:00"
+    }
   },
   {
     "video_id": "ypL7kUiw_LM",
