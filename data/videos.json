@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "AoiGZl1Pc-E",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude is Building Itself...",
+    "url": "https://www.youtube.com/watch?v=AoiGZl1Pc-E",
+    "published_at": "2026-06-06T13:00:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In this episode, I break down Anthropic’s research on recursive self-improvement—AI systems that can design and train the next generation with less human help—and why the key battleground is “taste” (choosing goals and next steps). I compare this to evolutionary algorithms and newer examples like DeepMind’s AlphaEvolve, Sakana’s Darwin Gödel Machine, and Karpathy’s AutoResearch, then cover METR Task Horizon and how task length has been doubling. I go through Anthropic’s internal results (Claude ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-06T13:41:54.798502+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "82m7YqosdgU",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+    "url": "https://www.youtube.com/shorts/82m7YqosdgU",
+    "published_at": "2026-06-06T06:20:46+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested inside immersive game environments to change how we play. 🧠 \nHashtags: #aiingames #gaming #ai #gamedev #futuretech",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-06T13:41:38.260652+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Dkqzqw8rxXI",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-06T03:24:47.322566+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "-wQ8TM8CD3c",
@@ -31,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-05T14:49:52.029428+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-06T13:42:23.665074+00:00"
+    }
   },
   {
     "video_id": "_sCme6IKOAM",
