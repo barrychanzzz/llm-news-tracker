@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "Dkqzqw8rxXI",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepMind’s New AI Found A Strange New Way To Think",
+    "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+    "published_at": "2026-06-05T15:50:26+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Rya",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-06T03:24:47.322566+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "-wQ8TM8CD3c",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-05T14:49:52.029428+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "_sCme6IKOAM",
