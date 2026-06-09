@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "7BrxIBkX3mg",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Why Everyone is Talking About Agentic Loops?",
+    "url": "https://www.youtube.com/watch?v=7BrxIBkX3mg",
+    "published_at": "2026-06-09T13:00:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In this video, I break down what an agentic “loop” actually is, why it’s trending on X, and how it shifts prompting from step-by-step human guidance to an orchestrated system that runs until a stopping condition is met. I compare modern loops to older ideas like while loops, ReAct (2022), and AutoGPT (2023), and explain why loops are more than “just a cron job” because they include a decision-maker that reads state, acts, verifies, and repeats. I show what a serious loop needs—worktrees, reusabl",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-09T14:50:10.286681+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "XjIU6tv7ipw",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
