@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "KwQXyyVl2cM",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Fable is Live...and its WILD!",
+    "url": "https://www.youtube.com/watch?v=KwQXyyVl2cM",
+    "published_at": "2026-06-09T18:31:11+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Anthropic just released Fable 5 and Mythos 5, a new class of models that marks a seismic shift in AI. In this video, we dive into the Frontier Code Benchmarks, new safety classifiers, and why this represents the start of the 'Responsibility Era' for LLMs.\n\nhttps://www.anthropic.com/news/claude-fable-5-mythos-5\nhttps://x.com/cursor_ai/status/2064394824313376787/photo/1\nhttps://developers.openai.com/api/docs/pricing\nhttps://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nMy voi",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-10T15:33:48.288472+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "7BrxIBkX3mg",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-09T14:50:10.286681+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-10T15:34:02.881230+00:00"
+    }
   },
   {
     "video_id": "XjIU6tv7ipw",
