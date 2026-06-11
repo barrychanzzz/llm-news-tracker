@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "VJn37REPTPM",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "This is my next big work",
+    "url": "https://www.youtube.com/watch?v=VJn37REPTPM",
+    "published_at": "2026-06-11T12:42:55+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-11T16:00:22.492039+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "I2-_3ieJelE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Diffusion Gemma: The First Diffusion Model that \"Thinks\"",
+    "url": "https://www.youtube.com/watch?v=I2-_3ieJelE",
+    "published_at": "2026-06-11T12:32:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Google’s Diffusion Gemma, its first open-weight diffusion-based language model released under Apache 2.0. I explain how diffusion decoding differs from autoregressive generation (parallel fixed-window generation that can revise earlier tokens), walk through the step mechanics (256-token patches, entropy/uncertainty locking with a budget, temperature cooling, early stopping), and why it becomes a hybrid: diffusion within blocks and autoregressive across blocks. I cover the MoE network details (26",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-11T16:00:05.045959+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "haK1KoQWm18",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Claude Fable 5 - Full 319 page Breakdown",
+    "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+    "published_at": "2026-06-10T18:43:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. \n\nhttps://assemblyai.com/aiexplained\n\nPlus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning.\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-11T15:59:48.163395+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "KwQXyyVl2cM",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-10T15:33:48.288472+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-11T16:00:50.841976+00:00"
+    }
   },
   {
     "video_id": "7BrxIBkX3mg",
