@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "bDaMHyEIoZo",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "They think FOOM is near",
+    "url": "https://www.youtube.com/watch?v=bDaMHyEIoZo",
+    "published_at": "2026-06-14T13:14:57+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "SOURCES\n\n1) https://www.anthropic.com/institute/recursive-self-improvement --- 8x coding improvement, 52x loop optimization with Fable/Mythos, 80% of code written by Claude\n\n2) https://darioamodei.com/post/policy-on-the-ai-exponential --- Dario's claim about extraordinary times and government being too slow\n\n3) https://darioamodei.com/essay/the-adolescence-of-technology --- Broader worldview about Dario's perception of existential risks.\n\n4) https://darioamodei.com/essay/machines-of-loving-grace",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-14T14:01:38.645157+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "KLQ5pEBLoAk",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
