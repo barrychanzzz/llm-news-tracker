@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "jc9PbKtKlvc",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "\"The window has closed\"",
+    "url": "https://www.youtube.com/watch?v=jc9PbKtKlvc",
+    "published_at": "2026-06-15T14:20:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "SOURCES:\n\nANDREW'S ARTICLE ---- https://x.com/AndrewCurran_/status/2066332670817456584\n\nSATYA'S ARTICLE ---- https://x.com/satyanadella/status/2066182223213293753",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-15T17:14:46.812331+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "141biWM1mlE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "The Meta-Harness: Why Every AI Developer Needs This",
+    "url": "https://www.youtube.com/watch?v=141biWM1mlE",
+    "published_at": "2026-06-15T13:00:23+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to Databricks for early access and making this video possible through their sponsorship. \n\nYou use Claude Code, Codex, and Pi separately — copying context between them because no agent can see the others. In this video I break down the meta-harness: a single layer that sits above every harness so all your agents share one session, one history, and one set of policies — and even review each other's code across vendors (Claude writes, Codex reviews). I walk through OmniGent, the Apache-2.0 ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-15T17:14:30.416041+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "zJvN8PDX1is",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-15T04:12:52.668441+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "Qj71N0tBzRo",
@@ -32,8 +68,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-15T04:12:36.149204+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "bDaMHyEIoZo",
@@ -49,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-14T14:01:38.645157+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-15T17:15:23.350199+00:00"
+    }
   },
   {
     "video_id": "KLQ5pEBLoAk",
