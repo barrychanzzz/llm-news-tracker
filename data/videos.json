@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "l72ufA-4SzE",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Claude AI Knows More Than It Tells You",
+    "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+    "published_at": "2026-06-16T15:53:17+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Rich",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-16T16:50:59.950035+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "jc9PbKtKlvc",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-15T17:14:46.812331+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-16T16:51:22.887962+00:00"
+    }
   },
   {
     "video_id": "141biWM1mlE",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-15T17:14:30.416041+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-16T16:51:22.887983+00:00"
+    }
   },
   {
     "video_id": "zJvN8PDX1is",
