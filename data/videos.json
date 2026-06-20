@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-19T15:14:45.064220+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-20T14:02:16.673337+00:00"
+    }
   },
   {
     "video_id": "oalFPYvsx9Y",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-19T15:15:02.634497+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-20T14:02:16.673348+00:00"
+    }
   },
   {
     "video_id": "W6x-hb44C0c",
