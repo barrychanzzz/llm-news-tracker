@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "DukEhXcrDz4",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "GLM 5.2: What Makes it So Special?",
+    "url": "https://www.youtube.com/watch?v=DukEhXcrDz4",
+    "published_at": "2026-06-21T13:00:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "GLM 5.2 Explained: 1M Context, MoE Efficiency, Sparse Attention & Cheap Inference\n\nIn this video, I break down GLM 5.2 and why it’s one of the most impressive open-weight releases so far, focusing on the architecture behind its low cost and strong coding performance. I cover its MIT-licensed 744B Mixture-of-Experts design with 384 experts (about 40B active per token), the 1M token context window, and how sparse attention with an “indexer” reduces attention cost. I explain “index share,” which re",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-21T14:09:54.627211+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "dUmT0OIGoqE",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
