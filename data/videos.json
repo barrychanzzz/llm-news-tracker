@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "e3gBwLWAerw",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "He won a Nobel here for AlphaFold. Then he left. - John Jumper",
+    "url": "https://www.youtube.com/watch?v=e3gBwLWAerw",
+    "published_at": "2026-06-22T22:43:36+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This episode is sponsored by Notion. Learn more about Notion's Developer Platform today at https://notion.com/mlst\n\nProtein folding stalled biology for fifty years. A sequence of amino acids dictates a three-dimensional shape, but reading that shape meant a year and roughly $100,000 of crystallography per structure. Then AlphaFold 2 won CASP14 so decisively the organizers called the problem essentially solved.\n\nIn this documentary cut, John Jumper, who shared the 2024 Nobel Prize in Chemistry an",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-23T14:47:13.969049+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "mGG-1ofCXuI",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Let's end wage slavery",
+    "url": "https://www.youtube.com/watch?v=mGG-1ofCXuI",
+    "published_at": "2026-06-22T17:15:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Full charter here: https://daveshap.substack.com/p/my-movement-is-taking-shape \n\nSubscribe to support my work:\nhttps://www.patreon.com/c/daveshap\nhttps://daveshap.substack.com/\nhttps://x.com/DaveShapi\nhttps://www.skool.com/postlaboreconomics",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-23T14:47:29.834201+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "mG4SmhWyeFA",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-22T16:55:47.905840+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-23T14:47:51.617556+00:00"
+    }
   },
   {
     "video_id": "DukEhXcrDz4",
