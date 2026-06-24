@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "1HkqTlXbQmQ",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "OpenClaw Creator's new secret project...",
+    "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
+    "published_at": "2026-06-24T12:04:26+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Github repo Skill for setup Crabbox & Codebase harness: https://github.com/AI-Builder-Club/skills\n\n🔗 Links\n- Join AI Builder Club for step-by-step walk through: https://www.aibuilderclub.com/lp/loop-engineer\n- Try Superdesign: http://superdesign.dev/\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-24T14:28:07.558057+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "e3gBwLWAerw",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-23T14:47:13.969049+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-24T14:28:28.869912+00:00"
+    }
   },
   {
     "video_id": "mGG-1ofCXuI",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-06-23T14:47:29.834201+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-06-24T14:28:28.869936+00:00"
+    }
   },
   {
     "video_id": "mG4SmhWyeFA",
