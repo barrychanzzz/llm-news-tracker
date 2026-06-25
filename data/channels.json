@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-06-24T14:27:42.751852+00:00"
+    "updated_at": "2026-06-25T03:28:44.729758+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "主要关注Evaluation & Benchmark相关内容",
+    "content_focus": "该频道主要聚焦大型语言模型（LLM）的最新发布、性能评估与基准测试，以及模型间的深入对比。其独特之处在于对新模型进行批判性分析，探讨其技术细节、性能优劣、成本权衡及对行业格局的战略影响，尤其是AGI竞赛的最新进展。对于希望全面了解LLM前沿技术、市场动态以及主要AI公司战略布局的专业人士和爱好者来说，该频道提供了宝贵的洞察。",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-06-24T14:27:42.807688+00:00"
+    "updated_at": "2026-06-25T03:28:44.805997+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-06-24T14:27:43.008655+00:00"
+    "updated_at": "2026-06-25T03:28:44.933639+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,7 +41,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-06-24T14:27:43.115522+00:00"
+    "updated_at": "2026-06-25T03:28:45.051354+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -50,20 +50,20 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
     "content_focus": "主要关注Agent相关内容",
     "is_seed": true,
-    "active_score": 2,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-06-24T14:27:43.258191+00:00"
+    "updated_at": "2026-06-25T03:28:45.192293+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "name": "Two Minute Papers",
     "url": "https://www.youtube.com/@TwoMinutePapers",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
-    "content_focus": "该频道主要聚焦大模型（LLM）的推理优化、模型架构及多模态等前沿技术，通过快速深入地解读最新研究论文，并常以批判性视角审视AI评估与安全挑战。它特别适合希望及时了解LLM领域技术突破、开源进展，并对AI伦理有深入思考的研究人员、开发者和技术爱好者。",
+    "content_focus": "主要关注Inference Optimization相关内容",
     "is_seed": true,
-    "active_score": 2,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-06-24T14:27:43.313205+00:00"
+    "updated_at": "2026-06-25T03:28:45.308707+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -72,9 +72,9 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
     "content_focus": "主要关注Agent相关内容",
     "is_seed": true,
-    "active_score": 3,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-06-24T14:27:43.459122+00:00"
+    "updated_at": "2026-06-25T03:28:45.533469+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -83,9 +83,9 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
     "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
-    "active_score": 1,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-06-24T14:27:43.624908+00:00"
+    "updated_at": "2026-06-25T03:28:45.653290+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
@@ -96,6 +96,6 @@
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-06-24T14:27:43.879357+00:00"
+    "updated_at": "2026-06-25T03:28:45.724141+00:00"
   }
 ]
