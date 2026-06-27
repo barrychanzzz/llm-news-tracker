@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "25j4kMGhKGw",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Ornith 1.0: This is new class of self-improving model",
+    "url": "https://www.youtube.com/watch?v=25j4kMGhKGw",
+    "published_at": "2026-06-27T13:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Ornith 1: Open-Weight Agentic Coding Models That Write Their Own Harnesses (and Beat Bigger Models)\n\nIn this video: I break down Ornith 1, a new family of open-weight models built for agentic coding that can outperform much larger models on benchmarks like Terminal Bench, with the 397B model nearing closed-source performance (Opus 4.8). The key idea isn’t just scores—it’s how Ornith is trained to generate both solution rollouts and a task-specific harness (memory, retries, error handling) in a s",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-06-27T13:41:32.695660+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "9WvFVAqtB5Y",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-27T02:59:15.927187+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "61dz7Fh0ozg",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-06-27T02:59:33.085309+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "1HkqTlXbQmQ",
