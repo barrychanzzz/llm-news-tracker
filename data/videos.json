@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "idp3wJCqNrU",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "China's Models No Longer Need Western Hardware",
+    "url": "https://www.youtube.com/watch?v=idp3wJCqNrU",
+    "published_at": "2026-07-02T12:45:35+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "LongCat 2.0: How Meituan Trained a 1.6T Model Without NVIDIA GPUs or TPUs\n\nIn this video, I break down how Meituan open sourced LongCat 2.0 (Owl Alpha on OpenRouter), a 1.6T-parameter MoE model trained without NVIDIA GPUs or Google TPUs, and why that matters for reducing reliance on NVIDIA’s hardware and CUDA software stack. I explain the core tradeoffs between parameters and compute, why simply adding more experts can hit diminishing returns, and how LongCat uses n-gram embeddings to increase c",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-02T13:58:45.054476+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "Vg6FBKTlfOw",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "ARC-AGI-3 Explained by the Team That's Winning It",
+    "url": "https://www.youtube.com/watch?v=Vg6FBKTlfOw",
+    "published_at": "2026-07-01T14:26:52+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Tim Scarfe travels to Zurich to sit down with the Tufa Labs ARC-AGI-3 team — founder Benjamin Crouzier, with Jeroen Cottaar, Dries Smit, Stefano Viel and Michal Tesnar — to work out what their leaderboard-topping system does and what the benchmark is really testing.\n\nThe cut opens on the games: a walkthrough of the Locksmith game, where you read the rules of an unfamiliar world straight from raw frames. ARC-AGI-3 makes ARC interactive and agentic, so the model has to *discover* the goal rather t",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-02T13:59:01.237682+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "C5gceI8Xkaw",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-01T14:34:23.898272+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-02T13:59:45.405375+00:00"
+    }
   },
   {
     "video_id": "qks6dGQFd_c",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-01T14:34:06.904631+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-02T13:59:45.405396+00:00"
+    }
   },
   {
     "video_id": "cqnHxVvyHns",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-01T14:34:41.324277+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-02T13:59:45.405399+00:00"
+    }
   },
   {
     "video_id": "QjtHosTfXiA",
@@ -67,9 +130,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-01T14:34:59.065291+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-02T13:59:45.405401+00:00"
+    }
   },
   {
     "video_id": "iWRmtPdFbGw",
