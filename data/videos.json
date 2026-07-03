@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "ju7R6jer6_M",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Design Agents That Run for Days!",
+    "url": "https://www.youtube.com/watch?v=ju7R6jer6_M",
+    "published_at": "2026-07-03T12:45:05+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "checkout latitude for agent observability: https://github.com/latitude-dev/latitude-llm\n\nIn this video I break down how to design long-running agents that can operate for hours or days without going off the rails. I cover the 7 core components: a clear, measurable goal (as a contract), a separate evaluator/judge, strict verifiers (deterministic checks plus stronger evaluations), an outer control loop to prevent early stopping and iterate on failures, orchestration across roles and models (planni",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-03T14:02:31.484622+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "y24lF1q4SFY",
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "channel_name": "AI Explained",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-03T02:52:43.347781+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "idp3wJCqNrU",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-02T13:58:45.054476+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-03T14:03:05.036358+00:00"
+    }
   },
   {
     "video_id": "Vg6FBKTlfOw",
@@ -49,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-02T13:59:01.237682+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-03T14:03:05.036369+00:00"
+    }
   },
   {
     "video_id": "C5gceI8Xkaw",
