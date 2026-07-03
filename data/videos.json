@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "y24lF1q4SFY",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+    "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+    "published_at": "2026-07-02T16:27:26+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more…\n\n\n\nExclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:06 - Fable Timeline\n02:59 - Sol Release?\n06:01 - the Chinese Angle\n07:35 - 5% Stake\n09:10 - Fable vs Sol - the numbers\n13:57 - Sol Misalignment\n15:27 - Claude Sonnet 5\n16:24 - GLM 5.2 + New Paper on Large Model Learning\n",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-03T02:52:43.347781+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "idp3wJCqNrU",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-02T13:58:45.054476+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "Vg6FBKTlfOw",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-02T13:59:01.237682+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "C5gceI8Xkaw",

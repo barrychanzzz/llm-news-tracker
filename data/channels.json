@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-07-02T13:58:20.902511+00:00"
+    "updated_at": "2026-07-03T02:52:20.105100+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "主要关注Evaluation & Benchmark相关内容",
+    "content_focus": "该频道专注于深度解析最新大型语言模型（LLM）的发布，侧重于模型性能评估、基准测试对比以及其在AI竞赛中的战略意义。它不仅探讨不同模型的优劣、争议与性能-成本权衡，还分析主要AI公司在AGI发展路径上的策略差异和领域特异性。对于希望洞悉LLM前沿进展、市场动态及行业巨头战略布局的开发者、研究人员及科技爱好者而言，该频道提供了宝贵的深度分析。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-07-02T13:58:20.960693+00:00"
+    "updated_at": "2026-07-03T02:52:20.151657+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-07-02T13:58:21.015751+00:00"
+    "updated_at": "2026-07-03T02:52:20.274317+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,18 +41,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-07-02T13:58:21.123384+00:00"
+    "updated_at": "2026-07-03T02:52:20.424607+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "主要关注Agent相关内容",
+    "content_focus": "AI Jason频道主要聚焦于大型语言模型（LLM）智能体（Agent）的开发与应用，深入探讨其架构、自主进化、任务协调与工具使用。其独特之处在于侧重前沿技术与实战案例，特别是AI智能体在编码自动化和复杂任务连续自主完成方面的新范式与具体项目分析。对于关注LLM智能体发展、AI编码范式变革及希望构建更自主化AI系统的开发者、工程师和研究人员，该频道提供了宝贵的洞察和实践指导。",
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-07-02T13:58:21.280074+00:00"
+    "updated_at": "2026-07-03T02:52:20.622938+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -63,29 +63,29 @@
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-07-02T13:58:21.336468+00:00"
+    "updated_at": "2026-07-03T02:52:20.667275+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "name": "Prompt Engineering",
     "url": "https://www.youtube.com/@engineerprompt",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
-    "content_focus": "主要关注Agent相关内容",
+    "content_focus": "这个“Prompt Engineering”频道深度聚焦于大型语言模型（LLM）的智能体（Agent）构建、工具使用及相关技术进展。它通过分析最新模型、系统架构与优化技巧，为观众提供了将LLM从概念转化为可操作智能系统的实用视角，超越了简单的提示工程。该频道尤其适合LLM开发者、工程师以及希望构建复杂、多功能AI应用的学习者。",
     "is_seed": true,
     "active_score": 7,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-07-02T13:58:21.582554+00:00"
+    "updated_at": "2026-07-03T02:52:20.712847+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "name": "Machine Learning Street Talk",
     "url": "https://www.youtube.com/@MachineLearningStreetTalk",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
-    "content_focus": "该频道聚焦LLM的评估基准、推理能力、行业应用及AI安全等核心话题，但其独特之处在于，它以批判性视角深入审视AI进展的衡量方法、挑战现有基准，并大胆质疑AI领域的拟人化趋势和AGI炒作，倡导更宏观的系统性思考。这使得它非常适合寻求深度、非炒作、并关注AI长远社会经济影响的研究者、从业者及批判性思考者。",
+    "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
     "active_score": 2,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-07-02T13:58:21.756244+00:00"
+    "updated_at": "2026-07-03T02:52:20.857192+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
@@ -96,6 +96,6 @@
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-07-02T13:58:21.806999+00:00"
+    "updated_at": "2026-07-03T02:52:21.117587+00:00"
   }
 ]
