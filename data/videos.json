@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "uO5cvkzh3P0",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "They Said This Will Never Run In Real Time",
+    "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+    "published_at": "2026-07-03T17:19:59+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtube.com/shorts/Tx7167DXr8U\nhttps://www.youtube.com/watch?v=55F9dY2Y1zc\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owe",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-04T02:48:49.001456+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ju7R6jer6_M",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-03T14:02:31.484622+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "y24lF1q4SFY",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-03T02:52:43.347781+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-04T02:49:12.054637+00:00"
+    }
   },
   {
     "video_id": "idp3wJCqNrU",
