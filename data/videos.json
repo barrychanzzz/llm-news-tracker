@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "-j4shkNnYVw",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "\"Just Go Local\" Solves Nothing. Here's What Does",
+    "url": "https://www.youtube.com/watch?v=-j4shkNnYVw",
+    "published_at": "2026-07-13T12:45:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Local AI problems and promises!\n\nLINKS:\nhttps://x.com/ClementDelangue/status/2071951499660292496\n\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineering\n💼Consulting: https://cal",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-13T14:33:20.863548+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "JQ_We_ztxrI",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "What I learnt after running loops for 1 month???",
+    "url": "https://www.youtube.com/watch?v=JQ_We_ztxrI",
+    "published_at": "2026-07-13T11:35:57+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Loopany github repo (Open-source loop manage tool): https://github.com/superdesigndev/loopany-platform\n\nSkill for setup verifier: https://github.com/AI-Builder-Club/skills/blob/main/skills/verifier-setup/SKILL.md\n\n🔗 Links\n- Join AI Builder Club for step-by-step walk through: https://www.aibuilderclub.com/lp/loop-engineer\n- Try Superdesign: http://superdesign.dev/\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-13T14:33:03.316406+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Ae9q7KsRbuI",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-13T02:41:10.599437+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "HNXGavpWHgg",
@@ -31,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-12T13:17:22.527472+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-13T14:33:54.561099+00:00"
+    }
   },
   {
     "video_id": "yTolO_nxJiU",
@@ -3192,33 +3237,6 @@
       "speaker": "Dr. Carol Zsolnai-Fehér",
       "technical_level": "Intermediate",
       "analyzed_at": "2026-05-14T14:10:52.577042+00:00"
-    }
-  },
-  {
-    "video_id": "5PLDovsqKaQ",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Hermes Agent: The Self-Improving AI That Learns You",
-    "url": "https://www.youtube.com/watch?v=5PLDovsqKaQ",
-    "published_at": "2026-04-14T13:15:00+00:00",
-    "view_count": 13878,
-    "duration": 899,
-    "duration_string": "14:59",
-    "description": "Open Router gives you access to 100+ models through a single API endpoint. Try it free and find the best model for your workflow at https://openrouter.plug.dev/SoSUEGl\n\nHermes Agent is an open-source AI agent system with a self-improvement loop that automatically creates and refines skills based on your usage, builds a model of your preferences, and gets better the longer you use it. In this video, I walk you through the setup process using Open Router, show you a practical code review workflow,",
-    "has_captions": true,
-    "raw_transcript": "Okay, let's look at how to use agent, which is one of the fastest growing project at the moment. This is an open source agentic system. Think of this as an alternative to open claw, but with some really neat new capabilities. Including the ability to self-improve and learn from user experiences. This is from a company called Nous Hermes, who have produced some really amazing open weight models. Now, in terms of growth, it's seeing exponential growth on GitHub. In fact, on open router, this is the top trending coding agent at the moment. And it's just lagging behind open claw in terms of number of tokens used on the platform, even though it's much newer project compared to open claw. In this video, I want to look at what makes this agent special compared to some of the other offerings. Now, let's look at this self-improvement loop, which is at the core of Hermes agent, and this is what makes it different from other systems out there. It's a closed loop. It's a flywheel that gets better the more you use it. If you assign it any task, whether it's coding or writing, it is going to look at whatever it has done and asks itself whether the learnings from this task are worth keeping. Now, if the answer is yes, it's going to create a skill for it. And the idea is that for the task that has to be repeated in the future, rather than starting from scratch, it is going to have This is going to not only save you on times, but also token and cost. But now, here's the interesting thing. If it tries to execute the same task and finds a better way of doing it, it's going to keep updating the skill. This is where this self-improvement comes into play. Everything is persisted to memory. There are multiple different types of memories that we're going to look at in a minute. But there is more. There's something called periodic nudge. So, every 15 tool calls, the agent kind of pauses, and then it does self-evaluation. It looks back at what happened and decides what's worth saving to its persistent memory. And then, there's also user modeling through something called Hume. And the idea here is that it's not only remembers what you said, but it's also building a model of who you are. It keeps track of your preferences, your communication style, your goals. It basically it does RL on user preferences. Now, all of this feeds back into the next task execution. So, their claim is that the longer you use it, the better it gets at your specific workflow. Now, how does it compare to something like open claw, which really started this whole notion of a personal AI? I would say these are two completely different philosophies trying to solve the same problem. In case of Hermes agent, it's agent loop first with this learning element, which auto creates skills on the fly. And it also uses a very different memory system. But I think both of them have their own place. However, there's something that makes Hermes agent special. And that's not only the self-improvement component, but I think this doesn't have a horse in the race when it comes to API providers. Open claw is an open source project. However, the creator right now works at OpenAI, and he does have some strong opinion around Anthropic models. Anthropic has their own Claude co-work, which is kind of an alternative competitor to open claw. Gemini is also working on Gemini agents. However, each one of them have some sort of either vendor lock-in or preferences towards specific models. For Hermes agent, it's really model agnostic, and it's great at working with open models. Which is evident from the data from open router, where it's the top trending coding agent at the moment. And in terms of token usage for productivity apps, it's just behind open claw. Now, from the open router data, you can actually see that have been using Hermes agent with a number of different models, both open weight and closed weight. Which can be helpful for you to decide which model to use. Now, let's talk about open router for a minute, because it's an excellent platform that provides a unified interface for LLMs. You using the same API endpoint, you can use a large number of highly reliable models, both open weight and closed weight models. Also, really like their ranking, which really shows you what are the different models that developers are using to power their applications. Which can be a great insight if you're building on top of these LLMs. They also give you access to some of the most models for absolutely free, and you can experiment with these models before deciding which model to use. It also lets you compare multiple different models on the same prompt, so you can actually see which model is good for your task. Which is great to get a sense of the performance of different models for your application. A big thanks to open router for making this video possible through their sponsorship. I'll show you how to use open router with Hermes agent in a minute. But first, let me show you how to set up Hermes agent on your local machine. This is going to be the first video in a series of videos that I want to build around Hermes agent to explore different capabilities and essentially share my own learnings while using the system. Now, in order to install it on your local system, this is the only command that you will need. Okay, so I'm running this on Mac OS, and this is going to basically install everything that you need. So, once you install it, you can start it with Hermes. But if you want to do the setup process, you can run Hermes setup here. There are a couple of different options. Quick setup, this is going to configure missing items only. There is full setup, which basically is going to reconfigure everything. And then, there is model and provider. So here, you can select your provider. We're going to be using open router, because this gives you access to 100 plus models, and you are just paying per use. You're not paying for a subscription service. Now, in order to set this up, you will need to get an API key from open router. So, I'll go to my account, create a new API key, and then you can set the expiration date. So, let's create the API key. All right, so I have set the API key, and then I can select the model that I want to use with uh Hermes agent. Now, open router gives you access to a whole bunch of different models. The beauty is that you can just switch the model based on your needs. So, let's say we're going to start with a reasonably priced model, something like Queen 36. For more complex tasks, I would use Opus. And open router gives you a really good combination of both open and closed weight models. So, you can actually see which model is good for your specific use case without worrying about yet another integration. Now, here's a neat feature within Hermes agent. So, it gives you the ability to fall back and rotate your API keys if there are specific rate limits. Now, at the moment, we don't want that, so we're going to say no. You can configure text-to-speech and speech-to-text systems. So, we're going to just go with the default at the moment. Also, you can set the max iterations for the agent when it comes to tool calling, so we're going to go with the default here as well. And it gives you visibility of what exactly is happening when it makes tool calls, so we're going to do that. And it also gives you to the ability to set your own context compression. I'm going to again go with the defaults. So, there is a lot that you can configure if you want. Now, here you can configure the different tools that the agent is going to have access to by providing API keys or connectivity. This includes browser automation, uh terminal access, file operations. If you want to use a different memory systems, you can use that. There are is a lot that you want to explore. But at the moment, I just want to go over simple configurations, and we're going to use these things as we need them. Okay, so we are all set. We're going to launch the Hermes agent itself. Now, here's the interface that you're going to see. It lists all the available skills that it has, and then it shows you the agent that it's currently using, or the model that it's currently using. Now, to show you a practical example, we're going to use it for code review on one of my existing project. Now, this is supposed to be more of a personal agent, but I want to see how good it gets at repeated use. So, I'm going to say something like, look at the existing code base and then to a thorough code review on the current implementation. So, this is going to use Gemini 1.5 Pro. I want to show you how the interface looks like. So, right now it's using different tools looking for those. It has a code review skill that it can potentially use. And it's very transparent in the process. So, it it shows you every step that it takes. Also, kind of really like the way they showed the current context window that is being used by the agent. Okay, so it used the agent to do a comprehensive code review. But then I said that I'd like to do a code review for every feature implementation before we push it to GitHub. So, here it's updating its memory system and it's also updated user profile. Now, I asked it about its own memory system. Can you tell me what type of user profile you have on me? Let's see what exactly it has so far. So, I'm currently working on this Gemini 4 and segment anything based video perception implementation. This is what it noted down. I think this is based on some of my previous conversation that I had with it, right? So, it seems like it is updating the user profile as I work with the agent, which is really interesting. Yeah, I'm going to keep reviewing this as I work with the agent more and more. I want to see how it evolves with me. Okay, so let me show you how this project works. So, here's the app that I'm building. So, in this case you basically upload a video. It's going to use the Gemini model to figure out what is in the video and identify objects to track and then it use segment anything model to segment what exactly the Gemini model tells it. And then it uses a tracking model to track those objects. Now, at the moment I don't really like the UI design for this. Using Gemini 1.5 I asked it what type of design skills it has available. So, I previously installed one of these which basically gives it access to 54 production quality design system extracted from different websites. And then there's another one which is more on the design consultation. Now, if I want to implement a UI, I would either switch to a model like Opus 4.5 with a design skill or Gemini 3.1 Pro. Open Router has all of those models with a single model selector switch. So, I don't really have to worry about yet another API provider. Now, I switched to Opus 4.5, but now I can simply tell Opus use the popular web designs skill to redesign this web application in the style of linear. Okay, so it's going to just use that as an inspiration now. Now, you can create sub agents which are going to have different models, but the beauty is that even for a given task you can just switch between the models use a more intelligent model for higher reasoning tasks which are more expensive. And then for simpler tasks just use one of the cheaper models to the same API endpoint. Okay, so here's the UI that it created. I think it definitely follows the linear theme, although the banner can use some work. Now, something very important when you're using these agentic systems and that is the selection of the model that you're going to use. So, for this simple workflow I spent about $14. I used about 5 million tokens. Majority of those are coming from Opus. That's why it's going to be expensive. Now, this gives you a pretty detailed transparent overview of where your consumption or cost is going in. So, you can use this to figure out which is the cost effective model for your specific application. Now, Hermes agent does not currently have any UI that you can use. Open Claw has kind of a control center where you can chat with the agent. Right now, it's terminal only, but I think there is a UI coming pretty soon. Anyways, this was a quick overview of how this agent works, how to get started. I'm going to be creating a lot of content around it. So, do subscribe to the channel if you're interested in that. Anyways, I hope you found this video useful. Thanks for watching. And as always see you in the next one.",
-    "fetched_at": "2026-05-13T09:27:10.559345+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "本视频介绍开源自学习AI代理Hermes Agent。其核心特色是自学习循环、用户建模及模型无关性，能通过实践自动创建和优化技能。视频将其与Open-Claw对比，强调其对不同模型的兼容性，并展示了如何通过Open Router进行设置，以及在代码审查和UI设计中的应用，同时讨论了成本与模型选择。",
-      "topics": [
-        "Agent",
-        "Tool Use",
-        "Open Source"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-14T03:24:05.095113+00:00"
     }
   }
 ]
