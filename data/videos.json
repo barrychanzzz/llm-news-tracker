@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "Ae9q7KsRbuI",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Minecraft Was Missing One Brilliant Idea",
+    "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+    "published_at": "2026-07-12T15:48:43+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.com/mod/terrain-diffusion\nhttps://github.com/xandergos/terrain-diffusion\n\nSource video for some parts of the footage: https://www.youtube.com/watch?v=irE4tcDtUIg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-13T02:41:10.599437+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "HNXGavpWHgg",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-12T13:17:22.527472+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "yTolO_nxJiU",
