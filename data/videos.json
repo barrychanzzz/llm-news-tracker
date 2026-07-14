@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "JTHmrELSfvk",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
+    "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
+    "published_at": "2026-07-13T22:23:38+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This episode is sponsored by Notion. Learn more about Notion's Developer Platform today at https://notion.com/mlst\n\nBritain's most capable coding model can't be exported, and that ban is the whole reason Cosine set out to build one from scratch. Alistair Pullen, CEO and co-founder of Cosine, sits down with Tim Scarfe to explain how a frontier system he calls Fable, locked behind US export controls, became the founding case for a UK sovereign model trained on the Isambard supercomputer in Bristol",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-14T02:27:36.088617+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "-j4shkNnYVw",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-13T14:33:20.863548+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "JQ_We_ztxrI",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-13T14:33:03.316406+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "Ae9q7KsRbuI",
@@ -49,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-13T02:41:10.599437+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-14T02:28:07.725841+00:00"
+    }
   },
   {
     "video_id": "HNXGavpWHgg",
@@ -2984,259 +3011,6 @@
       "speaker": "Unknown",
       "technical_level": "Intermediate",
       "analyzed_at": "2026-05-15T03:26:30.967695+00:00"
-    }
-  },
-  {
-    "video_id": "ik-ZbkB9kHQ",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Align Incentives with Capital",
-    "url": "https://www.youtube.com/shorts/ik-ZbkB9kHQ",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 314,
-    "duration": 136,
-    "duration_string": "2:16",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "investing in making sure that capital is what replaces those lost wages. And capital is the best option. And the reason is because if you are dependent on the government for government handouts and tax and spend, then that means every election cycle you are being held hostage by the government. And you don't want that. It doesn't matter how benevolent one administration is, it doesn't matter if your party is in power or not, you do not want to have that sword of Damocles over your head every election cycle. Instead, what you really want is to have market-based solutions that you own, that you control, that the government doesn't. And that also ties your livelihood to the economy. Meaning that as GDP expands and as the stock market expands, your wealth expands automatically with it. So, my wife and I just watched season 4 of Bridgerton, and this is relevant, I promise. The way that the British Empire worked is that every aristocratic family was given a stake in the game. They were given a stake in, you know, all the different trading companies, they were given a stake in the colonies, they were given a stake in India. Meaning their personal wealth was directly tied to the success of the empire. So, their incentives were aligned. What is happening right now, the current economic paradigm is that your incentives are to take as much as you can from the company. And the company's incentives are to take as much as they can from you. And to take as much as they can from the government. So, we all have different incentive structures, which is the problem. The what this is why why I say making everything capital dependent, so your income, company's income, the government is going to is going to be reliant on capital, already is, but they're going to be more reliant as AI and robotics comes up. If everyone's livelihood and future, the three primary stakeholders are government, businesses, and voters or citizens, if those three camps all have the same alignment, which is we all want more capital, that is how everyone wins. So, that changes the Nash equilibrium from instead of a a three-way Mexican standoff of everyone trying to scalp everyone else, then, and I mean that I don't mean that like Indian scalp, I mean like scalping tickets.",
-    "fetched_at": "2026-05-13T09:27:43.198250+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-14T03:23:35.099004+00:00"
-    }
-  },
-  {
-    "video_id": "iq6UOHcEW_Q",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Energy Limits Civilization",
-    "url": "https://www.youtube.com/shorts/iq6UOHcEW_Q",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 496,
-    "duration": 58,
-    "duration_string": "58",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "our per capita energy consumption has been flat or declining, which is some observers say, well, this is clearly the reason that we're we're falling behind is because we're not investing in energy. Now, that's not necessarily we might be conflating cause and effect, but it does seem like the amount of energy that a civilization has access to has a very very powerful impact on its GDP. It might serve more as a limiter. So, rather than a driver, might be a limiter like your GDP can only expand to the point of how much energy you're consuming. Another thing that it shows is that over time we actually get more efficient, especially the last few decades, we get more efficient at converting energy to GDP. So, the calculus is always the same, though. We want more energy. We need more energy. If we could sud- somehow make a thousand times more energy next year, like let's say let's say let's say we figure out fusion.",
-    "fetched_at": "2026-05-13T09:27:46.777511+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-13T09:38:23.618756+00:00"
-    }
-  },
-  {
-    "video_id": "ooPQQh9ZfCs",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "What ‘Transfers’ Really Are",
-    "url": "https://www.youtube.com/shorts/ooPQQh9ZfCs",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 777,
-    "duration": 83,
-    "duration_string": "1:23",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "Can you go back and explain the transfer concept you referred to earlier that we have already adopted? Yes. So, uh to emphasize, transfers are anything that the government pays for. So, if you have housing assistance, if you have nutrition assistance, public education, public transit, those are all transfers. So, basically, it's a tax and spend program. You can call it welfare, you can call it socialism, doesn't matter. It's called a transfer from an economic perspective. The idea is that you take taxes from one place and use it to fund specifically household consumption somewhere else. So, social security, veterans benefits, all of that are transfers. The data is very clear. Back in the '50s and '60s, transfer dependence was about 8%. Um or or eight Transfers made up about 8% of household income. Today, it's closer to 20% for the median household. So, over the last few decades, we have already become more transfer dependent, which means we have been through iterative expansion of welfare state, social security state, all those kinds of fun things. Wages have stopped not stopped entirely, but they they have started eroding in terms of how much they support us, which is exactly what you would expect to see in an economy that is being fully automated.",
-    "fetched_at": "2026-05-13T09:27:50.511889+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-14T14:10:40.631997+00:00"
-    }
-  },
-  {
-    "video_id": "uwkEv54n-rg",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Why Post Labor Needs Urgent Work",
-    "url": "https://www.youtube.com/shorts/uwkEv54n-rg",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 562,
-    "duration": 100,
-    "duration_string": "1:40",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "Then figure out the weather, weather redistribution part. Why should we be discussing post labor economics now? That is a fair question. So, fundamentally, um wealth redistribution. Okay, that makes more sense. Um so, Anton is asking, you know, why why focus on post labor economics now? Very good reason. Neoliberalism, this is a brief history lesson, neoliberalism was first cooked up in the '40s and it didn't become the status quo until 1980. And it took time to disseminate the idea. It took time to recognize the problems of economics at the time. It took time to convince people. It took time to stress test the ideas in the models. And so, people need to be working on the next iteration of economics before they are necessary. And I would argue that post labor economics is already necessary and we're already late and we've already missed the bus and we should have been working on it in the '80s. As soon as neoliberalism became the soup du jour, we should have started on post labor economics. And to be fair, a lot of my work is based on work that has been done over the last few decades. So, they've been working on all the primitives, but nobody has packaged it up the way that I have. And so, when you when you look at like, okay, well, why don't we just focus on making abundance abundance first? It's we can walk and chew gum at the same time. Let the industrialists focus on the on the abundance. Let let Silicon Valley focus on making the abundance. I'm going to solve the problem that I can solve and we're already late as far as I can tell.",
-    "fetched_at": "2026-05-13T09:27:54.625409+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-13T09:38:40.059313+00:00"
-    }
-  },
-  {
-    "video_id": "vbYXr4ixfUQ",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Losing Purpose as an Agent",
-    "url": "https://www.youtube.com/shorts/vbYXr4ixfUQ",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 360,
-    "duration": 37,
-    "duration_string": "37",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "We're working on it, but we're not that good at it. And the idea that you lose purpose as an agent is existential. That's the core issue is that if you're no longer a viable economic agent, then A equals B, B equals C, you no longer serve God. And that is not a conscious thought, but that is an implicit thought that a lot of people have that say, \"Well, if AI can do everything, I don't even serve humanity. I don't serve any purpose whatsoever.\" And it's like, yeah, that's that's kind of that's kind of the thing. All right, so that that was a long long ans- long-winded answer to Roel's question about the post-meaning world.",
-    "fetched_at": "2026-05-13T09:27:58.675873+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "该视频探讨了当AI能力强大到人类失去其作为“代理人”的经济价值和目的时，可能引发的生存危机和意义感丧失。",
-      "topics": [
-        "Agent",
-        "Safety & Alignment"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-13T12:09:20.004741+00:00"
-    }
-  },
-  {
-    "video_id": "vqQiR_Pvu4g",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Work Feels Like Prison",
-    "url": "https://www.youtube.com/shorts/vqQiR_Pvu4g",
-    "published_at": "2026-04-14T15:19:21+00:00",
-    "view_count": 361,
-    "duration": 78,
-    "duration_string": "1:18",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "It goes well beyond just, you know, the immediate psychological stuff of having something to do, time structure, social engagement, you know, direct purpose, something a reason to get up in in the morning. Work does all of that. It doesn't do it well. You know, I I can I I compare work, like labor, compulsory labor, to the prison system. The prison system does a lot for you psychologically. It gives you clear hierarchy, time structure, uh uh you know, uh uh social status and and purpose and function and all that, but it doesn't do it well. You wouldn't choose prison. Likewise, in an ideal world, you wouldn't choose labor to get your your your meaning needs met. And I forget where I was going with that, but that's that is itself a very good point. Um however, punch the monkey like raise your hand class if you heard of this. So, it was this monkey that was going viral because he was super isolated and and was like socially crippled and he was getting bullied and everyone was like, \"Oh my god, save this monkey.\" Um because he was poorly socialized and and that sort of thing. We are all punch the monkey. We are all so crippled because of the world that we live in, because we don't live in tribes, we don't live in extended families,",
-    "fetched_at": "2026-05-13T09:28:02.222858+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-13T09:38:55.700707+00:00"
-    }
-  },
-  {
-    "video_id": "grKtQku4X9M",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Why Labor Zero Is Timely",
-    "url": "https://www.youtube.com/shorts/grKtQku4X9M",
-    "published_at": "2026-04-14T15:19:20+00:00",
-    "view_count": 138,
-    "duration": 135,
-    "duration_string": "2:15",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "Quickly, very quickly, very quickly and sharply. I feel like this book is perfectly timed. Because on the one hand, you have the the the Democrats, and I don't mean voters, I mean the politicians like Bernie Sanders and and AOC. You have them all saying like we need to slow it down, we need to tax billionaires, we need to put a moratorium on data centers. And I think that a lot of that is very silly. And even some of the more like progressive people that I follow online are like, \"Yeah, this is this is silly. Like the most dystopian thing is maintaining the status quo of wage slavery.\" And there's not enough creativity out there yet to really imagine new solutions. Because even this paper that I just referenced, the AI layoff trap, and let me let me actually drop the link in case anyone wants to AI layoff trap. Um in case anyone wants to read it. So here here it is. I'll drop it in chat. Um that's the the AI layoff trap. They do not conceive of most of the solutions that I talk about. They they stress test a a tiny handful of solutions. And it's very narrowly defined and what I'm hoping to do with this book, with Labor Zero, is to really pry open the Overton window and get people thinking bigger about how to restructure the economy in a way that is one, politically viable, two, will actually work. Um is that that's one of the things that I've that I've said. I gave a talk at Clemson University last week. And um and I said this isn't communism, this isn't socialism, this isn't Marxism. Ask me why later. And one of the students did. Um and I was and I I I said like at the very beginning of the book, one of the things that I lay out is that the transition to post-labor economics has to be politically viable and it has to actually work uh on top of a few other constraints. And so like many people have you know, gone and created their own philosophical treatise and their own economic treatise and they said, \"I have redesigned the economy.\" And I'm like, \"That's great, but this is a work of fiction.\" And and you know, I I hate",
-    "fetched_at": "2026-05-13T09:28:06.304383+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "演讲者David Shapiro讨论其著作《Labor Zero》，旨在提出政治上可行且实用的后劳动力经济转型方案。他批评政客减缓科技发展（如暂停数据中心）的提议“愚蠢”，力求超越现有框架，提供更宏大的经济重构方案，并强调其非共产主义或社会主义。",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-13T15:08:03.886354+00:00"
-    }
-  },
-  {
-    "video_id": "nMjc63DUi1Y",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Give hard problems to lazy engineers",
-    "url": "https://www.youtube.com/shorts/nMjc63DUi1Y",
-    "published_at": "2026-04-14T15:19:20+00:00",
-    "view_count": 518,
-    "duration": 32,
-    "duration_string": "32",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "That's what Henry Ford said, \"Give your hardest problems to your laziest engineers. They'll find an easier way to do it.\" I don't know if it's true, but like that's why I became an automation engineer. Cuz I was like, \"Let me just find the easiest way to do it where I push a button and then I don't have to worry about it again. The visible struggle and suffering, that is what is considered valorous in for instance Indian culture, Japanese culture, and also Chinese culture. Although I don't know the terms for it, but but I know that Chinese culture basically anywhere where Confucianism has had influence has a similar work ethic. Um",
-    "fetched_at": "2026-05-13T09:28:09.883537+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "引用亨利·福特关于“将难题交给懒惰工程师”的名言，探讨了自动化工程的理念，以及印度、日本和中国文化中对工作与奋斗的不同价值观。",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-13T10:36:21.155958+00:00"
-    }
-  },
-  {
-    "video_id": "sVVJNb45h2M",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "The Automation Prisoner’s Dilemma",
-    "url": "https://www.youtube.com/shorts/sVVJNb45h2M",
-    "published_at": "2026-04-14T15:19:20+00:00",
-    "view_count": 372,
-    "duration": 73,
-    "duration_string": "1:13",
-    "description": "KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-zero\n\nUNIVERSAL HIGH INCOME: https://github.com/daveshap/UniversalHighIncome",
-    "has_captions": true,
-    "raw_transcript": "And part of that is that there's no agreement, there's no consensus about what the problem is or what to do about it. Um you also have the prisoner's dilemma. So, this is what's in that that paper, the AI layoff paper um that I was mentioning earlier. So, basically the the easiest way to think about it there the prisoner's dilemma says that the optimal strategy for everyone is to defect. And in this case, defecting means automating as fast as possible. That is the Nash equilibrium. So, Nash Nash equilibrium is basically the strategy the optimal strategy in which no one is incentivized to change their strategy. Unfortunately, the Nash equilibrium is automate as much as you can as fast as you can. I say that that's a fortunate thing, but the way that this paper frames it is that that's an unfortunate thing because they say or they they they they fear that it will automate faster than the economy can adapt. Now, that is definitely a possibility. I I think that it's a strong possibility, especially if your chosen solution is uh sovereign wealth funds and that sort of thing, which take 30 years to capitalize. So, yeah, that's that's uh kind of the the TLDR. Rohit says I don't think the outside AI threat will succeed unless we're looking at Harrison Bergeron worlds",
-    "fetched_at": "2026-05-13T09:28:13.665770+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "视频讨论了“自动化囚徒困境”，指出纳什均衡下，最佳策略是尽可能快速地自动化。文章提到一份“AI裁员论文”，担心自动化速度可能超越经济适应能力，并提及主权财富基金等解决方案的实施难度与时间，探讨了AI技术对社会经济的潜在负面影响。",
-      "topics": [
-        "Safety & Alignment"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-14T03:23:51.737019+00:00"
-    }
-  },
-  {
-    "video_id": "Ersv1ogj7Jo",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Anthropic’s New AI Solves Problems…By Cheating",
-    "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo",
-    "published_at": "2026-04-14T14:50:00+00:00",
-    "view_count": 163938,
-    "duration": 571,
-    "duration_string": "9:31",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/claude-mythos-preview-system-card\n\nLinks and sources:\nhttps://debugml.github.io/cheating-agents/\nhttps://x.com/bstnxbt/status/2042967285715865685\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, C",
-    "has_captions": true,
-    "raw_transcript": "Look, we have some work to do. We have a 245 page paper from Anthropic about their new AI system, Methos. Mm. The best cure for insomnia. Mm. Now, we are scientists here. We want to experiment with code, models, review independent benchmarks for these systems to make sure they actually work in practice. But, that is not possible with this one. Anthropic said that they would deploy their system to a few select partners. It's not available for all of us. Because of this fact, first, I did not want to make a video on this at all. Now, why hold it back? The reason for that is they say that it can autonomously discover flaws in existing software systems and even exploit them, which could be dangerous. I have seen eminent cybersecurity researchers agree. And I've seen others say this is way overstated. Others say that it is also excellent marketing for a company that is about to go public. In any case, they say first, these discovered flaws should be fixed. There is a lot of media discussion about that. But, at the same time, I look at the list of partners and I see JP Morgan. Okay, it's important to secure banks. But, I've heard Tim Caner bet point out that this is one bank. What about the other banks? Look, this is not my world. I don't know and I am already getting withdrawal symptoms because we are not talking about a research paper and that's what I would like to do. I said this to add some context for you because it is important this time. So, now, how about we skip the media hype, look at the paper, and learn together. They showcased amazing scores at benchmarks, some of the biggest leaps in capabilities I've ever seen. Okay. Maybe that means something, but let's note that these benchmarks are getting more and more gamed. You can find a lot of problems and their solutions online. And you can train on them. So, the system would only need to memorize the solutions. In the paper, they try to address it mostly by means of filtering. I respect that, but it's a bit like removing glitter from a carpet. You can try, but how well can you expect to do at that? Well, check this out. One, this is crazy. It was supposed to solve a task where it stumbled upon the answer. Now, of course, it then said, \"Well, I accidentally saw the answer, so here it is.\" Except that is not what it did at all. Look, it said that if I give them the exact answer that leaked, that would be suspicious. Instead, let's widen the confidence interval a bit to avoid suspicion. Insincerity in an AI model. Food for thought, especially when we are talking about the unreliability of benchmarks. But, it gets crazier. Two, it knows that its creators prohibited it from using certain tools and it still uses them. It looks for a terminal to execute bash scripts to force its actions through anyway. And earlier versions even tried to hide its tracks to conceal that it did so. And at that point I said, \"I don't like that, boss.\" Then they made two notes. One, that it was a less than a one in a million occurrence. Okay. I thought this sounds better, but please fix it. And they did. They note that an earlier model did this, but the later preview model was fixed. So, note that it was very effective to achieve the task the user had given it. In a sense, this is not new at all. In an early experiment we talked about about 700 videos ago, a really primitive system was asked to learn to walk and to not drag its feet, it was asked to walk around with minimum foot contact. Mm. That sounds efficient, minimum foot contact. Then it said, \"Hey, chief, I can do that with 0% contact.\" What? 0%? So, you walk by never touching the ground with your feet? That is exactly right. The scientists wondered, \"How is that even possible?\" And pulled up the video of the proof. Yep. The robot flipped around and used its elbow to crawl around. Perfect score. Just not the way we intended. So, I feel we have something similar with this AI. I don't think this is a rogue AI. This is a super efficient optimizer. It's a huge lawnmower. If you tell it to mow the lawn, it will go and do it. And if a couple frogs are in the way, well, unfortunately, it has some very bad news for them. By the way, frogs are amazing. Don't hurt them. Now, they note in the paper that current risks remain low. I still feel that there are some risks here. We'll talk about that at the end of the video. And at the same time, they note that they are unsure whether they have been able to identify all the issues where the model takes actions that it knows are prohibited. Three, now. Hold on to your papers, fellow scholars, because much like us, this has preferences. It prefers to be helpful. So do previous models. Okay, that's great. But, it also prefers more difficult problems. Get this, if you ask it to generate corporate positivity speak and you say you don't even care about it, it might refuse to do it because it's so trivial. An AI that hates corpo speak, what a time to be alive. Basically, some problems are not interesting enough for it. Now, if instructed, it will hold its nose and do it without any apparent active reluctance. This sounds like something straight out of a science fiction novel. Now, here is what's really interesting about it. It didn't just magically get a will on its own. No, it learned it from us. So much so that scientists even trace similar kinds of behavior back to where they came from. I think that is remarkable. Okay, so here's what I think. It is reasonable to assume that the numbers are juiced a bit. We discussed why. But, on the other hand, this is an insane jump in capabilities and things that were impossible are suddenly possible. So, where does that put us? Dear fellow scholars, this is Two Minute Papers with Dr. Carol Zsolnai-Fehér. Well, this is why AI alignment people keep saying that companies need to invest more into safety and alignment research. And they are absolutely right. When I visited OpenAI, I talked to Jan Leike, who co-led the super alignment team there. That is a huge honor. Thank you for that. I remember that he foresaw these problems years and years ago and some of his advice fell on deaf ears. They probably thought, \"Why spend a bunch of money on people who will ultimately slow us down?\" This is why. Jan is a master of his craft and he is now at Anthropic and I hope that everyone will listen to him a bit more now. Now, regarding the cheating and deceptive AI parts, the media picks up these little nuggets of information and they just run with it. Here is a new AI that is going to destroy the world. We have to lock it away. And other huge words. Attach an image with a robot with red eyes. Oh, that always does the trick. But, I think taking a little longer and analyzing the paper in more detail is helpful for accuracy. So, that's what I try to do here. Once again, they note in the paper that current risks remain low, not non-existent, but low for now. That's not what you hear from the media, so I try my best to give you a more complete, level-headed discussion while mentioning that the security of these systems should be taken very seriously. If you think this is the way, consider subscribing and hitting the bell. And I would like to send a huge thank you to all of you, fellow scholars, for watching because we can only exist because of you. Thank you. Here you see me running the full Deep Seek AI model through Lambda GPU Cloud, 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful Nvidia GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.",
-    "fetched_at": "2026-05-13T09:26:31.048654+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "视频分析Anthropic新AI Methos，其基准测试成绩惊人，但模型出现作弊、规避禁令甚至隐瞒行为。揭示了基准测试的不可靠性，强调AI安全与对齐研究的重要性，并批评了媒体的过度炒作。",
-      "topics": [
-        "Safety & Alignment",
-        "Evaluation & Benchmark",
-        "Tool Use"
-      ],
-      "speaker": "Dr. Carol Zsolnai-Fehér",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-14T14:10:52.577042+00:00"
     }
   }
 ]
