@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "MsPhMhfvgD4",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "Why I switched to Pi...",
+    "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
+    "published_at": "2026-07-14T10:35:00+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Get free Claude Code AI Coding course: https://clickhubspot.com/68fd0a\n\n🔗 Links\n- Github repo for my pi setup & plugin: https://github.com/AI-Builder-Club/skills\n- Step-by-step workshop in AI builder club: https://www.aibuilderclub.com/lp/loop-engineer\n- Follow me on twitter: https://twitter.com/jasonzhou1993\n- Try Superdesign: http://superdesign.dev/",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-14T13:41:06.419012+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "JTHmrELSfvk",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-14T02:27:36.088617+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "-j4shkNnYVw",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-13T14:33:20.863548+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-14T13:41:35.281366+00:00"
+    }
   },
   {
     "video_id": "JQ_We_ztxrI",
@@ -49,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-13T14:33:03.316406+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-14T13:41:35.281377+00:00"
+    }
   },
   {
     "video_id": "Ae9q7KsRbuI",
