@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "m1oSW_gYW_E",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "This 27B Model Shouldn't Run On Your Phone. It Does.",
+    "url": "https://www.youtube.com/watch?v=m1oSW_gYW_E",
+    "published_at": "2026-07-15T12:45:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Running a 27B Model on iPhone: Prism ML’s 1‑Bit Bonsai Quantization Explained\n\nI break down how Prism ML ran a 27B parameter Qwen-based model on an iPhone 17 Pro at about 11 tokens/sec by compressing it from ~54GB to 3.9GB using their 1-bit “Bonsai” approach. I explain quantization basics (16-bit to 8/4-bit, ternary, and 1-bit), why naive post-training quantization fails due to compounding error, and how prior open-source methods (llama.cpp mixed precision, GPTQ calibration-aware, AWQ activation",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-15T13:41:56.927758+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "MsPhMhfvgD4",
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "channel_name": "AI Jason",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-14T13:41:06.419012+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-15T13:42:11.076190+00:00"
+    }
   },
   {
     "video_id": "JTHmrELSfvk",
