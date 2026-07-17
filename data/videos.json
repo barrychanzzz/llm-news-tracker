@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "juvwvztWAyo",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Kimi K3 Explained!",
+    "url": "https://www.youtube.com/watch?v=juvwvztWAyo",
+    "published_at": "2026-07-17T12:45:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kimi K3: The First Open-Weights Model Setting the Frontier (3T Params, MOE, Agentic Coding)\n\nI break down why Kimi K3 feels like a new “DeepSeek moment,” arguing it’s the first open-weights model that actually sets the frontier for specialized agentic coding. I cover its 3T-parameter scale, MOE architecture (896 experts, 16 routed per token), native multimodal vision, and 1M context window, plus how it ranks highly on the AI Index and excels in coding/web dev benchmarks like Terminal Bench 2.1 w",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-17T13:25:46.317139+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "axOcn--n_lM",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-17T02:33:03.177225+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "IB53DUrnYgI",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-16T13:48:12.410191+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-17T13:26:06.541052+00:00"
+    }
   },
   {
     "video_id": "0CqLVnx-2UM",
