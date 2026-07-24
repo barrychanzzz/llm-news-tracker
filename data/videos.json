@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "H_Lbe69XO_8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Laguna S 2.1: The Best Local Agentic Coder?",
+    "url": "https://www.youtube.com/watch?v=H_Lbe69XO_8",
+    "published_at": "2026-07-24T13:00:02+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In this video, we break down Poolside’s Laguna S2.1, an open-weights 118B MoE coding model (8B active per token) with a 1M-token context window, and why it performs above its size on agentic coding benchmarks like Terminal Bench 2.1. I cover how it was trained with reinforcement learning in FP8 on ~4,000 NVIDIA H200s in under nine weeks, plus how they tackled reward hacking on SWE-bench using an external LLM judge, prompt amendments, and network-blocked sandboxes. \n\nThanks to @NVIDIADeveloper fo",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-24T13:43:44.646277+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "wzY2fV4Mp3U",
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "channel_name": "AI Explained",
