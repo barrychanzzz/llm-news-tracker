@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "9CYT5OFypa0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Opus 5 Is Fable 5 for Half the Money?",
+    "url": "https://www.youtube.com/watch?v=9CYT5OFypa0",
+    "published_at": "2026-07-24T18:54:17+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Claude Opus 5 First Impressions: Benchmarks, Pricing, Agentic Coding & Real-World Demos\n\nIn this quick first-impressions video, I test Anthropic’s new Claude Opus 5 and compare it to “Fable 5” across major third‑party benchmarks (including Cursor and Devin/Frontier Code), highlighting strong agentic coding results and improved performance at roughly half the price. I cover pricing (same as Opus 4.8), effort/thinking budget tradeoffs, and note Anthropic intentionally reduced cybersecurity capabil",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-25T02:33:15.223690+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "H_Lbe69XO_8",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-24T13:43:44.646277+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "wzY2fV4Mp3U",
@@ -2900,33 +2918,6 @@
       "speaker": "Unknown",
       "technical_level": "Advanced",
       "analyzed_at": "2026-05-13T09:35:56.221781+00:00"
-    }
-  },
-  {
-    "video_id": "Xf_v62TQOx4",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "NVIDIA's New AI Broke My Brain",
-    "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
-    "published_at": "2026-04-25T17:09:47+00:00",
-    "view_count": 70039,
-    "duration": 592,
-    "duration_string": "9:52",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper  is available here:\nhttps://nvlabs.github.io/GEAR-SONIC/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Rich",
-    "has_captions": true,
-    "raw_transcript": "Let's see what is going on here. This is me around 9:00 a.m. A bit wobbly, steps are unsure. Yep. That checks out. Now then, give me my fake badge. Thank you, sir. No one noticed. Now, let's proceed to the next step of my mastermind plan. Yes, let's eat all of their food. Wait, they noticed. Okay. Proceed to the next step. What was that? Oh, yes. Run. Now, jokes aside, look at that. Oh, yes. Please mow my lawn. That is excellent. Now, rake the leaves. Perfect. Hey, don't slack off. That's my job. Okay. So, what is going on here? Well, let's start with the good news. This is a new teleoperated robot controller and more. They call it Sonic. Good name. Now, the work here is not the robot, but the software controlling the robot, at least in this footage. Watch until the end and you might get surprised. So, teleoperation means there is a human performing these movements and the robot is able to understand these motions and then translate them to a bunch of joint positions in 3D space. That's kind of insane if you think about it. But, it will just get better and better as we continue the video. So, before you ask, yes, it can do kung fu, provided that you can do kung fu. It understands whole body movement. So, you can get it to crawl into some space you don't want to go to and that is super useful. People are already using robots for that. Why? Well, chiefly for exploring under-explored and dangerous areas. This means tons of useful applications. For instance, a variant of this could help save humans stuck under rubble or perhaps later even explore other planets without putting humans at risk. But, that is still nothing because this is a multimodal system. Meaning that the input can be almost anything. So, you say that I don't have to pretend to mow the lawn to actually get it to mow the lawn because where's the fun in that? Well, you just tell it to do that. Can you? Well, currently, for simpler tasks like moving around and behaving like a monkey, yes, you can. Absolutely incredible. And I love how expressive it is. You can ask it to walk happily, stealthily, or like an injured person. And, you know, just the fact that it is stable and does not fall is remarkable. Previously, even in simple characters in simulated worlds, you needed thousands and thousands of tries to teach them to just be able to walk without falling. And now, this. This is a huge leap forward. Wow. But, it gets better. We said multimodal. Yep, that means the input can also be music. About that, I'll show you the dancing, but not the music because of YouTube reasons. But, I'll put a link in the description where you can check it out. And we haven't even talked about the most insane part of the whole thing. Now, hold on to your papers, fellow scholars, because this runs with about 42 million parameters. That is a neural network so simple, it can run so easily on your phone, it barely notices. It may even run on your toaster these days. That size is absolutely nothing. &gt;&gt; [sighs and gasps] &gt;&gt; This is an incredible achievement. Okay, but how? How is that even possible? Dear fellow scholars, this is Two Minute Papers with Dr. Karoly Zsolnai-Feher. Well, first, it looked at a hundred million frames of human motion to understand what we do and how we do it. The incredible thing is that this system does not require human-made action labels. So, we don't have to explain our movements. It just watches the raw motions and figures out how to transition between tasks without any unnatural pauses. So then, your multimodal input goes in, a video of you, your voice, music, a motion generator turns these into human motion and the human encoder processes it into a latent space and then a quantizer converts it to universal tokens. Once again, universal tokens. That is the key, you'll see a bit later. Then, the decoder translates these tokens into motor commands. But, &gt;&gt; [gasps and sighs] &gt;&gt; there is a big problem. Learning to convert one to the other is super hard. First of all, robots do not work like humans. That is one of the fundamental challenges. So, if the user commands you to turn around, it should be turning around. Okay. Sure. But, how fast exactly? You don't want to turn 180° too quickly because you would fall apart. To solve this, in their research paper, they propose what they call a root trajectory spring model. This looks for quick motions and dampens them so the robot does not get injured. Yes. Robots can get injured, too, which is kind of hilarious. Now, there is an exponential term there as a function of time. What is that? That is a physical break. As time increases, this term rapidly shrinks to zero, which forces the whole mathematical expression to decay smoothly. &gt;&gt; [snorts] &gt;&gt; This serves two goals. One, the robot does not injure itself. That's good. Two, it will settle at a target position without oscillating back and forth forever. Nice. Now, do the dampening too much and, of course, you'll get a little slug that cannot get anything done. So, it's really tough to do well. Now, all this took 128 GPUs and 3 days to train. That is expensive. But, here's the key. After the training is done, the final product is so lightweight, we don't need this kind of hardware to run it at all. In fact, all of these models showcased in these videos will be given to all of us for free forever. And they run on your phone easy peasy. That is incredible. Open research for the benefit of humanity. I love it. Thank you so much. This project is led by Professor Zhu and Jim Fan, who I love dearly. Jim started the humanoid robots lab at Nvidia just 2 years ago and they are raining research papers on us, breakthrough after breakthrough. Insanity. And to compress all this human movement knowledge down into a tiny little AI controller that can be used by any of us is simply a stunning achievement. It turns out training a good AI requires coding thinking into the machine. But, surprisingly, we ourselves can also learn a lot of good life advice from this kind of thinking, too. For instance, the model compresses a messy, diverse soup of inputs into a kind of pure, abstract token. You know, in life, when asking other people for advice, you will inevitably hear everything and its opposite, too. That is also a big soup of inputs. But, try to look at all of them side by side and you'll find that they often share an underlying truth. This works, as is showcased by this incredible project, too. And note that this work is not the end of anything. No, this is just a start, an early work at a nascent area. Two more papers down the line and I really hope this is going to start folding my laundry and cooking my lunch. That would be amazing. What a time to be alive. And, once again, this is not some proprietary nonsense. This is open knowledge and open models for free for all of us. That's just one of the many amazing papers they just dropped. If you're interested in hearing more, hopefully soon, subscribe and hit the bell. Thank you. Here you see me running the full Deep Seek AI model through Lambda GPU Cloud. 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful Nvidia GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.",
-    "fetched_at": "2026-05-13T09:26:23.137859+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "NVIDIA的Sonic机器人控制器能够通过多模态输入（如人体运动、语音、音乐）理解并控制机器人。该系统仅有4200万参数，体积小巧，训练后可在手机等设备上轻松运行，且提供开源模型，具备探索危险区域等广泛应用潜力。",
-      "topics": [
-        "Multimodal",
-        "Model Architecture",
-        "Inference Optimization"
-      ],
-      "speaker": "Dr. Karoly Zsolnai-Feher",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-13T09:36:09.201135+00:00"
     }
   }
 ]
