@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "xn72yW9SNdA",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "Loop engineer practice #1: Reddit loop grew 0 to 95 Karma in 7 days",
+    "url": "https://www.youtube.com/watch?v=xn72yW9SNdA",
+    "published_at": "2026-07-30T11:07:03+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Get reddit loop template: https://loopany.ai/templates\n\nNote: designed for founders warming up a personal account - not mass scaling. Reddit doesn't deserve that.\n\n🔗 Links\n- Join AI Builder Club for step-by-step walk through: https://www.aibuilderclub.com/lp/loop-engineer\n- Loopany repo: https://github.com/superdesigndev/loopany-platform\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-07-30T13:58:09.172070+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "zucRI00quO0",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-29T14:08:04.656002+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-30T13:58:38.432120+00:00"
+    }
   },
   {
     "video_id": "Xj-QdEUxJkE",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-29T14:07:49.252741+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-30T13:58:38.432139+00:00"
+    }
   },
   {
     "video_id": "x8lhQdbyYNg",
@@ -49,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-07-29T14:08:20.080429+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-07-30T13:58:38.432141+00:00"
+    }
   },
   {
     "video_id": "9CYT5OFypa0",
