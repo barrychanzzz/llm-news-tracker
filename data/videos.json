@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-07-30T13:58:09.172070+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "zucRI00quO0",
@@ -2929,31 +2929,6 @@
       "speaker": "AI Jason",
       "technical_level": "Intermediate",
       "analyzed_at": "2026-05-13T09:35:11.831544+00:00"
-    }
-  },
-  {
-    "video_id": "QzZ4VwDHAT4",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Sakana AI’s God Simulator Is Brilliant",
-    "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
-    "published_at": "2026-05-01T16:43:34+00:00",
-    "view_count": 41970,
-    "duration": 461,
-    "duration_string": "7:41",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Try it out! The paper is available here:\nhttps://pub.sakana.ai/digital-ecosystem/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen ",
-    "has_captions": true,
-    "raw_transcript": "I love this work. This comes from the Sakana AI Lab in Tokyo and it feels like mad science in the best possible way. I had an almost illegal amount of fun with it and you can try it too right now. Assuming we don't crash the website which we sometimes do in a scholarly stampede. Now, this is wild. We are going to play God in a tiny digital universe. Look, we have five AI species in a Petri dish fighting for territory and nothing. Why is that? Well, this world is brutal. We made the threshold for survival sit too high. The environment crushes them and we can run the simulation for as long as we want. No luck. None of these species can get a foothold. It's a bit like the App Store. Thousands of new apps launch, almost none get traction and most disappear without a trace. It is simply too difficult to stay alive. Or AI wrapper companies, killer new social media apps, same deal. Okay, enough of this. Instead, let's be a good God. Let's make life a bit easier and the market is suddenly flooded with money for AI startups. Have a crappy idea? No demo? No business model? Ha, great. Here's a billion dollars, brother. Let's go! So, what happens? Look. Woah! Empires start to grow and grow and oh, but too quickly. These empires grow out of nothing quickly and then crumble just as quickly. Why? Because the bar for survival is too low. So, we tighten the screws again. Easy money dries up. We get a tougher economy, and look, all these companies that got addicted to the easy money suddenly disintegrate. Gone. And then, what happens? Look, new ones appear that are more adapted to this environment. And as we start playing with some of these variables, we change the environment and can almost even create one ugly monopoly or an unstable ecosystem. I love this. This is so cool. So, how does it work? Well, here are some basic rules. The paper calls these species neural cellular automata. This is a living, trainable pixel world inside a 2D grid. It gets pretty involved, but here's the gist of it. Each organism competes for these pixels. They can grow from nearby territory and must stay alive by local support. But, here's the key. They are constantly learning. Oh, and they can also fight. They can specify which direction to attack in and which direction to defend. Kind of like having a sword and a shield pointed to a direction. In the actual work, this happens in a higher dimension. You see a simplification of that here. And when species meet at a border, the system calculates which cell defeats which one. What I absolutely love about this work is whether we create a world of total chaos or a stable and healthy ecosystem, it only depends on us. Change the environment and you change the winners. And it decides who rises, who falls, and who never gets a chance. Nature works like this. Markets works like this. Everything works like this. This really shows how important it is that we have good policy in a country, too. Most of the time, you let competition do its work and find the winners. But, sometimes one tiny push makes the whole system healthier. But, it gets even more beautiful. We talked about competition. But, what about collaboration? Is that also possible? I thought of course not, because each organism has one single objective, grow. This creates extreme competition, not collaboration, right? Well, I was completely wrong. Dear fellow scholars, this is Two Minute Papers with Dr. Karoly Zsolnai Feher. Step number one. They call it permissive mixing. I call it growth. We create an environment that is very forgiving. Digital species run wild and spread out everywhere. [clears throat] Then, they bump into each other constantly. We get a big soup. No firm borders. Step number two, crystallization. Now, we raise the threshold a bit. The rules get stricter. To survive this harsh world, species must group up into dense solid shapes to stay alive. Competition draws the borders. Everyone finds out who can live next to whom. Borders harden. Then, step number three, relaxation. We ease into a more forgiving market. Now what? Wow! This is amazing. We get stripes and little checkerboard patterns between these empires. Why? What happened? Well, in the previous stage, weak borders died immediately. It created borders like when we have two different colors of paint drying while there is masking tape between them. Colors separate. Now, hold onto your papers, fellow scholars, because in stage three, we remove the masking tape. What happens? Well, the edges break open. They flow into each other creating these little streaks. These empires are forced to coexist because the game is unable to kill weak border cells so easily. Both sides can keep tiny pieces of land at the edge instead of one side fully erasing the other. Beautiful, simple, brilliant. But this is also an incredible life lesson. If you're always too loose, your life becomes a soup. And if you're always too strict, your life becomes a prison. I am guilty of this, too. This is not the way. Instead, start out loose. Give yourself room to find your way. Then, build discipline. Harden up. Find your shape. Establish boundaries. And finally, do not stay frozen forever. Loosen up a bit. Grow. Adapt. Let new things in. Beautiful life advice in a beautiful paper. Try it out for free in the video description. It is amazing. What a time to be alive. And if you enjoyed this, subscribe and hit the bell so you get more papers. And more papers is always better. Thank you. Here you see me running the full Deep Seek AI model through Lambda GPU Cloud. 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful Nvidia GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.",
-    "fetched_at": "2026-05-13T09:26:15.199166+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "Non-LLM content",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Dr. Karoly Zsolnai Feher",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-05-13T09:35:21.563181+00:00"
     }
   }
 ]
