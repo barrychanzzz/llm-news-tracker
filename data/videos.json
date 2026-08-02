@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-01T02:41:24.235117+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-02T02:40:22.144097+00:00"
+    }
   },
   {
     "video_id": "_Ae4osPymXY",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-01T02:41:08.114215+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-02T02:40:22.144110+00:00"
+    }
   },
   {
     "video_id": "xn72yW9SNdA",
@@ -2894,32 +2912,6 @@
       "speaker": "Beth Barnes & David Rein",
       "technical_level": "Advanced",
       "analyzed_at": "2026-05-13T10:15:08.633556+00:00"
-    }
-  },
-  {
-    "video_id": "eCw33snvoNI",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
-    "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
-    "published_at": "2026-05-03T17:02:48+00:00",
-    "view_count": 52502,
-    "duration": 592,
-    "duration_string": "9:52",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/lyra2/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen ",
-    "has_captions": true,
-    "raw_transcript": "I can't believe that we are getting this for free. What is this? Well, hold on to your papers, fellow scholars, because you take just one image, and this creates a 3D explorable world out of it. Super cool. They call it Lyra 2.0. It sounds almost too good to be true, and it often is. I'll tell you why. I grew up in Budapestt and now I live in southern Hungary in a different beautiful city called Page and whenever I visit Budapestt I love to walk around the parts where I grew up. It is always an incredible feeling and I'm thinking that if we can use research technology to deliver just a fraction of that feeling that is fantastic. Or if you need just one image, you can take a street view image and it will create a video game world out of it. Drop in a robot and have it trained there safely and learn how to be a good robot. A different variant of this concept is called Cosmos. It's a bit different. It creates simulation data for training robots and self-driving cars. I recently tried a self-driving car in San Francisco and it was incredible. Even though only part of its training comes from simulated data, that part is crucial. This is a testament to how important and useful simulations are. They unlock unexpected solutions for really tough problems. Now, not so fast. This isn't so easy because unfortunately we have a big problem. These worlds break down. Also, wait a second. Deep Mind also did this earlier, didn't they? Genie 3. An image goes in, a game comes out. It can even be a drawing, painting, whatever you wish. So, how is this different? Is this the same thing? Well, no. Okay, let me try to explain. A bit more than a year ago, an amazing AI appeared that claimed to have watched a million hours of Minecraft videos and thus remade a very coarse Minecraft game for us. And the interesting thing was this. We look at something, look away, look back, and whoops. Yes, you saw it, right? That just happened. When we ask, \"Okay, little AI, what was there?\" It says, \"I don't know.\" It did not have object permanence. Nearly every human toddler has object permanence, so it had very limited memory, so long-term consistency was really hard. But then Genie3 took one image and generated interactive worlds with multi-minute consistency. Wow. All this progress in just a bit more than a year. That is insane. However, this is still not that practical because over a few minutes it still forgets. What I want to see is long-term coherence. So, what is the solution? How do we get a world from a photo that doesn't break down? Is that even possible? Dear fellow scholars, this is two minute papers with Dr. Koa Eher. Well, most of these techniques see 2D pixels on a flat screen. No 3D geometry, just a bunch of numbers for pixel colors. But here, the core generator is a diffusion transformer. Kind of like Open AI's Sora. Not new. But wait a second, it still somehow always remembers. The worlds never break. In this one, looking away and looking back will always give you back what you saw earlier. That is possible for video games with 3D geometry made by artists. But how is that even possible with this kind of system? Well, that is the point. Almost exactly like that. You see it is using a perframe 3D geometry cache. Okay. So what does that mean? Well, it means that it keeps a small 3D memory of the scene. In simpler words, it doesn't remember the whole world as is. No, it just remembers the scaffolding of the world and then it is able to recreate the rest consistently. So when you look away and you look back, it doesn't make up something new from scratch. No, instead it thinks, wait, what was there a moment ago? Aha, got it. Now it does not store the whole scene as is. It has a depth map and something they call a down sampled point cloud and some camera movement info. That is fantastic. But it turns out that's not quite fantastic enough. This death map is not for the whole global scene because if you try to fuse everything into one giant 3D world, it is done in a way that small errors accumulate over time. Tiny mistakes start piling up and then over time it gets more and more corrupted. It is kind of like doing a photocopy of something and then a photocopy of the photocopy and then you know how that goes. It just gets lower and lower quality over each step. Not good. Okay. So now what is the solution? Well, instead it keeps a separate little 3D snapshot for each view. Then later when it comes back, it can ask h which earlier views saw this place best and it uses those as a memory. That is an incredible idea. So, does that really work? Well, the ablation study reveals the answer. This is a good paper. So, it proposes a bunch of puzzle pieces and it doesn't just batch them together into one block and say, \"Look, it works.\" No, it tests every single puzzle piece in isolation and tells us for each one how much they add to the picture. Now, like we said, if you store the whole scene globally, style consistency would worsen a bit, but camera control, oh my, that is a disaster. Can we see what that looks like? Well, this is a good paper. So, the answer is yes. Oh goodness. If you do the global scene thing, it starts producing the wrong camera views. while the full proposed technique is much closer to what it should show. H it really shows that these concepts work in practice. So this is why they propose remembering the scaffolding of the scene per frame. So much better. Love it. Also note that there is so much more in the paper. We really just scratched the surface here. But not even this technique is perfect. Limitations. One, static scenes only, no moving stuff. Two, it inherits flaws from its training data. Namely, if you have a data set that has phototric inconsistencies, it will inherit that. But what does that mean? Well, if you feed it data with different kinds of lighting and exposure, it will also appear in its predictions. Of course, it does. The training data tells it how the world works and it thinks that lighting and exposure can just change on a whim. Three, the 3D geometry that we get from it can contain artifacts and these weird little floaters. H but why? Well, the issue is that the generated views are not perfectly consistent with each other. And when you try to reconstruct 3D from them, these small inconsistencies can turn into floaters and noise. If you ask me, these are very typical problems for a first or in this case second version of such a work. And it is very typical that all of these will be ironed out just one more paper down the line. Remember this is the first law of papers. Do not look at where we are. Look at where we will be two more papers down the line. So finally we create just one photo and get to create incredible digital worlds that don't break down. Yes, we finally have it. That is fantastic. And we get all this model and code for free. Yes, what a time to be alive. A great gift for us fellow scholars and thinkers. Thank you so much for this. And thank you for watching. Here you see me running the full DeepSseek AI model through Lambda GPU Cloud. 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful NVIDIA GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/ AI/papers or click the link in the description.",
-    "fetched_at": "2026-05-13T09:26:10.936220+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "视频介绍NVIDIA的Lyra 2.0，一个能将单张照片转化为永不“崩溃”的3D可探索世界的AI。它通过每帧3D几何缓存和视图特定快照解决AI生成世界长期一致性差的问题，避免错误累积。虽然存在静态场景和几何伪影等限制，但被视为重大进展。",
-      "topics": [
-        "Multimodal",
-        "Model Architecture"
-      ],
-      "speaker": "Dr. Koa Eher",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-13T09:34:49.553302+00:00"
     }
   }
 ]
