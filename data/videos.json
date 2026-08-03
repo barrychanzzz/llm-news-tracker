@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "_zMrVJVD4ZU",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Qwen Just Did it Again! The Biggest Model Yet!",
+    "url": "https://www.youtube.com/watch?v=_zMrVJVD4ZU",
+    "published_at": "2026-08-03T13:00:10+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Qwen 3.8 Max: 2.4T Params, Agentic Long-Horizon Tasks, Benchmarks + Web App Demos\n\nI cover Qwen’s new Qwen 3.8 Max release, a 2.4T-parameter multimodal model with 95B active params that’s expected to go open-weight soon, and I compare excitement around the upcoming 27B model that can run on consumer hardware. I review benchmarks (including a top-five Arena spot and coding/agentic performance comparisons), then dig into agentic long-horizon capabilities like creating and evolving its own harness ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-03T14:37:40.916305+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "bm1BjOjS7sQ",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Another DeepSeek Moment Has Arrived",
+    "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+    "published_at": "2026-08-03T09:47:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek API: https://platform.deepseek.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-03T14:37:23.694271+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "8B05cy3UuSE",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-08-03T02:41:44.612812+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "n1Qk8xbqF-M",
