@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "yFDmmlZ1xGA",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Stupidity is the problem",
+    "url": "https://www.youtube.com/watch?v=yFDmmlZ1xGA",
+    "published_at": "2026-08-07T13:39:56+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-08T01:27:00.318175+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "8vUCjYsWeSU",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Prime-Agent: We've Been Building AI Agents Wrong?",
+    "url": "https://www.youtube.com/watch?v=8vUCjYsWeSU",
+    "published_at": "2026-08-07T13:00:20+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to ‪@NVIDIADeveloper‬ for DGX Spark. Check it out here:  https://nvda.ws/3XIkwsh \n\nPrime Agent: Why AI Harnesses Matter More Than Models (IPython Kernel, ARC-AGI3, DeepSeek on DGX Spark)\n\nIn this video, I explain why AI harnesses are becoming more important than the models themselves, and I break down Prime Intellect’s new “Prime Agent” approach that replaces traditional JSON tool menus with a single IPython kernel. I cover how this recursive language model design keeps context “outside” ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-08T01:26:42.961168+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "vO6SWG-jxvE",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-08-07T13:01:04.795584+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "xGzseSSStnw",
@@ -32,8 +68,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-08-07T13:00:47.934162+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "ppQh4Tc9BmM",
