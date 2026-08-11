@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "revreN8LZ_M",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Why Deep Networks Don’t Need to Memorize Everything — Matthieu Wyart",
+    "url": "https://www.youtube.com/watch?v=revreN8LZ_M",
+    "published_at": "2026-08-10T22:55:05+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This episode is sponsored by Notion. Learn more about Notion's Developer Platform today at https://notion.com/mlst\n\nWhy can deep networks discover abstractions that shallow models miss? Statistical physicist Matthieu Wyart joins Tim Scarfe to argue that the answer lies in the hidden hierarchy of data. Language and images are built from parts within parts; depth lets a network recover those coarse-grained variables and escape the curse of dimensionality.\n\nThe conversation moves from jamming trans",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-11T01:39:14.319160+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "yFDmmlZ1xGA",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
