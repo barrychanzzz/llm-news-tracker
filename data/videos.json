@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "JQ97GiDwPxc",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "OpenAI’s AI Agents Just Crossed A Line",
+    "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+    "published_at": "2026-08-11T15:35:35+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 More reports are available here:\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://huggingface.co/blog/security-incident-july-2026\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-12T01:49:47.884804+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "O5N8VGWG20I",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "CEOs are falling behind",
+    "url": "https://www.youtube.com/watch?v=O5N8VGWG20I",
+    "published_at": "2026-08-11T14:35:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-12T01:50:18.827421+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "ofpqWw0OFKo",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "What is an Agent Router? and How to build a Local One!",
+    "url": "https://www.youtube.com/watch?v=ofpqWw0OFKo",
+    "published_at": "2026-08-11T13:15:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to ‪@NVIDIADeveloper‬ for DGX Spark. Check it out here:  https://nvda.ws/3XIkwsh \n\nIn this video I explain why a routing layer is becoming essential for agentic systems and show how to run your own router locally so you control cost, speed, specialization, and privacy. I compare proprietary and open-source options (OpenRouter, Devin Fusion, RouteLLM) and then focus on NVIDIA Switchyard (built on RouteLLM) and how it supports multiple routing strategies: random, LLM classifier, stage routi",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-12T01:50:03.773450+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "revreN8LZ_M",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-11T01:39:14.319160+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-12T01:50:46.240452+00:00"
+    }
   },
   {
     "video_id": "yFDmmlZ1xGA",
@@ -2928,63 +2991,5 @@
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
-  },
-  {
-    "video_id": "4wC8hnQawiA",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "NVIDIA New AI Is An Efficiency Monster",
-    "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
-    "published_at": "2026-05-13T16:07:20+00:00",
-    "view_count": 50694,
-    "duration": 342,
-    "duration_string": "5:42",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\nhttps://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who ",
-    "has_captions": true,
-    "raw_transcript": "Hmm, 30 billion parameters in a new open free AI model where images, video, and audio all work. Hmm, [clears throat] why? There are a bunch of other free systems around in this area like the amazing Gemma 4. So, what does this do better than those? Two words, throughput and cost efficiency. Okay, what does that mean in practice? Now, hold on to your papers, fellow scholars, because it processes almost 10 hours of video per hour. Whoo, that is nearly 10 times real time. That is insanely quick. Wow, almost three times faster than Gwen 3 Omni. And when processing documents, it gets up to seven times faster. To run it locally, you'll want something like this or a beefy desktop GPU. We're talking about 25 gigs of video memory, not something you run on your phone. And to run it in the cloud, I use Lambda. Okay, so how did they do that? Where's the magic sauce? Well, it does five things really well and one thing not so well. Dear fellow scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér. Well, one, member layers scale linearly with context length instead of quadratically. What does that mean? Well, it means you throw everything you got at it. The more documents you have, the longer video or audio you have, the bigger the advantage this one has. So, if you're running something online that processes those on a mass scale, this is going to be incredible. Two, when audio comes in, this side converts raw audio waves into tokens, but differently than elsewhere. Normally, you have a speech recognition model here. Those are often huge and expensive and strip away all emotion and tone from the input. But this one keeps all these data and still does the job well. So much cheaper than running a whole separate model like Whisper on top. Three, when you give it an image or video, many previous generation techniques smash it into a different aspect ratio. This one keeps it. Then, oh, look at this. Convolutions in 3D. Now we're talking. Many other techniques look at the video frame by frame. It takes tons and tons of computation to finish these videos. Here, the 3D convolution looks at blocks of frames. It looks at a package of frames at the same time, and thus it can compress it a great deal. Faster, cheaper. Four, now that's really interesting, somewhat unexpected. You would expect a huge standalone CLIP model here. These essentially predict what text would match the image well. You need that here, too. But, here's the trick. Not one standalone CLIP model. Nope, this one distills down three models. One for matching images to text, one for fine details, and one for object segmentation. Now, all three of these are smashed down into one small encoder neural network. Once again, super efficient. Five, efficient video sampling. This is a good one. At this point, we have thrown, let's say, a video with 300 images into the neural network. That's still a lot of data, but it turns out not all frames are completely unique. Many of them share the same background, for instance. And this one finally throws away this duplicate information. And it makes it, you guessed it right, even cheaper and more efficient. Okay, scholarly question. So, what is the license attached to it? What I would love to see Apache 2.0, which is highly permissive, and I don't see it here. It has its own license. That's usually not great news, but in this case, it's better than I thought. Derivative works and commercial use is fine. On the other hand, it needs a bit of attribution and is a little stricter on patent grants. If Apache 2.0 were a 10 out of 10, this is a seven out of 10, in my opinion. And we don't shy away from talking about limitations here. So, anything else? Oh, yes. If you're doing pure text reasoning or pure coding, I would probably look elsewhere. It is not the number one smartest open model. No. But, if you need multimodal input, like audio or video, processed super fast and super cheap, this is the one. So, we now have free and open AI models that we can own and run them ourselves, which is only going to get more and more important in the future. And since we have so many models, they are starting to specialize. They are becoming good in different directions. So, better models and more value for us fellow scholars, for free. Sign me up for that. Hugely appreciated. What a time to be alive. Here you see me running the full DeepSeek AI model through Lambda GPU Cloud. 671 billion parameters, running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful Nvidia GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.",
-    "fetched_at": "2026-05-14T14:10:08.738309+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "视频介绍NVIDIA推出一个300亿参数、开源免费的多模态AI模型，支持图像、视频和音频。其核心优势是极高的吞吐量和成本效率，视频处理速度比实时快10倍。通过线性上下文扩展、高效音频处理、3D卷积、精炼CLIP模型及智能视频采样实现。虽非文本推理最强，但在快速、低成本多模态处理方面表现卓越，强调开源",
-      "topics": [
-        "Multimodal",
-        "Inference Optimization",
-        "Model Architecture"
-      ],
-      "speaker": "Dr. Károly Zsolnai-Fehér",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-24T13:27:26.970025+00:00"
-    },
-    "subtitle_retries": 0,
-    "no_subtitle_count": 0
-  },
-  {
-    "video_id": "DlCoCfTDzMI",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Tokenize Time: Inside the Interaction Model Architecture.",
-    "url": "https://www.youtube.com/watch?v=DlCoCfTDzMI",
-    "published_at": "2026-05-13T13:15:01+00:00",
-    "view_count": 12916,
-    "duration": 860,
-    "duration_string": "14:20",
-    "description": "Thinking Machines just changed the turn-based AI paradigm by introducing a new architecture that tokenizes time into continuous 200ms micro-turns. Let's dive deep into the technical paper to explore their encoder-free early fusion approach and see why it fundamentally changes how we build agentic systems compared to frontier models like GPT-4o and Gemini.\n\nhttps://thinkingmachines.ai/blog/interaction-models/\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics ",
-    "has_captions": true,
-    "raw_transcript": "Okay, so we need to talk about interaction models from Thinking Machines because they are genuinely impressive and I think that they have the possibility of of really changing the way we interact with computers. Uh I unfortunately haven't seen much coverage on YouTube, so I thought to create this video. My focus is going to be more on the technical details because that what is interesting to me. Uh but there are some pretty interesting demos that I'm going to show you in this video. But first, let's let's address the elephant in the room. Some people are comparing this with the GPT-4 0 that was released by OpenAI a couple of years ago. Now we have a second version of that. But I think the technology that Thinking Machines is using is very different. The [clears throat] way that they have that trained a unified model that can tokenize time is a very different approach than what things like GPT-4 0's advanced voice mode or even things like Gemini uses and that's what I want to focus in this video. By the way, this person that you see here in the GPT-4 0 demo is the same person that is showing the interaction model demo in Thinking Machines. Most of the team is coming from either DeepMind, OpenAI, or I think there are a couple of people from Anthropic, but these are the people who have worked on similar systems in the past and they are building the next version of these. Okay, so I find this a demo pretty interesting. So let's watch it, but it also shows you the capabilities of this model as well. You're going to translate what I say into HR speech, okay? Exactly. I'll be reframing everything you say into uplifting professional language instantly. Hi Alex, I cannot stand your lateness. Hi Alex, we'd love to explore opportunities to enhance your timeliness and morning engagement. >> You cannot expect the rest of us to rearrange our workflow >> Let's collaborate on a schedule that ensures everyone stays aligned and included in those key Okay, so a couple of things to notice here. Uh, first of all, the model is interacting with the user in real time. And as the user is talking, the model is able to not only produce responses, but it's also able to keep track of what the user is saying, right? So, it's not a multi-turn conversation where in the first turn the user asks something, the model responds, then the user asks something subsequent, and the model is going to respond again. But this is very different. And let me explain how this works. But before that, let's look at what a usual full duplex voice to voice identity system looks like. Now, usually people combine multiple different components together to create these interactive systems that feel like real-time responses from the single model. But in fact, there are multiple different components. So, in a traditional system, you would have a voice activity detection, which detects whenever a user is speaking or they start speaking, right? Then you have a speech to text model that is going to convert your speech into text that is sent to the LLM, which is basically the brain of the system. And then you have a text-to-speech component. And on top of it is a session management or orchestrator layer. And then there is going to be external service services, which basically keeps track of when the user starts talking, right? So, normally there are a lot of different moving parts. Okay? And that's what enables voice multi-turn conversational systems. So, a simple view would be the human has input, the model produces an output, there's a second input, the model produces another output, right? And if you think about it in this voice to voice system, you are talking talking about input to the whole system, the whole system generating an output, right? Thinking Machine took this to the next level in which they tokenized time itself. So, they have time aligned micro turn. Now, let me explain this by playing this. So, they are keeping track of text, audio, and video simultaneously. Everything is tokenized into 200 ms chunks. And those chunks are going into the system. Now, they're calling these micro turns. So, the system actually keeps track that every 200 ms if there is something said by the user that it needs to respond to. And it's able to keep track of the conversation history and simultaneously is able to generate outputs as well. So, not only it's tracking inputs, but it's also doing internal state management and response generation. Now, this 200 ms makes it almost real time. So, what are the different capabilities that this type of time tokenization enables, right? So, some of the capabilities are seamless dialogue management. Now, here's one quick example. I'm going to tell you a story, and whenever you hear an animal word, please count the number immediately. Got you. I'll count them out as you go. Let's hear it. Okay. Last weekend, I drove down to South Bay to visit a farm. Okay. So, now this is the most important part, right? Since it's doing this micro turns, all right? It's able to keep track of the user intent. So, in this case, it's expecting that the user is going to continue this conversation, and that's why it's not responding. Um on the way there, I saw a deer. One. >> And when we got to the farm, we watched a demonstration of sheep shearing. Two. >> Then on the way back we Right? So, it has this internal capability to manage the state of conversation. Now, this is multimodal and it can do verbal and visual interjections. So, this is actually a funny demo. Okay, I'm doing some work. Let me know if I start to slouch. I've got you. Sit up straight and you'll be golden. All right, so >> You're starting to slouch forward. Try pulling your shoulders back. Much better. You're upright again. Like that you can straighten your back. Try keeping your Now, one thing they highlight is time awareness, right? So, if you ask it once wise mode in chat GPT to uh keep track of time, it's not able to do it. Uh it has to use an external tool, but since we said that they are tokenizing time itself, so it can measure how much how many tokens have passed and then it can actually tell you how much time have passed. Okay, so this is a block diagram of the oral system. There are two different components. One is the interaction model. This is the real-time model that interacts with the user and and it's extremely fast, but it's not the smartest model. It's actually only 276 billion parameter model, which is relatively small. However, they created this whole architecture where it can offload tasks to a background model, which is running asynchronously, and which is much more capable. So, if the model is interacting with the user in real-time and it needs some more reasoning-intensive or knowledge-intensive tasks, it can just offload it to this background model, which is a lot more capable. It has access to a lot more tools. That is going to perform all the operations asynchronously and then feed that response back into your interaction model and it can generate responses. Now, you can think about this and it's basically handoff to a more capable model or a routing. And you can use the same concepts in building agentic systems. Now, in order to support this, they had to really rethink what type of infrastructure they would need. And that's I think one of the most impressive thing about this release. They had to completely redesign the whole infrastructure around the model, not just the training, but how they would do inference. This is encoder-free early fusion, right? So, rather than the processing audio and video through a large stand-alone encoders, we opt for a system with minimal preprocessing. One thing which I really like about this blog post, which essentially is a technical research paper, they have highlighted previous work in the domain. And especially, this is built on top of some of the open-source work. Especially, they highlight models like Mushi from Qutai. So, it's actually a genuinely pleasant paper to read. So, in terms of architecture, they're taking text, tokenizing the text, generating embeddings. Then, for videos and images, they're taking 40 by 40 patches, passing on to MLP there. And for audio, they are computing multi-spectrum features and then creating bag of embeddings. Everything is passed on to a transformer there. And this is tokenized into that 200 millisecond token windows, right? So, that's basically the time tokenization. Now, for inference, they say that at inference time, 200 millisecond chunks require frequent prefill and decode of small sizes, each having to meet strict latency requirements. So, they say that existing LLM infra libraries are not optimized for frequent small prefills. They often have significant amount of overhead per turn. To address this, we implemented streaming sessions. So, this is a new innovation that they had to do in order to optimize the inference. Otherwise, it would be way too slow. Now, the model that they are showcasing, they haven't released the model. It's not available through an API yet. They are calling it TML interaction small. And as I said, this is a 276 billion parameter MOE or mixture of expert. This is very different than other frontier labs because they usually don't share in information about the size of the model. But here, it's a 276 parameter mixture of expert with 12 billion active parameters. Now, compared to some of the other models like DeepSeek V3, which was I think 600 parameter models, it's relatively small. However, if you look at some of the real-time interaction or omni models in the open source space like Mushi from Q Tai or Yu and the Qin Omni, this is a relatively big model. And it's kind of funny that a 276 billion parameter model is a small model according to Thinking Machine, which shows you that the frontier models that we are seeing, they are orders of magnitude bigger and kind of give you a clue because these people have been working at all the frontier labs. Okay, I want to show you one more example before we look at some of the benchmarks. So, this is an interesting example where she's going to show her hands and then the model is supposed to count. So, let's have a listen. Hey, watch my hand and give a running running number of my fingers. Give me an update whenever I make a change. Got it. I'll keep track. Five fingers up. Two fingers up. 10 fingers up. Nine fingers up. Okay, again, since it took an S time, it's able to basically look at this live stream almost real time. Now, these other models like Gemini or even real time GPT, they basically take images at certain interval. So, if you look at something like GPT real time high, let's have a listen. All right, I'll keep an eye on your hand and count out loud whenever your fingers change. I can't see your fingers right now, so the visible count is zero. Bring your hand into the frame and I'll call out the number each time it changes. All right, so it seems like it's completely missed because probably the interval it's using to take sample somehow misses the hands or it's not able to recognize it, right? Let's have a listen to Gemini as well. I can see your hand yet. Let me know when you're ready to start. All right, same issue and if you look at the other demos, you're going to see similar issues. Okay, so that brings us to the benchmarks. Now, there's only one benchmark that actually measure true interaction. These other benchmarks don't really measure true interactivity between the models, but overall I think it's a pretty impressive model. But when the model is released then we're going to see how good this model is in real world scenarios. Here's a plot which measure intelligence versus interaction quality. So, this CNNS small scores really high both on the interaction as well as on the intelligence axis. And then here's another one which is intelligence versus responsiveness. Again, it seems to be pretty high on both axis. Now, again, these are self-reported results. There are some benchmarks that they haven't introduced. We'll need to wait for external validation, but overall I'm actually pretty happy with what I'm seeing here because not only they shared a lot more technical details than any Frontier lab, but they also openly acknowledge some of the work they have used as a foundation to build on top of. I definitely think that it's a very interesting release, especially being the first product out of Thinking Machines. And based on the people who are still there, I think it's a very strong team. And I would be looking out for their releases because I think they are going to play a very important role, especially they're not releasing an LLM. They are trying to completely change the paradigm of how we interact with these computer systems. Anyways, do let me know your thoughts. What do you think about this release? Have a look at the demos and tell me if you are impressed or not. I hope you found this video useful. Thanks for watching and as always, see you in the next one.",
-    "fetched_at": "2026-05-13T13:36:08.224136+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "该视频深入探讨Thinking Machines的交互模型架构，核心创新在于“时间标记化”（200毫秒分块），实现实时、全双工多模态交互。它区别于GPT-4o，采用统一的时间感知模型，结合快速交互模型与异步后台模型，并重构推理基础设施。演示了状态管理、多模态互动和时间感知能力，并提供了初步基准，强调",
-      "topics": [
-        "Model Architecture",
-        "Multimodal",
-        "Inference Optimization"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "Advanced",
-      "analyzed_at": "2026-05-24T13:27:48.371385+00:00"
-    },
-    "no_subtitle_count": 0,
-    "subtitle_retries": 0
   }
 ]

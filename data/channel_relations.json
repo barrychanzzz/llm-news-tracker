@@ -6,8 +6,8 @@
     "channel_b_name": "AI Explained",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Karpathy频道预计将深入探讨AI的技术实现与原理，而AI Explained则侧重于行业趋势、战略分析及广义影响，两者在AI领域互为补充。",
-    "generated_at": "2026-08-11T13:03:21.467746+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:52:36.695472+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -16,8 +16,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Karpathy频道预计侧重AI模型的基础原理和工程实现，而Two Minute Papers则专注于总结多模态AI领域的最新研究进展，两者内容互为补充。",
-    "generated_at": "2026-08-11T13:03:40.856872+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:52:51.842105+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -26,8 +26,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Andrej Karpathy的频道预计将专注于LLM的基础原理与核心架构，而Prompt Engineering频道则侧重于如何将LLM应用于生产环境、构建代理及系统优化，两者内容互为补充。",
-    "generated_at": "2026-08-11T13:04:02.916923+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:53:06.980361+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -36,8 +36,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Andrej Karpathy的频道（Channel A）预计侧重AI/LLM的工程与技术实现，而Machine Learning Street Talk（Channel B）则提供批判性视角并探讨其经济社会影响，两者互为补充。",
-    "generated_at": "2026-08-11T13:04:24.724492+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:53:22.127003+00:00"
   },
   {
     "channel_a_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -46,8 +46,8 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道可能侧重于LLM/AI的技术实现与原理，而B频道则深入探讨其深远的社会与伦理风险，两者在AI话题上提供了互补的视角。",
-    "generated_at": "2026-08-11T13:04:44.735337+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:53:37.259118+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -56,8 +56,8 @@
     "channel_b_name": "Yannic Kilcher",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Explained专注于多模态AI与行业策略分析，而Yannic Kilcher作为新频道，尽管目前内容重叠度为零，但在LLM/AI大框架下两者仍可能提供差异化的互补内容。",
-    "generated_at": "2026-08-11T13:05:22.073406+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:53:52.381774+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -66,8 +66,8 @@
     "channel_b_name": "Sam Witteveen",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道专注于多模态及AI战略分析，由于B频道是新频道且数据不足，其具体内容和与A的关系尚不明确，但若两者都专注于AI/LLM领域，则可能在不同侧面形成互补。",
-    "generated_at": "2026-08-11T13:05:49.316042+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:54:07.556095+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -76,18 +76,18 @@
     "channel_b_name": "AI Jason",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Explained 侧重于AI及LLM的宏观趋势与战略分析，而AI Jason 则专注于LLM的工程实践与效率优化，两者从不同层面互补。",
-    "generated_at": "2026-08-11T13:06:09.350236+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:54:22.677305+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "channel_a_name": "AI Explained",
     "channel_b_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_b_name": "Two Minute Papers",
-    "topic_overlap": 0.4,
+    "topic_overlap": 0.5,
     "relation_type": "complementary",
-    "description": "AI Explained侧重于AI发展策略与行业趋势的宏观分析，而Two Minute Papers则专注于具体新AI技术的介绍与性能解析，两者在多模态AI领域形成互补。",
-    "generated_at": "2026-08-11T13:06:30.928922+00:00"
+    "description": "两者在50%的LLM主题上有重叠",
+    "generated_at": "2026-08-12T01:54:37.807107+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -96,8 +96,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.3,
     "relation_type": "complementary",
-    "description": "“AI Explained”侧重于对AI发展趋势、多模态技术和行业策略的宏观分析，而“Prompt Engineering”则深入探讨LLM应用构建、代理设计和系统优化等工程实践。",
-    "generated_at": "2026-08-11T13:06:51.715886+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:54:52.928255+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -106,8 +106,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.2,
     "relation_type": "complementary",
-    "description": "AI Explained 侧重于分析AI领域最新的技术发展和公司策略，而 Machine Learning Street Talk 则提供对AI的批判性宏观视角及其社会经济影响，两者互为补充。",
-    "generated_at": "2026-08-11T13:07:13.169448+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:55:08.058667+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -116,8 +116,8 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Explained主要分析AI技术发展及产品策略，David Shapiro则着重探讨AI的社会伦理与生存风险，两者从不同维度互补解读AI。",
-    "generated_at": "2026-08-11T13:07:34.518095+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:55:23.198605+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -126,8 +126,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "B频道专注于多模态AI领域的最新研究和技术，而A频道（根据其创作者背景推测）可能覆盖更广泛的AI/LLM理论与技术深度分析，两者在内容上形成互补。",
-    "generated_at": "2026-08-11T13:07:55.421490+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:55:38.328371+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -136,8 +136,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Yannic Kilcher的频道可能侧重于LLM/AI的理论研究与深度分析，而Prompt Engineering则专注于LLM的实践工程、系统构建与生产部署，两者在广阔的LLM领域中形成互补。",
-    "generated_at": "2026-08-11T13:08:16.027255+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:55:53.475865+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -146,8 +146,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Yannic Kilcher频道侧重于AI研究与技术细节解析，而Machine Learning Street Talk则提供对AI的批判性社会经济视角，两者在理解AI的不同层面相互补充。",
-    "generated_at": "2026-08-11T13:08:42.029567+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:56:08.620950+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -156,8 +156,8 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道（假设延续Yannic Kilcher一贯风格）可能侧重AI的技术细节和进展，而B频道则深入探讨AI带来的社会和生存风险，两者在关注点上形成互补。",
-    "generated_at": "2026-08-11T13:09:02.537880+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:56:23.734231+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -167,7 +167,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:09:17.686481+00:00"
+    "generated_at": "2026-08-12T01:56:38.886168+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -177,7 +177,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:09:32.889508+00:00"
+    "generated_at": "2026-08-12T01:56:54.045150+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -186,8 +186,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Channel B提供对AI的批判性、宏观视角，而Channel A与B主题无重叠且同属LLM/AI领域，因此两者可能从不同方面切入，形成互补关系。",
-    "generated_at": "2026-08-11T13:10:02.926887+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:57:09.182846+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -197,7 +197,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:10:18.094764+00:00"
+    "generated_at": "2026-08-12T01:57:24.345232+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -207,7 +207,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:10:33.252908+00:00"
+    "generated_at": "2026-08-12T01:57:39.484729+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -217,7 +217,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:10:48.411214+00:00"
+    "generated_at": "2026-08-12T01:57:54.619494+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -227,7 +227,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:11:03.592818+00:00"
+    "generated_at": "2026-08-12T01:58:09.736653+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -237,27 +237,27 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:11:18.726489+00:00"
+    "generated_at": "2026-08-12T01:58:24.882240+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_a_name": "Two Minute Papers",
     "channel_b_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_b_name": "Prompt Engineering",
-    "topic_overlap": 0.4,
+    "topic_overlap": 0.3,
     "relation_type": "complementary",
-    "description": "两者在40%的LLM主题上有重叠",
-    "generated_at": "2026-08-11T13:11:33.890778+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-12T01:58:40.026595+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_a_name": "Two Minute Papers",
     "channel_b_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_b_name": "Machine Learning Street Talk",
-    "topic_overlap": 0.167,
+    "topic_overlap": 0.2,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:11:49.053084+00:00"
+    "generated_at": "2026-08-12T01:58:55.153047+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -267,7 +267,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:12:04.227789+00:00"
+    "generated_at": "2026-08-12T01:59:10.279371+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -277,7 +277,7 @@
     "topic_overlap": 0.083,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:12:19.398673+00:00"
+    "generated_at": "2026-08-12T01:59:25.408485+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -287,7 +287,7 @@
     "topic_overlap": 0.091,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:12:34.543523+00:00"
+    "generated_at": "2026-08-12T01:59:40.524885+00:00"
   },
   {
     "channel_a_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -297,6 +297,6 @@
     "topic_overlap": 0.25,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-11T13:12:49.708260+00:00"
+    "generated_at": "2026-08-12T01:59:55.667443+00:00"
   }
 ]
