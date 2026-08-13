@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "HwIgC80D3zc",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Distillation Explained: Why It’s So Misunderstood!",
+    "url": "https://www.youtube.com/watch?v=HwIgC80D3zc",
+    "published_at": "2026-08-12T13:00:35+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to DataForSEO for sponsoring this video — get $5 in free credits (standard is $1): https://l.dataforseo.com/44MSLlT\n\nAI Distillation Explained: Why It’s Misunderstood (and What It Means for Open Models)\n\nI break down why “distillation” is widely misunderstood in AI and how that confusion could fuel policy moves like banning open Chinese models. Using Moonshot’s rapid K2 → K2.6 → K3 progress and claims that it was “distilled” from top US frontier models, I explain textbook logit distillati",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-13T01:52:10.146277+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "JQ97GiDwPxc",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-12T01:49:47.884804+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-13T01:52:39.077151+00:00"
+    }
   },
   {
     "video_id": "O5N8VGWG20I",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-12T01:50:18.827421+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-13T01:52:39.077169+00:00"
+    }
   },
   {
     "video_id": "ofpqWw0OFKo",
@@ -49,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-12T01:50:03.773450+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-13T01:52:39.077172+00:00"
+    }
   },
   {
     "video_id": "revreN8LZ_M",
@@ -2959,35 +3004,6 @@
       "speaker": "Unknown",
       "technical_level": "Advanced",
       "analyzed_at": "2026-05-24T03:39:52.795173+00:00"
-    },
-    "subtitle_retries": 0,
-    "no_subtitle_count": 0
-  },
-  {
-    "video_id": "2VL3WtNMm90",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "RAG is Dead. Again. (Claude Agent SDK + Memory)",
-    "url": "https://www.youtube.com/watch?v=2VL3WtNMm90",
-    "published_at": "2026-05-14T13:15:00+00:00",
-    "view_count": 6858,
-    "duration": 760,
-    "duration_string": "12:40",
-    "description": "Checkout Milvus (44k stars on GitHub): https://github.com/milvus-io/milvus\n\nClaude can do a lot more than coding. In this video, I show you how to build a dual memory system using the Claude Agent SDK that combines vector search with file system tools to give your agents persistent, multi-layered retrieval over complex documents.\n\nLINKS:\nProject Github Repo: https://github.com/PromtEngineer/ParseRAG\nSignup Zilliz Cloud (managed Milvus) to claim $100 credits with business emails: https://tinyurl.",
-    "has_captions": true,
-    "raw_transcript": "You can use Claude for a lot more than coding. In this video, I'm going to show you a setup which gives your agent a multi-layered memory system which you can use for retrieval of information from any documents. This system is built on top of the agent SDK, but you can use it with Claude code. It uses some ideas from my agentic file search open-source project that gives your agent a set of simple tools that helps it to retrieve information from both structured and unstructured documents. To show you how it works, here are 16 different documents, each with a very complex layout that combines free-flowing text, tables, and images. Now, here I'm asking a complex question that needs information retrieval from multiple different documents, and then it needs the agent to reason about its results. So, here is how it works. The agent initially makes a plan, reads the folder, then based on that, it identifies the documents that it thinks are going to be interesting. It passes those files, look at those individually, then it does semantic search, and based on all of that analysis and results, it actually comes up with a response that is well-grounded in the documents that we are providing. And it also has the ability to go back if it missed a specific source during its retrieval process. Now, instead of retrieval of information, you can use this system as a memory system for your agent. At the moment, this agent is powered by Claude agent SDK, but you can use the same setup with Claude code or even Codex if you simply create an MCP server or skill around this thing. Now, the memory system has two different components. The first one is semantic similarity based. For this, we're using Milvus, which is a high-performance vector store. More on that later in the video. And then, the second one is simple tools which can use the file system. These tools involve scanning documents in a folder, reading those documents, parsing the documents, and searching for those documents. Think of this as tools that are available to Claude code when it's doing search for specific code segments. Now, we do one more thing. For every page that has a picture, we take a screenshot of that. All of this parsing of the documents is happening through Light Parser, which is an open-source project from Llama Index. And for vector store, I'm using Milvus, which is a high-performance vector store that can scale with your data. Here's the ingestion pipeline, which is going to look very familiar. It's a standard ingestion pipeline with one key difference. For document parsing, we are using Light Parser, which is great for processing complex structures in PDF files. And the idea is that not only it can process text, but you can detect the presence of images, and for those, we actually take screenshots and store them separately. Now, this is helpful because you don't have to take a screenshot of every page. You only take screenshot of the pages that actually have visual content in it, like images or graphs. But you also keep all the text components, which are going to be critical for text-based retrieval. Then, we run through a simple chunking process. In this case, we are using the Gemini embedding as a high-dimensional embedding, and everything is stored in Milvus vector store. Now, let's talk about the data structure that we are saving. Now, here's the simple schema of everything that we are storing inside Milvus. It's great. It can scale up to billions of records. But right now, we are including the source document, the extracted text, the computing computed embedding, then path to the actual image files that are extracted from it, and then also a number of different key metadata that we use for metadata-based filtering. Okay, so why Milvus? This is a full vector database, which is built for scale. It supports both CPU and GPU acceleration, which makes it a very interesting choice. If you're using Milvus light, you can just create a single file that contains everything. But if you need scale, this supports fully distributed Kubernetes native architecture that enables it to scale horizontally, which means you can run tens of thousands of search queries on billions of vectors. And the best part, it's under Apache 2.0, so you can use it for commercial purposes. And it has over 40,000 stars on GitHub. But if you want a hosted solution, they have Zilliz Cloud, which runs Milvus as a fully managed service for you. It's very simple to use, so you'll first create the client, then define the collection name, what is going to be the dimensions of your vector store, and after that, just provide your data for data ingestion. They are also the current sponsors of today's video. Now, the agent itself has two sets of tools. One is powered by Milvus. This is basic semantic similarity web search, and also the agent can get images, which are the screenshots of pages that contains visual information. On the other hand, it has access to file system. Basically, a number of different bash tools which enables the agent to scan a folder, preview different documents, parse them, read the entire document, and look for patterns. These tools are extremely powerful if you're doing any sort of search. Now, reading every document through file system-based tools is going to be pretty expensive. So, that's why we use the indexed path as a pre-filtering. So, we use the semantic similarity search to reduce the search space, to identify the most relevant chunks, and then we use these file system-based tools to read through the documents to which these chunks belong. And in the process, the system is smart enough that it can go back and look at a specific document if it was missed during the initial retrieval process. Now, here's the retrieval pipeline. The user asks a question, we compute embeddings, Milvus does the cosine similarity-based retrieval, we get top chunks, and then Claude through the agent SDK can look at those chunks, reason through it, can find the documents from which these chunks are coming from, read through those documents if it needs to, and backtrack if it thinks that the initial semantic retrieval missed any documents that are relevant. So, here's the GitHub repo. The code is going to be available for you to experiment. Now, this is going to give you an overview of what exactly the different tools are. Here's the main strategy that I tried to explain. Initially, it does a parallel scan, then deep dive, and then backtrack if it needs further information. Also, here are the instructions on how to set it up. I have already set up everything. So, I'm going to just walk you through a few examples of how this system works. Okay, so let me show you some example of how this system works, and it can do long horizon search. Now, for this example, we're using medical data that I have collected from multiple different sources. So, here's from FDA on how to manage high blood pressure. If you look at these documents, they have free-flowing text, tables, images, and there's no single structure, which it makes it very complex. If you use something like DocLing, it is going to have pretty hard time parsing this. So, this is where Llama Parser comes into play. One of the things that it does pretty nicely is that not only it can extract data from tables, but also it can identify images, and then take screenshot of these pages and put them separately. Now, this first question question is about the side effect of a specific medicine. This is something that an agentic rag or retrieval augmented generation system would be able to easily do because if you're using semantic similarity, then it can just look at what exactly this means, and will probably be able to find you the document in the first pass. And this is kind of what happens here as well. Initially, it is thinking about a plan, then runs the query through the semantic search mechanism, and it thinks that, okay, there's this one specific table. It fetches that and after that, it runs another search query to ensure that it has all the information and it can generate the response pretty accurately, which is grounded in the documents that it was looking at. But then, you can run more complex queries. So, let's say if you run a query like compare the diabetes medication guides from FDA versus ADA and what they cover differently. This is something that a normal rag system might have struggled with unless you run it through query decomposition, which initially looks at one guide, then the second one guide, and then have another reasoning step through it to look at the second one. Now, since we mentioned specific guides, so it actually goes scan the documents or scan the folders, identify that specific file, pick up both of these, and then go through a reasoning loop to produce the final answer. Then, you can have more open-ended questions. So, what food interactions should patient on the blood pressure medication be aware of? Now, in this case, the agent decides to have multiple different passes, and you can actually see that for every search query, it keeps changing it based on the context that it's gathering to ensure that it captures a wide variety of information sources. But, there is more you can do here. Uh it has access to a specific set of tools. You can tell the agent to use those tools. Uh so, let's say in this case we're asking for it to look for blood thinners and then scan the document folder to find any additional sources that were not covered in the initial search results. And the process that you see here is that initially it does search, then based on the queries that it generated, it starts parsing different documents and starts reading through them. Now, this one takes about 16 different steps. However, this kind of ensures that it's looking at all the relevant documents and making sure that whatever were missed during the initial retrieval, it's able to capture that. And that's kind of the beauty of this system. You can run pretty complex queries through it. So, this was a quick overview of the project that I'm currently building. I've given Claude agent's persistent memory. The code is open source. A link to the GitHub repo is going to be in the video description. I hope you find this video useful. Thanks for watching and as always, see you in the next one.",
-    "fetched_at": "2026-05-14T14:10:11.029634+00:00",
-    "analyzed": true,
-    "analysis": {
-      "summary": "该视频展示了一个为Claude智能体设计的先进多层记忆系统，用于从包含文本、表格和图像的复杂文档中检索信息。该系统结合了Milvus向量数据库进行语义搜索、Llama Index的Light Parser进行文档解析（包括图像截图），并赋予智能体文件系统工具，使其能进行复杂的规划、推理和回溯，以处理",
-      "topics": [
-        "RAG",
-        "Agent",
-        "Tool Use"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "Advanced",
-      "analyzed_at": "2026-05-24T13:27:06.108808+00:00"
     },
     "subtitle_retries": 0,
     "no_subtitle_count": 0
