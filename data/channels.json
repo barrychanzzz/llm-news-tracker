@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-08-14T13:03:11.489957+00:00"
+    "updated_at": "2026-08-15T01:09:06.379435+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "“AI Explained”频道深入解析大型语言模型（LLM）的最新进展与行业动态，涵盖多模态、智能体、推理等前沿技术，并对比分析主流科技公司在AGI路径上的战略布局与竞争。其独特之处在于对AI事件和技术趋势提供去炒作、批判性的解读，特别适合希望获得LLM领域深度洞察、理解战略走向和保持理性视角的专业人士及爱好者。",
+    "content_focus": "AI Explained频道主要关注LLM前沿技术，如多模态、AI Agent和推理能力，并深度分析AGI发展路径及行业巨头策略，以去 Hype 的冷静视角解读重大事件。这使其成为寻求对AI最新进展和行业趋势进行客观、深入分析的专业人士及爱好者的理想选择。",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-08-14T13:03:11.528872+00:00"
+    "updated_at": "2026-08-15T01:09:06.462436+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-08-14T13:03:11.567872+00:00"
+    "updated_at": "2026-08-15T01:09:06.842017+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,29 +41,29 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-08-14T13:03:11.908684+00:00"
+    "updated_at": "2026-08-15T01:09:07.193970+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "该频道主要探讨LLM的实际应用与效率优化，通过工程实践分享如何有效利用AI工具，例如减少Token消耗和构建自动化工作流。其独特之处在于结合具体案例和技术工具（如Tmux），提供实用的操作指南和个人经验，特别适合希望将LLM技术落地、提升开发效率的工程师与技术爱好者。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-08-14T13:03:12.251270+00:00"
+    "updated_at": "2026-08-15T01:09:07.378159+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "name": "Two Minute Papers",
     "url": "https://www.youtube.com/@TwoMinutePapers",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
-    "content_focus": "这个频道主要聚焦大型语言模型（LLM）前沿研究，涵盖多模态AI、推理能力和效率优化等关键议题。它以深入浅出的方式，快速提炼最新AI研究论文的核心要点和突破，非常适合希望及时了解LLM领域最新进展的AI研究员、开发者和技术爱好者。",
+    "content_focus": "主要关注Multimodal相关内容",
     "is_seed": true,
     "active_score": 2,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-08-14T13:03:12.696855+00:00"
+    "updated_at": "2026-08-15T01:09:07.455879+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -74,28 +74,28 @@
     "is_seed": true,
     "active_score": 4,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-08-14T13:03:13.043285+00:00"
+    "updated_at": "2026-08-15T01:09:07.921191+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "name": "Machine Learning Street Talk",
     "url": "https://www.youtube.com/@MachineLearningStreetTalk",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
-    "content_focus": "该频道以独特的批判性和系统性视角，探讨LLM的评估基准、行业应用及AI伦理等议题，挑战当前对AGI的拟人化炒作。它强调将AI视为集体经济生态系统的一部分，而非孤立技术，适合希望深入理解AI社会经济影响、寻求前沿思想碰撞的研究者和决策者。",
+    "content_focus": "主要关注Evaluation & Benchmark相关内容",
     "is_seed": true,
     "active_score": 1,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-08-14T13:03:13.207855+00:00"
+    "updated_at": "2026-08-15T01:09:08.333166+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "name": "David Shapiro",
     "url": "https://www.youtube.com/@DaveShap",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
-    "content_focus": "该频道主要从宏观社会、伦理和权力结构角度，深入探讨LLM及通用人工智能对人类未来可能造成的深远影响和潜在威胁。其独特之处在于以批判性、甚至悲观的视角，警示AI可能导致“技术封建主义”和人类“冗余化”，挑战主流乐观论调。适合对AI的社会伦理、政治经济影响有深刻思考，并寻求非主流、警示性观点的观众。",
+    "content_focus": "主要关注Industry Application相关内容",
     "is_seed": true,
-    "active_score": 2,
+    "active_score": 1,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-08-14T13:03:13.533408+00:00"
+    "updated_at": "2026-08-15T01:09:08.528347+00:00"
   }
 ]
