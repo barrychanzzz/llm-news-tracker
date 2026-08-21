@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "fgsmq8f3sWQ",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Every Exponential Ends — Silicon Valley Forgot — Adam Becker",
+    "url": "https://www.youtube.com/watch?v=fgsmq8f3sWQ",
+    "published_at": "2026-08-20T19:30:59+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Astrophysicist Adam Becker, author of \"What Is Real?\", joins Tim Scarfe to take apart the futures Silicon Valley keeps selling: the 2045 singularity, mind uploading, Mars colonies, and the AI apocalypse. His new book *More Everything Forever* argues these ideas are hugely influential, mostly evidence-free, and bankrolled by tech billionaires who need a story in which growth never ends.\n\nBecker does the physics the boosters skip. Kurzweil's \"law of accelerating returns\" rests on cherry-picked dat",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-21T01:12:39.188868+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "kyYepbhe1g8",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-20T01:08:37.274107+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-21T01:13:00.643966+00:00"
+    }
   },
   {
     "video_id": "UK2xbBmxywg",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-20T01:08:50.770332+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-21T01:13:00.643977+00:00"
+    }
   },
   {
     "video_id": "yyJpwHBKRCg",
@@ -2842,35 +2878,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-05-26T15:26:18.470153+00:00"
-    }
-  },
-  {
-    "video_id": "ZLx88uFDj9Q",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "The EASIEST Way to Build Voice Agents",
-    "url": "https://www.youtube.com/watch?v=ZLx88uFDj9Q",
-    "published_at": "2026-05-22T16:16:33+00:00",
-    "view_count": 1122,
-    "duration": 786,
-    "duration_string": "13:06",
-    "description": "I built an AI twin of myself — it sounds like me, knows what I know \nabout RAG, and can book meetings on my calendar. Talking to it was \ngenuinely kind of scary. Here's how I built it in ElevenLabs' new \nElevenAgents platform, walked through step by step.\n\n🎁 2 months of ElevenLabs Creator tier free: https://elevenlabs.io/?coupon=INFLUENCER-917340C2\n\nThanks to Elevanlabs for sponsoring this video.\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttp",
-    "has_captions": true,
-    "raw_transcript": "Okay, so I created a digital twin of myself, which not only sounds like me, but also has knowledge of retrieval augmented generation systems. And talking to it is kind of scary. Let me show you how I did it. Hey, I'm Muhammad's AI twin from the prompt engineering channel. Ask me anything about rag agents. >> Hey, I saw one of your videos on agentic file search. Can you tell me when would we use that? Agentic file search is really useful when you need to answer complex questions that require reasoning across multiple documents, especially when those documents reference each other. So, this is Eleven Labs a new conversational agent platform from Eleven Labs that can help you build powerful agents that can take actions on your behalf. And all of this is without writing a single line of code. There are a number of pre-built templates that you can reuse for your specific needs. And it's a multi-lingual voice agent that has support for more than 70 different languages. And you can deploy these agents with their own phone numbers, WhatsApp, or Telegram. These agents have a large number of integrations that enables it to connect to external tools. In my case, I have connected this directly to Calendly, so it can schedule meetings directly on my calendar. They also recently released something called speech engine. And the idea is that you will be able to convert a chat agent into speech engine with a single prompt. You can connect your own knowledge base, your own CRM, your own tools, and the agent will be able to use them while it's conversing with the user through speech interfaces, which is pretty incredible. I use Eleven Labs for my own business, and when they reached out to sponsor this video, I'm actually pretty excited to create and show you some custom agents. Okay, so let me show you how I created this agent and I'll walk you through step-by-step. Also, I'll show you some more templates that you can reuse if you're interested in a specific conversational agent for your needs. Okay, so let me show you how to build your own agents, but before that I want to show you something else. On 11 Labs, there are a number of different voices that you can use. I use one of my own voices. This is specifically trained on almost 2 hours of my voice conversation data or speech data. Here is actually how it sounds like. As the Earth turns, change guides the seasons around. So, if you want to clone your voice, I think 11 Labs is one of the most powerful platform that lets you do it. Okay, so let me show you how this agent was built. Now, in order to build a new agent, you need to go to agents, click on this, and then you can either select personal assistant or business agent. There are also a number of different templates that are available that you can reuse. And each one of them is going to basically walk you through a step-by-step process where it collects a lot of information about your specific need. And it will help you build a customized voice agent. Now, in our case, we are going to start with completely blank agent. I am going to call it Prompt Engineering AI Twin. Let's call it two. Now, you can select chat only. So, audio will not be processed and only text will be used, right? Or you can just create a conversational agent using voice. There's also these procedures which enable automatic agent creation from natural language. So, you can describe what exactly you want and the platform will help you build that agent. All right, in my case I'm going to just say create agent. Okay, so when you create a new agent, this is the platform you're going to see. This is the system prompt that actually drives the whole agent. It controls the behavior of the agent, how it should respond to users. Now, on the right-hand side you're going to see different voices. Since I have a custom voice, so I can select that custom voice. And I can also control the expressive mode. All right, if you enable this, this is going to enhance your agent with emotionally intelligent speech, natural intonation, and expressive audio tags. In my case, I have found that if you were using your own voice, it can have some impact on the voice quality. However, if you're using one of these pre-built voices, you definitely want to experiment with this because it can improve the quality of audio that it generates and it's a lot more natural. Now, in our case, we're going to provide not only a system prompt, but also a knowledge base. And I'll show you that in a minute, but here's my system prompt, which basically tells it that you're Muhammad's AI twin on the prompt engineering channel. I run my own consulting business, so it talks about what exactly the channel does. Then, there's a knowledge base, and if somebody wants to book a one-on-one call with me, they can do it through my Calendly link. Also, we can have a first message. So, when the user dials in or they call your agent, you can have a predefined message that basically tells it what exactly the agent is doing. All right, so that's going to be kind of a welcome message. In my case, I want to be up front that it's an AI twin. You can enable interruptions if you want. Now, in terms of the LLMs, you have a number of different options. You can select some of these open-weight models or uh some of the proprietary models. Each one of them have their own associated cost per minute of conversation that is happening. Okay. The main thing that you want to provide for custom agent is the knowledge base. What type of data it's going to use in order to answer user responses. So, you have a couple of options. In my case, I am using RAG. Now, you can configure different parameters of RAG. Uh if you are interested in the topic, I'd highly recommend to check out my videos on the topic. But, in this case, what I did was I created transcripts of a number of my videos on my channel that are specifically related to RAG or retrieval-augmented-generation. Okay. So, if you go to my channel, there are a number of different videos that I have created on RAG. So, I took some of these videos, transcribed them, and those are going to be used as a knowledge base. So, if the user asks questions, the agent will be able to generate responses based on that specific knowledge base. There are four different videos. Now, each one of them has its own metadata. I specifically want to tell the agent when exactly this video was released, what is in the description, right? But, based on your business needs, you probably want to have very condensed information. This This for demonstration purposes. You can also connect tools to it because this is where the main power of these agents is. So, at the moment I have connected my Calendly account. So, it can look at who the owner is, what type of events, right? And I can add more tools to this agent if I want. There's also the possibility of adding web hooks. So, this would be able to retrieve data and perform actions on specific websites. Let me show you a quick demo of how this looks like in action. So, you can switch between voice and text mode. So, let's do the voice mode. Okay, so this was a quick setup. Hey, I'm Muhammad's AI twin from the Prompt Engineering channel. Ask me anything about rag agents. Hey, I saw one of your videos on agentic file search. Can you tell me when would we use that? Agentic file search is really useful when you need to answer complex questions that require reasoning across multiple documents, especially when those documents reference each other. Traditional rag systems often struggle with this because chunking can break the context. Is there a way to talk to Muhammad? Yes, you can book a 30-minute consulting call with Muhammad if you're working on a real project involving rag systems. Does he have availability this Wednesday? Muhammad doesn't have any availability this Wednesday for a 30-minute consulting call. Would you like to check for another day or perhaps a different event type? Let's check uh next week Wednesday. Yes, Muhammad has two slots available next Wednesday, May 28th, both at 7:00 p.m. Pacific time. Which of those works for you? Okay, 7:00 p.m. Pacific time works. Perfect, I'll send you Muhammad's booking link. Click through, drop in your name and email, and the calendar invite hits your inbox right after. All right. And then I can just select the time that I want. Now, the beauty is that you can create branches just like if you are working on a GitHub repo, which is pretty awesome, right? So, you'll just create a new branch. I have a uh workflow test branch here. And you can go Let's call it test two. And you can simultaneously test multiple different branches, which is pretty amazing. Now, let me show you some of the templates, which I think is a really great starting point because they have a number of different templates for different industries. So, here's a customer support, hotel reservation, front desk, receptionist, right? Appointment setter, IT help desk. It's It's pretty comprehensive. We can select one of them. Let's say we're going to go to the customer support. Here is basically a workflow that going to control how the agent is going to behave. So, seems like there's an orchestrator, which identifies the issue, and then based on the type of the issue, it is basically uh routing it to a sub agent. Okay. So, if you were to use this template, here is the prompt that goes in. So, here's the personality, then what type of environment, right? Tone, goals. And then there are uh specific instructions on when to end the call. Let's hit continue. You can connect different tools. Right now, it's connected to Zendesk, uh right? And Salesforce. I'm going to just skip that and create the agent. Okay. So, let's preview this. Okay. So, this one is designed for supporting for an AI platform that provides APIs for text generation, speech synthesis, and conversational AI. And then you give it access to the specific tools that you want, and the agent will be able to route that for you. Now, something that I really like about this is there's a dashboard where you can actually monitor number of calls, what is the total cost per LLM. And it gives you a lot of details that are going to be highly valuable. Also, you can actually look at let's say agent response time. So, this is extremely helpful, and this type of observability is something that you definitely want if you are building any agentic systems. And then it even have the specific conversations that you can actually go back and listen to and see if something failed and why it failed. Now, in terms of pricing, there are two different tiers. The one is for individuals, and the other one is for businesses. And you can select these based on your needs. However, to test it out, you're going to get access to 2 months of creator tier using link in the video description. Anyways, do check out 11 agents from 11 Lab, especially if you're building any customer-facing conversational agents. It's a very easy-to-use platform for building conversational experiences. Anyways, I hope you found this video useful. Thanks for watching, and as always, see you in the next one.",
-    "fetched_at": "2026-05-23T02:53:32.593928+00:00",
-    "analyzed": true,
-    "subtitle_retries": 0,
-    "no_subtitle_count": 0,
-    "analysis": {
-      "summary": "视频演示如何使用Eleven Labs平台轻松构建语音AI代理，无需代码。讲解了如何创建数字分身、克隆声音、集成RAG知识库（使用视频转录）、连接工具（如Calendly），以及多语言支持、预设模板、代理行为定制、工作流分支和性能监控等功能。旨在简化客户服务等对话代理的开发。",
-      "topics": [
-        "Agent",
-        "RAG",
-        "Tool Use"
-      ],
-      "speaker": "Muhammad",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-05-24T03:32:24.331813+00:00"
     }
   }
 ]
