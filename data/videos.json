@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "gasgivVCl2U",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs — Ilia Shumailov & Alexander Panfilov",
+    "url": "https://www.youtube.com/watch?v=gasgivVCl2U",
+    "published_at": "2026-08-22T20:22:07+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Tim Scarfe speaks with Ilia Shumailov and Alexander Panfilov about their paper, Stealing Reasoning Traces from Proprietary LLM APIs.\n\nThe core bug sounds deceptively simple: providers return encrypted reasoning state so conversations can be resumed or forked. But those blobs can be replayed across users and sibling models. A smaller model can ask the provider to decrypt the trace, then repeat the hidden reasoning in plain text. The discussion covers leaked private data, a broadly reusable jailbr",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-23T01:14:33.111130+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "fgsmq8f3sWQ",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
