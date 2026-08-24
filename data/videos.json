@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-23T01:14:33.111130+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-24T01:12:12.238847+00:00"
+    }
   },
   {
     "video_id": "fgsmq8f3sWQ",
@@ -2851,60 +2860,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-05-28T03:32:22.251354+00:00"
-    }
-  },
-  {
-    "video_id": "huAwz_BR8WM",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
-    "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-    "published_at": "2026-05-25T17:49:30+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thank you to Google DeepMind for the invite. 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Sta",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-05-26T15:26:03.673165+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-05-27T15:41:08.552393+00:00"
-    }
-  },
-  {
-    "video_id": "PnEusTChQcE",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Managed Agents: The Biggest Shift in AI Development Right Now",
-    "url": "https://www.youtube.com/watch?v=PnEusTChQcE",
-    "published_at": "2026-05-25T12:51:56+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thanks to n8n for sponsoring this video: https://plug.dev.plug.dev/kY17OO2\n\nGoogle just shipped Managed Agents in the Gemini API as part of \nAntigravity 2.0 — six weeks after Anthropic launched their own \nversion. In this video, I walk through what Managed Agents actually \nare, the four places where the Anthropic and Google implementations \ndiverge, and the vendor-lock-in trap most teams underestimate. Plus \nthe Google Enterprise tier almost nobody is talking about.\n\n=== KEY LINKS ===\n\nAnthropic",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-05-25T14:53:00.714613+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-05-26T15:26:18.470153+00:00"
     }
   }
 ]
