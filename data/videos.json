@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "tNgj9-GMilw",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Elon Musk says robots and AI will end money",
+    "url": "https://www.youtube.com/watch?v=tNgj9-GMilw",
+    "published_at": "2026-08-25T17:00:17+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-26T01:13:25.522455+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "_9OT25ZvrWs",
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "channel_name": "AI Jason",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-08-25T12:44:21.452771+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "wMl6c_r0ubw",
@@ -31,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-08-25T01:11:03.301642+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-08-26T01:13:43.986409+00:00"
+    }
   },
   {
     "video_id": "gasgivVCl2U",
@@ -2842,33 +2869,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-05-30T02:58:14.166903+00:00"
-    }
-  },
-  {
-    "video_id": "HDMqDV7mmGo",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Prompt Caching: Cut Your AI Cost by 90%",
-    "url": "https://www.youtube.com/watch?v=HDMqDV7mmGo",
-    "published_at": "2026-05-27T12:45:19+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thanks to Descope for sponsoring this video, checkout Agent Identify Hub: https://descope.plug.dev/BWwF1nd\n\nI break down why AI model prices are rising at most labs while DeepSeek cut V4 Pro pricing by 75%, and why prompt caching is the key. I explain the two phases of an LLM request (compute-bound prefill vs memory-bound decode), what the KV cache stores, and why reusing cached prefixes can cut cost and latency, citing the “Don’t Break the Cache” paper’s reported savings. I then cover how DeepS",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-05-27T15:40:32.476133+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-05-28T15:53:01.318286+00:00"
     }
   }
 ]
