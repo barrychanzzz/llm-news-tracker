@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "KL9_1GbmCic",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+    "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+    "published_at": "2026-08-27T19:16:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk reports, to Chinese Labs, pre-training debacles to questionable cybersecurity calls, a lot has happened recently, beneath the headlines…\n\nhttps://80000hours.org/aiexplained\n\n\npablo2004romero@gmail.com\nhttps://integrity-bench.c",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-27T21:48:56.177058+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "ekimKKpDRPE",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "The OpenAI HuggingFace attack is pure stupidity",
+    "url": "https://www.youtube.com/watch?v=ekimKKpDRPE",
+    "published_at": "2026-08-27T18:52:47+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-08-27T21:49:12.571802+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "L9mMfAFwbl4",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-08-27T07:25:34.136676+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "tNgj9-GMilw",
@@ -2851,33 +2887,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-01T04:00:01.189807+00:00"
-    }
-  },
-  {
-    "video_id": "aJvP3nXWkwM",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-    "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-    "published_at": "2026-05-29T15:07:35+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-05-29T15:28:24.253329+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-05-30T13:28:24.852780+00:00"
     }
   }
 ]
