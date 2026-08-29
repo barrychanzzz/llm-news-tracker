@@ -6,8 +6,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Channel A或将深究AI及LLM的底层原理与构建，而Channel B则聚焦开源模型的应用策略、部署实践与性能优化，两者在AI领域相互补充。",
-    "generated_at": "2026-08-28T21:47:58.418573+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-29T05:46:07.296526+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -16,8 +16,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Explained 频道侧重于人工智能的伦理、风险及未来趋势分析，而 Prompt Engineering 频道则深入探讨开源大语言模型的技术实现与应用策略，两者从不同维度互补了对AI领域的理解。",
-    "generated_at": "2026-08-28T21:48:18.799998+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-29T05:46:22.467264+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -27,7 +27,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-28T21:48:34.050812+00:00"
+    "generated_at": "2026-08-29T05:46:37.634805+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -37,7 +37,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-28T21:48:49.212756+00:00"
+    "generated_at": "2026-08-29T05:46:52.814161+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -46,8 +46,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Jason频道专注于LLM的实战落地与效率提升，Prompt Engineering则深入分析开源模型的技术细节与性能优化，两者互为补充。",
-    "generated_at": "2026-08-28T21:49:12.823745+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-29T05:47:07.985957+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -56,8 +56,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A侧重最新AI研究突破的快速解读，B深入开源LLM的工程实践与优化，两者互补。",
-    "generated_at": "2026-08-28T21:49:34.204793+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-08-29T05:47:23.168310+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -67,7 +67,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-28T21:49:49.348231+00:00"
+    "generated_at": "2026-08-29T05:47:38.332111+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -77,6 +77,6 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-08-28T21:50:04.510753+00:00"
+    "generated_at": "2026-08-29T05:47:53.500339+00:00"
   }
 ]
