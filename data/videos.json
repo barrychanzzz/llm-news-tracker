@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-01T16:07:23.857537+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "LBiNcdGNgrg",
@@ -2662,33 +2662,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-05T14:50:12.985936+00:00"
-    }
-  },
-  {
-    "video_id": "iz7elwbqZVI",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-    "url": "https://www.youtube.com/shorts/iz7elwbqZVI",
-    "published_at": "2026-06-03T17:00:19+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-04T14:59:49.798605+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-05T14:50:12.985953+00:00"
     }
   }
 ]
