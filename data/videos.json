@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "_36g9LVM3wA",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Fable 5.1 — Anthropic Finally Listened?",
+    "url": "https://www.youtube.com/watch?v=_36g9LVM3wA",
+    "published_at": "2026-09-01T20:11:01+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In this video, I break down Anthropic’s new Claude Fable 5.1 release, including its improved token efficiency, benchmark results, and what the new cache-read pricing means for real-world costs.\n\nLINKS:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://pbs.twimg.com/media/HRJoa2QWIAAAOJX?format=png&amp;name=4096x4096\nhttps://x.com/cognition/status/2094849472119374145\nhttps://pbs.twimg.com/media/HRJ4-32XgAAkK3P?format=jpg&amp;name=4096x4096\nPrompt Caching video: https://youtu.be/HDMqDV",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-02T16:00:30.138700+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "w9RDunJACkc",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-01T16:07:23.857537+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-02T16:00:43.736906+00:00"
+    }
   },
   {
     "video_id": "LBiNcdGNgrg",
@@ -2635,33 +2662,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-06T13:42:23.665074+00:00"
-    }
-  },
-  {
-    "video_id": "_sCme6IKOAM",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Nemotron 3 Ultra: Is NVIDIA a Model Company Now?",
-    "url": "https://www.youtube.com/watch?v=_sCme6IKOAM",
-    "published_at": "2026-06-04T13:15:02+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "NVIDIA just released Nemotron 3 Ultra, a 550B mixture-of-experts model built on a hybrid Transformer-Mamba architecture, and it's a clear sign of how far NVIDIA has moved beyond being just a hardware company. In this video I break down what the model is actually good at and where it still lags, the other open-weight models NVIDIA is shipping across speech, retrieval, robotics, and world models, and the business logic behind giving it all away for free. I'll also walk through how to access Nemotr",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-04T15:00:05.108280+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-05T14:50:12.985936+00:00"
     }
   }
 ]
