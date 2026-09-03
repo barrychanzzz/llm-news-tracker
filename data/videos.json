@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "_egu7OFem-k",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AI Internals Are Weird — Tom McGrath",
+    "url": "https://www.youtube.com/watch?v=_egu7OFem-k",
+    "published_at": "2026-09-02T21:15:54+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Tom McGrath is co-founder and Chief Scientist at Goodfire, and a former Google DeepMind researcher. He joins Tim Scarfe to ask what neural networks actually learn, whether their internal representations converge on structures in the world, and whether interpretability can extract new scientific knowledge rather than merely explain model outputs.\n\nBeginning with AlphaZero and learned modularity, the conversation moves into neural geometry: concept manifolds, reusable computation inside Llama, and",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-03T03:03:06.170210+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "_36g9LVM3wA",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-02T16:00:30.138700+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "w9RDunJACkc",
