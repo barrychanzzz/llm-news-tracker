@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "rKUKTIb3Q-o",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "GPT-6 Astra: The harness matters more than you think",
+    "url": "https://www.youtube.com/watch?v=rKUKTIb3Q-o",
+    "published_at": "2026-09-04T13:30:10+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "GPT-6 Astra just solved ARC-AGI 3 thanks to its native harness that preserves thinking and compaction. This video explores how to use these learning in your own harness. \n\nLINKS:\nhttps://arcprize.org/blog/astra\nhttps://openai.com/index/gpt-6-astra/\nhttps://engineerprompt.ai/writing/ox-alpha-harness/\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-04T15:48:53.052671+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "Spuza-KwTJ4",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "GPT 6 Astra, so good even OpenAI are worried",
+    "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+    "published_at": "2026-09-04T11:37:27+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impressive results\n13:06 - bonus comparisons (plus trading)\n18:40 - concerning trend\n21:24 - Cot Control\n\nG",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-04T15:48:36.808445+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "B3LXEW4Pc-w",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-03T15:50:19.855884+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-04T15:49:19.706613+00:00"
+    }
   },
   {
     "video_id": "_egu7OFem-k",
@@ -58,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-03T15:50:35.252861+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-04T15:49:19.706625+00:00"
+    }
   },
   {
     "video_id": "_36g9LVM3wA",
@@ -2626,60 +2680,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-08T15:51:21.572652+00:00"
-    }
-  },
-  {
-    "video_id": "AoiGZl1Pc-E",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Claude is Building Itself...",
-    "url": "https://www.youtube.com/watch?v=AoiGZl1Pc-E",
-    "published_at": "2026-06-06T13:00:37+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "In this episode, I break down Anthropic’s research on recursive self-improvement—AI systems that can design and train the next generation with less human help—and why the key battleground is “taste” (choosing goals and next steps). I compare this to evolutionary algorithms and newer examples like DeepMind’s AlphaEvolve, Sakana’s Darwin Gödel Machine, and Karpathy’s AutoResearch, then cover METR Task Horizon and how task length has been doubling. I go through Anthropic’s internal results (Claude ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-06T13:41:54.798502+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-07T13:52:09.149517+00:00"
-    }
-  },
-  {
-    "video_id": "82m7YqosdgU",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "AI Agents as \"Games Masters\"? 🎮🔥",
-    "url": "https://www.youtube.com/shorts/82m7YqosdgU",
-    "published_at": "2026-06-06T06:20:46+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested inside immersive game environments to change how we play. 🧠 \nHashtags: #aiingames #gaming #ai #gamedev #futuretech",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-06T13:41:38.260652+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-07T13:52:09.149537+00:00"
     }
   }
 ]
