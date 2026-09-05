@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-04T15:48:53.052671+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-05T14:38:42.635632+00:00"
+    }
   },
   {
     "video_id": "Spuza-KwTJ4",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-04T15:48:36.808445+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-05T14:38:42.635643+00:00"
+    }
   },
   {
     "video_id": "B3LXEW4Pc-w",
@@ -2653,33 +2671,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-10T15:34:02.881230+00:00"
-    }
-  },
-  {
-    "video_id": "XjIU6tv7ipw",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Nobody gets this right",
-    "url": "https://www.youtube.com/watch?v=XjIU6tv7ipw",
-    "published_at": "2026-06-07T11:44:08+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-07T13:51:47.442122+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-08T15:51:21.572652+00:00"
     }
   }
 ]
