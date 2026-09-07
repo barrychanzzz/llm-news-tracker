@@ -6,8 +6,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Andrej Karpathy频道可能侧重LLM的底层原理与构建实践，而Prompt Engineering频道则专注于新模型的发布与应用策略，两者互为补充。",
-    "generated_at": "2026-09-06T15:03:21.254205+00:00"
+    "description": "卡帕西频道可能侧重于大型语言模型（LLM）的底层原理和工程实现，而Prompt Engineering频道则聚焦于最新LLM模型的评测与实战应用，两者在技术深度和实用性上形成互补。",
+    "generated_at": "2026-09-07T03:03:09.419690+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -16,8 +16,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道侧重提供LLM的综合性解释和宏观趋势分析，而B频道则深入探讨新模型的实际应用、性能评估及实践技巧，两者内容互为补充。",
-    "generated_at": "2026-09-06T15:03:45.511152+00:00"
+    "description": "AI Explained侧重于LLM和AGI的宏观影响与未来展望，而Prompt Engineering则专注于模型的具体评测与提示工程的实践应用，两者在主题上形成互补。",
+    "generated_at": "2026-09-07T03:03:30.746425+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -26,8 +26,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道可能侧重于对AI/LLM研究的深入分析和理论讲解，而B频道则专注于LLM模型的最新进展、应用实践和提示工程技巧，两者共同为观众构建了一个全面的LLM知识体系。",
-    "generated_at": "2026-09-06T15:04:06.281715+00:00"
+    "description": "频道B提供LLM最新模型发布与提示工程的实战分析，频道A（尽管数据不足）可能侧重于理论基础或更广泛的研究解读，两者在LLM领域互为补充。",
+    "generated_at": "2026-09-07T03:03:53.569122+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -36,8 +36,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "B频道聚焦LLM前沿进展与实践，而A频道作为新频道预计将从不同角度切入LLM/AI话题，两者内容互补。",
-    "generated_at": "2026-09-06T15:04:41.022818+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-09-07T03:04:08.752546+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -46,8 +46,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Channel A侧重LLM的工程实践与系统优化，Channel B关注LLM的前沿模型与技术分析，两者形成互补。",
-    "generated_at": "2026-09-06T15:05:01.770299+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-09-07T03:04:23.897471+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -56,8 +56,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道侧重于LLM领域的突破性研究及其深远影响，而B频道则聚焦于LLM的最新进展、实际应用和可能的提示工程技巧，两者提供了不同侧面的价值。",
-    "generated_at": "2026-09-06T15:05:27.625042+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-09-07T03:04:39.063438+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -66,8 +66,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "频道A聚焦LLM的最新进展与应用策略，频道B则深入探讨其内部机制与批判性研究，两者在LLM领域提供互补的视角。",
-    "generated_at": "2026-09-06T15:05:47.402180+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-09-07T03:04:54.207768+00:00"
   },
   {
     "channel_a_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -76,7 +76,7 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "A频道侧重LLM的技术前沿、模型分析和实践应用，而B频道则涵盖更广泛的AI行业动态、争议和未来展望，两者形成互补。",
-    "generated_at": "2026-09-06T15:06:07.701382+00:00"
+    "description": "两个频道都在LLM领域，但侧重不同",
+    "generated_at": "2026-09-07T03:05:09.345925+00:00"
   }
 ]
