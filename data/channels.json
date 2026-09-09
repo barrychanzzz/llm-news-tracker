@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-09-09T03:12:46.916302+00:00"
+    "updated_at": "2026-09-09T15:58:16.278607+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "该频道主要关注大语言模型（LLM）和通用人工智能（AGI）的前沿发展，深入探讨未来模型预测、行业领袖观点及AI可能带来的潜在风险与社会影响。其独特之处在于以引人入胜、常带戏剧性的方式解读AI的突破与挑战，旨在揭示技术快速演进中的惊人进展与潜在危机。此频道特别适合希望了解AI未来走向、社会影响而非深入技术细节的科技爱好者和大众。",
+    "content_focus": "AI Explained频道主要深入探讨最新的大型语言模型进展、AI技术突破及通用人工智能（AGI）的未来发展与潜在风险。该频道以引人入胜的方式，追踪行业巨头的前沿言论和创新，并分析AI可能带来的深远影响和挑战。因此，它非常适合对AI和LLM的未来趋势、潜在突破及社会影响感兴趣的普通观众和科技爱好者。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-09-09T03:12:47.040024+00:00"
+    "updated_at": "2026-09-09T15:58:16.458691+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-09-09T03:12:47.158104+00:00"
+    "updated_at": "2026-09-09T15:58:16.682996+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,61 +41,61 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-09-09T03:12:47.559370+00:00"
+    "updated_at": "2026-09-09T15:58:16.830323+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "该频道专注于LLM的实践工程，探讨提示工程、代理协调及工作流优化，通过实际操作展示如何高效扩展LLM代理并使用特定工具（如Tmux）优化令牌使用。这使其特别适合寻求构建、优化和扩展LLM应用及工作流的开发人员、工程师和提示工程师。",
+    "content_focus": "AI Jason频道专注于LLM的实战应用，如提示工程、AI代理规模化部署及自动化构建，并特别强调技术优化（如节省token）和“循环工程”的迭代实践。其内容面向希望将LLM技术落地、追求效率和具体成果的开发者和工程师，教授如何通过实用工具和方法实现LLM项目的快速增长与优化。",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-09-09T03:12:47.682534+00:00"
+    "updated_at": "2026-09-09T15:58:16.915213+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "name": "Two Minute Papers",
     "url": "https://www.youtube.com/@TwoMinutePapers",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
-    "content_focus": "\"Two Minute Papers\" 主要聚焦于最新、功能强大且日益免费或开源的大语言模型（LLM）突破，及其对现有市场的颠覆性影响。该频道以其招牌的简洁风格，高效提炼复杂的AI研究，强调技术的新奇之处和实际应用潜力，非常适合希望快速掌握前沿AI动态的开发者、研究人员及技术爱好者。",
+    "content_focus": "该频道主要聚焦大型语言模型（LLM）的最新前沿进展，以简洁明了的方式快速解读复杂的AI研究和新兴模型。它独特地浓缩了AI突破的核心概念、深远影响及不寻常之处，使高深的技术主题易于理解。对于希望高效掌握最新LLM动态、无需深究技术细节的科技爱好者、研究人员和行业观察者来说，本频道是理想选择。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 2,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-09-09T03:12:48.156248+00:00"
+    "updated_at": "2026-09-09T15:58:16.993780+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "name": "Prompt Engineering",
     "url": "https://www.youtube.com/@engineerprompt",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
-    "content_focus": "“Prompt Engineering”频道主要关注最新大型语言模型（LLM）的发布、更新及其性能评估，提供对GPT、Gemini等前沿模型的及时分析。它可能深入探讨模型架构与推理优化，并从提示工程的角度解读新模型的功能与应用潜力。对于希望快速掌握LLM技术前沿、了解模型特性及其在实践中应用潜力的开发者、研究人员及技术爱好者而言，该频道极具价值。",
+    "content_focus": "该频道主要关注最新大型语言模型（LLM）的发布动态，并对其性能、架构及实用性进行深入探讨。它以独到的批判性视角，评估新模型的实际价值与改进，对于希望紧跟LLM前沿技术、优化提示工程实践的开发者和爱好者而言，极具参考意义。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 3,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-09-09T03:12:48.280492+00:00"
+    "updated_at": "2026-09-09T15:58:17.188272+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "name": "Machine Learning Street Talk",
     "url": "https://www.youtube.com/@MachineLearningStreetTalk",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
-    "content_focus": "Machine Learning Street Talk频道主要深入探讨大型语言模型（LLM）的内部机制、专有LLM的安全性与逆向工程，以及人工智能发展的宏观趋势与挑战。其独特之处在于通过专家访谈，提供对LLM前沿技术、实际问题及深层批判性思考的非传统视角。本频道尤其适合对LLM技术细节、安全研究以及行业未来发展持批判性思维的机器学习研究人员和开发者。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 2,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-09-09T03:12:48.408307+00:00"
+    "updated_at": "2026-09-09T15:58:17.398094+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "name": "David Shapiro",
     "url": "https://www.youtube.com/@DaveShap",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
-    "content_focus": "David Shapiro频道深入探讨大型语言模型（LLM）和人工智能领域的最新进展、行业争议及宏观社会经济影响，例如OpenAI新产品和Elon Musk对未来的展望。该频道以其独到的批判性视角和对重要事件的解读为特色，适合关注AI行业动态、趋势及未来走向，并乐于接受鲜明个人观点的观众。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-09-09T03:12:48.578922+00:00"
+    "updated_at": "2026-09-09T15:58:17.490693+00:00"
   }
 ]
