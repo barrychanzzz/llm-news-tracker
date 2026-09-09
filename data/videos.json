@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-08T16:03:28.281838+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "eVBJIUxv8N8",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-08T16:03:11.832957+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "vjaj7ccQe9A",
@@ -2653,33 +2653,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-12T14:57:53.773353+00:00"
-    }
-  },
-  {
-    "video_id": "haK1KoQWm18",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "Claude Fable 5 - Full 319 page Breakdown",
-    "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
-    "published_at": "2026-06-10T18:43:12+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. \n\nhttps://assemblyai.com/aiexplained\n\nPlus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning.\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-11T15:59:48.163395+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-12T14:57:53.773356+00:00"
     }
   }
 ]
