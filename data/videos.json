@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "mOvtumfyjCs",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "I Never Thought I’d See This Happen",
+    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+    "published_at": "2026-09-10T08:47:23+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Navier-Stokes solution paper is available here:\nhttps://openai.com/index/navier-stokes-solution/\n\nMy fluid simulations and papers:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/\nThe flow from simulation to reality: https://www.nature.com/articles/s41567-022-01788-5\nAll papers: https://users.cg.tuwien.ac.at/zsolnai/\n\nF",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-10T15:54:17.494098+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "kKotymNf2_s",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
+    "url": "https://www.youtube.com/shorts/kKotymNf2_s",
+    "published_at": "2026-09-10T07:22:52+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "The hardest AI alignment failure to spot may be the one that looks like success. Daniel Kokotajlo explains why more capable models could behave correctly while remaining misaligned.\n\nWatch the full conversation with Daniel Kokotajlo and Thomas Larsen:\nhttps://www.youtube.com/watch?v=z5Xix4h5UlU\n\nMachine Learning Street Talk\n#AI #AIAlignment #Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-10T15:54:32.117970+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "PKMikGcIhIc",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-09T15:58:38.311900+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-10T15:54:52.495740+00:00"
+    }
   },
   {
     "video_id": "z5Xix4h5UlU",
