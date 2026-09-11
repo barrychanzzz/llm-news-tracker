@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "X7gS0-Xjz2M",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Llama Loves Pirates — Tom McGrath",
+    "url": "https://www.youtube.com/shorts/X7gS0-Xjz2M",
+    "published_at": "2026-09-11T12:19:09+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Train a model on maths written in pirate-speak, and it can learn both. Tom McGrath of Goodfire explains the tricky challenge: improve the maths without picking up the pirate style.\n\nWatch the full conversation: https://www.youtube.com/watch?v=_egu7OFem-k\n\nhttps://www.goodfire.com/blog/intentional-design",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-11T15:55:03.879122+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "mOvtumfyjCs",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-10T15:54:17.494098+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-11T15:55:24.444189+00:00"
+    }
   },
   {
     "video_id": "kKotymNf2_s",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-10T15:54:32.117970+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-11T15:55:24.444202+00:00"
+    }
   },
   {
     "video_id": "PKMikGcIhIc",
