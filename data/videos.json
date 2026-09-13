@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-12T15:02:00.337586+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "P4bYjTJvD28",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-12T15:02:15.013663+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "cpqC9ib0-Kw",
@@ -50,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-12T15:02:30.158242+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "X7gS0-Xjz2M",
@@ -2671,33 +2671,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-16T16:51:22.887983+00:00"
-    }
-  },
-  {
-    "video_id": "zJvN8PDX1is",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "NVIDIA's New Free Al - A Gift To All Of Us",
-    "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-    "published_at": "2026-06-14T15:27:17+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/\n\nFree Rendering course and source code:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gor",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-15T04:12:52.668441+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-16T04:02:17.492194+00:00"
     }
   }
 ]
