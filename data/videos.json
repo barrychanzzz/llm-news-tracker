@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "J3ljHm57yU0",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+    "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+    "published_at": "2026-09-16T20:51:40+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has dominated the world’s headlines for over two weeks…\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n0:00 - The warnings that have gone omega-viral\n4:23 - Six axes the researchers s",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-17T03:32:56.983815+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "uxH98holfUI",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-16T16:11:39.249415+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "L6tLBApQN-g",
