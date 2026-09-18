@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "qbN559fQn7k",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Needle 3: You Don't Need an LLM for Function Calling",
+    "url": "https://www.youtube.com/watch?v=qbN559fQn7k",
+    "published_at": "2026-09-18T13:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Needle 3: A 35MB parameter model that runs function calling on a CPU in 66 milliseconds, with no GPU and no JSON parser. In this video I walk through Cactus Needle 3, run a live home automation demo, break down the simple attention network architecture, and show you a Colab notebook you can run yourself. I also cover four gotchas I hit while testing it, because knowing where a model breaks matters more than knowing where it shines.\n\nNotebook link below. Let me know in the comments what you'd use",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-18T15:53:36.617219+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "vIHw_2VjSUw",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepSeek’s Insane New Architecture",
+    "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+    "published_at": "2026-09-18T07:03:46+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek V4.1 Flash paper is available here:\nhttps://www.deepseek.com/en/news/deepseek-v4-1-flash/\n\nErratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies!\n\nSources:\nhttps://x.com/flowith/status/2099446892174406055/video/1\nhttps://x.com/loktar00/status/2097761803291726137\nhttps://x.com/loktar00/status/2099171901746688079\nhttps://x.com/loktar00/status/2097557594239897837\nhttps://x.com/loktar00/st",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-18T15:53:23.405212+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "5ohW_di1Rwc",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-17T16:17:40.172328+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-18T15:53:53.799687+00:00"
+    }
   },
   {
     "video_id": "J3ljHm57yU0",
