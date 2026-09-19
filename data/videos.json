@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-18T15:53:36.617219+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-19T15:24:49.367867+00:00"
+    }
   },
   {
     "video_id": "vIHw_2VjSUw",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-18T15:53:23.405212+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-19T15:24:49.367878+00:00"
+    }
   },
   {
     "video_id": "5ohW_di1Rwc",
@@ -2814,33 +2832,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-23T14:47:51.617556+00:00"
-    }
-  },
-  {
-    "video_id": "DukEhXcrDz4",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "GLM 5.2: What Makes it So Special?",
-    "url": "https://www.youtube.com/watch?v=DukEhXcrDz4",
-    "published_at": "2026-06-21T13:00:24+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "GLM 5.2 Explained: 1M Context, MoE Efficiency, Sparse Attention & Cheap Inference\n\nIn this video, I break down GLM 5.2 and why it’s one of the most impressive open-weight releases so far, focusing on the architecture behind its low cost and strong coding performance. I cover its MIT-licensed 744B Mixture-of-Experts design with 384 experts (about 40B active per token), the 1M token context window, and how sparse attention with an “indexer” reduces attention cost. I explain “index share,” which re",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-21T14:09:54.627211+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-22T16:56:03.427893+00:00"
     }
   }
 ]
