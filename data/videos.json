@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "1S1B4XkFCD8",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Why Information Has a Price in Intelligence - Alexander Mattick",
+    "url": "https://www.youtube.com/watch?v=1S1B4XkFCD8",
+    "published_at": "2026-09-21T15:09:54+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Alexander Mattick is a researcher at Fraunhofer IIS and a PhD researcher at the University of Technology Nuremberg (UTN), and a regular on Yannic Kilcher's Discord. He first came on MLST in 2022, after helping research the Yann LeCun and Randall Balestriero episode on interpolation.\n\nSPONSOR:\n---\nCyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open.\nApply now: https://cyber.fund\n---\n\nAlexander treats inference as the",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-21T17:55:05.166960+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "tM8Lb7Yk0KE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Your Agent Doesn't Need a Bigger Model",
+    "url": "https://www.youtube.com/watch?v=tM8Lb7Yk0KE",
+    "published_at": "2026-09-21T13:00:09+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to Redis for making this video possible. \n\nYour AI agents don't fail because the model isn't smart enough. They fail because of the context you give them. In this video I break down why context engineering, not prompt engineering, decides whether agents work in production, using findings from Redis's State of Context Engineering report, then wire up a live coding agent with cross-session memory using the Redis Agent Memory Server.\n\nRead the State of Context Engineering report: https://fan",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-21T17:54:49.629561+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "o4Vi5uBZYH0",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_name": "AI Jason",
+    "title": "Jev + Treg is a crazy combo for automation...",
+    "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
+    "published_at": "2026-09-21T11:15:05+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Get prompt for my Jev automation workflow: https://treg.to/jev\nTreg github repo: https://github.com/superdesigndev/treg\n\n🔗 Links\n- Step-by-step workshop in AI builder club: https://www.aibuilderclub.com\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-21T17:54:35.115526+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "kBZNi8zPUTQ",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Most jobs are going away",
+    "url": "https://www.youtube.com/watch?v=kBZNi8zPUTQ",
+    "published_at": "2026-09-20T19:37:40+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-21T17:55:21.457035+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "UhGH8cNG0qs",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-20T15:30:30.259342+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-21T17:56:01.949347+00:00"
+    }
   },
   {
     "video_id": "FVzI3QAxwNs",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-20T15:30:43.948442+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-21T17:56:01.949362+00:00"
+    }
   },
   {
     "video_id": "qbN559fQn7k",
