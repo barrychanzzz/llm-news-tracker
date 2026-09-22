@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "VSh8M3CUP88",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "MiMo v2.6: Xiaomi Just Built the Best Open Model",
+    "url": "https://www.youtube.com/watch?v=VSh8M3CUP88",
+    "published_at": "2026-09-22T13:15:35+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Xiaomi just released MiMo v2.6, now the top open model on the Artificial Analysis index, and they livestreamed the entire RL run that produced it, which cost about $3.5 million. I test the Pro model inside the DeepSeek harness on agentic tasks with verification loops, including a self-researched landing page, a live ISS tracker, Blender assets, and Three.js scenes. I also break down the VRAM you'd actually need to run the Pro and Flash versions locally, and why \"open\" doesn't mean \"runnable at h",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-22T16:20:52.589967+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "qBBRRsH0rQc",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Yes, Jev Is Insane, But There's A Catch",
+    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+    "published_at": "2026-09-22T09:32:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-reinf-learning\nhttps://huggingface.co/datasets/DeepMostInnovations/saas-sales-conversations\nhttps://ar",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-22T16:20:38.165330+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "qAgzA05Q6z0",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "A Perfect World Model of Chess Still Won't Beat Magnus Carlsen - Alexander Mattick",
+    "url": "https://www.youtube.com/shorts/qAgzA05Q6z0",
+    "published_at": "2026-09-22T08:10:54+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Alexander Mattick (Fraunhofer IIS, UTN): a perfect world model of chess still will not beat Magnus Carlsen, because predicting the future and choosing the right action are different problems. It is why humanoid robots do backflips on camera and never fetch a carton of milk.\n\nFrom our full interview: https://www.youtube.com/watch?v=1S1B4XkFCD8\n\n#Shorts #Robotics #WorldModels",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-22T16:21:06.134188+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "1S1B4XkFCD8",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-21T17:55:05.166960+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-22T16:21:51.850481+00:00"
+    }
   },
   {
     "video_id": "tM8Lb7Yk0KE",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-21T17:54:49.629561+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-22T16:21:51.850511+00:00"
+    }
   },
   {
     "video_id": "o4Vi5uBZYH0",
@@ -49,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-21T17:54:35.115526+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-22T16:21:51.850513+00:00"
+    }
   },
   {
     "video_id": "kBZNi8zPUTQ",
@@ -67,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-21T17:55:21.457035+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-22T16:21:51.850514+00:00"
+    }
   },
   {
     "video_id": "UhGH8cNG0qs",
@@ -2850,33 +2940,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-28T03:43:06.767253+00:00"
-    }
-  },
-  {
-    "video_id": "1HkqTlXbQmQ",
-    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
-    "channel_name": "AI Jason",
-    "title": "OpenClaw Creator's new secret project...",
-    "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
-    "published_at": "2026-06-24T12:04:26+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Github repo Skill for setup Crabbox & Codebase harness: https://github.com/AI-Builder-Club/skills\n\n🔗 Links\n- Join AI Builder Club for step-by-step walk through: https://www.aibuilderclub.com/lp/loop-engineer\n- Try Superdesign: http://superdesign.dev/\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-24T14:28:07.558057+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-25T14:31:58.482079+00:00"
     }
   }
 ]
