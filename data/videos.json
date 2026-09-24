@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "S4efgdWLvIc",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "System 1 vs System 2 Explained",
+    "url": "https://www.youtube.com/watch?v=S4efgdWLvIc",
+    "published_at": "2026-09-24T13:00:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "System 1 vs System 2 AI models: what's actually different, and when should you use each one? With the release of Jev, everyone is talking about System 1 and System 2 models. In this video I explain the real difference between one-pass models and thinking (reasoning) models, test Jev against Qwen 3.8 with thinking on and off, and give you a simple rule for choosing between them.\n\n\nResources:\n- Jev launch post (TypeSafe): https://typesafe.ai/blog/introducing-system-one-models-and-jev\n- Thinking, F",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-24T16:33:39.580132+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "SA9kdAX2Zj0",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+    "published_at": "2026-09-24T08:40:55+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations.\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bqz3HPJE\nhttps://www.goatstream.com/research/papers/SA2013/\n\nHoney coiling video and paper:\nhttps://ww",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-24T16:33:26.312536+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "emTe0M9Yw24",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "A perfect model can still get causality backwards",
+    "url": "https://www.youtube.com/shorts/emTe0M9Yw24",
+    "published_at": "2026-09-23T18:09:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Frank Hutter, co-founder and CEO of Prior Labs, on why a model that predicts perfectly can still point you to the wrong decision. If patients who get a medicine tend to have a disease, stopping the medicine will not cure it. Observing is not the same as intervening, and that difference is what causal machine learning is for.\n\nFrom our conversation with Frank on TabPFN and foundation models for tabular data.\n\n#Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-24T16:33:53.945416+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "72Im-Mm5JKs",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
+    "url": "https://www.youtube.com/watch?v=72Im-Mm5JKs",
+    "published_at": "2026-09-23T18:06:15+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Frank Hutter, co-founder of Prior Labs, talks about TabPFN, a tabular foundation model that makes predictions in a single forward pass, and the research behind it.\n\nTabPFN is pre-trained on synthetic datasets drawn from a prior over structural causal models, rather than on real data. At prediction time it takes the whole training table as context and outputs an approximation of the Bayesian posterior predictive distribution, without per-dataset training or hyperparameter search. Frank explains h",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-24T16:34:07.777555+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Tffb5I8_xic",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-23T16:10:26.086524+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-24T16:34:53.680426+00:00"
+    }
   },
   {
     "video_id": "8pRe7kkPi6g",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-23T16:09:56.393085+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-24T16:34:53.680436+00:00"
+    }
   },
   {
     "video_id": "04qy4OWteio",
@@ -49,9 +139,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-23T16:10:10.455515+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-24T16:34:53.680437+00:00"
+    }
   },
   {
     "video_id": "VSh8M3CUP88",
@@ -2994,33 +3093,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-28T03:43:06.767242+00:00"
-    }
-  },
-  {
-    "video_id": "61dz7Fh0ozg",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "We're frozen out (for good?)",
-    "url": "https://www.youtube.com/watch?v=61dz7Fh0ozg",
-    "published_at": "2026-06-26T14:20:55+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-27T02:59:33.085309+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-28T03:43:06.767253+00:00"
     }
   }
 ]
