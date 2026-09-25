@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "D7Gn9IraysI",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "NVIDIA Nemotron 3 Diarization Explained",
+    "url": "https://www.youtube.com/shorts/D7Gn9IraysI",
+    "published_at": "2026-09-25T04:48:49+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "NVIDIA just dropped Nemotron 3 Diarization, a 100M-parameter open model that tells apart up to 8 speakers in real-time streaming audio. Pair it with a speech-to-text model like Parakeet and every line of your meeting notes knows who said it. It runs entirely locally, so your audio never leaves your machine.\n\nHow it works:\n- Every fraction of a second, it decides which of 8 speakers is talking, even when two people talk at once\n- Speakers are numbered in the order they first show up\n- A small spe",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-25T16:37:00.916078+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "R9momwXV9w4",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Opus 5.5: How Close Are We to Automated AI Research?",
+    "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+    "published_at": "2026-09-24T22:51:54+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summary in this description would get too long.\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-25T16:36:46.005888+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "8daNaFE-qOg",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "System 1 vs System 2 AI models: what's actually different?",
+    "url": "https://www.youtube.com/shorts/8daNaFE-qOg",
+    "published_at": "2026-09-24T16:26:42+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "A System 1 model like Jev takes one look: a single pass, no scratchpad. A System 2 model runs the same brain in a loop, writing notes and building on them step by step. I tested both on chains of questions that get longer each time. Jev falls off a cliff; Qwen 3.8 with thinking barely moves.\n\nThe rule: count the steps. If the answer is visible in one look, use System 1. If it needs results you don't have yet, use System 2.\n\nFull breakdown and the experiment you can run yourself: [link to full vi",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-25T16:37:14.972968+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "S4efgdWLvIc",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-24T16:33:39.580132+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-25T16:37:57.676076+00:00"
+    }
   },
   {
     "video_id": "SA9kdAX2Zj0",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-24T16:33:26.312536+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-25T16:37:57.676088+00:00"
+    }
   },
   {
     "video_id": "emTe0M9Yw24",
@@ -49,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-24T16:33:53.945416+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-25T16:37:57.676090+00:00"
+    }
   },
   {
     "video_id": "72Im-Mm5JKs",
@@ -67,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-24T16:34:07.777555+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-25T16:37:57.676091+00:00"
+    }
   },
   {
     "video_id": "Tffb5I8_xic",
@@ -3039,33 +3129,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-29T15:45:02.077010+00:00"
-    }
-  },
-  {
-    "video_id": "25j4kMGhKGw",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Ornith 1.0: This is new class of self-improving model",
-    "url": "https://www.youtube.com/watch?v=25j4kMGhKGw",
-    "published_at": "2026-06-27T13:00:19+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Ornith 1: Open-Weight Agentic Coding Models That Write Their Own Harnesses (and Beat Bigger Models)\n\nIn this video: I break down Ornith 1, a new family of open-weight models built for agentic coding that can outperform much larger models on benchmarks like Terminal Bench, with the 397B model nearing closed-source performance (Opus 4.8). The key idea isn’t just scores—it’s how Ornith is trained to generate both solution rollouts and a task-specific harness (memory, retries, error handling) in a s",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-27T13:41:32.695660+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-28T13:45:16.928482+00:00"
     }
   }
 ]
