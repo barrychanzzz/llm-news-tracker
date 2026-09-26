@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "eSuMmMMMrm0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "This New AI Architecture Makes Decisions 13x Faster",
+    "url": "https://www.youtube.com/watch?v=eSuMmMMMrm0",
+    "published_at": "2026-09-26T13:00:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "CLM is a new System 1 model from Stanford and NVIDIA Research that works like CLIP for decisions, embedding the situation and every possible action into one space and picking the closest match instead of generating tokens. I break down how it's trained on a frozen 8B backbone with only small heads learning, then run it on a DGX Spark across 1,080 tools, where latency stayed around 80ms but accuracy fell from 86% with 8 tools to 17% with all of them. I also show where it fits today: as a fast fir",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-26T15:50:59.681293+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "D7Gn9IraysI",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-25T16:37:00.916078+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-26T15:51:29.417987+00:00"
+    }
   },
   {
     "video_id": "R9momwXV9w4",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-25T16:36:46.005888+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-26T15:51:29.417999+00:00"
+    }
   },
   {
     "video_id": "8daNaFE-qOg",
@@ -49,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-25T16:37:14.972968+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-26T15:51:29.418002+00:00"
+    }
   },
   {
     "video_id": "S4efgdWLvIc",
@@ -3102,33 +3147,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-06-30T03:34:57.672177+00:00"
-    }
-  },
-  {
-    "video_id": "eFgknPFK-g0",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "DeepSeek's New Trick Makes LLMs 85% Faster",
-    "url": "https://www.youtube.com/watch?v=eFgknPFK-g0",
-    "published_at": "2026-06-28T12:45:14+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "DeepSeek DSpark Explained: 50–400% Faster LLM Inference Without Retraining\n\nI break down DeepSeek’s new DSpark (DSSpark) speculative decoding method that speeds up inference by 50–400% on the same model with no retraining or quantization. I explain why standard next-token decoding is memory-bound and slow, then show how a small, fast draft model proposes token blocks while the large target model verifies them in a single pass, preserving identical output. I cover the key latency levers (draft sp",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-28T13:45:02.378860+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-29T15:45:02.077010+00:00"
     }
   }
 ]
