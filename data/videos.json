@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-09-26T15:50:59.681293+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "D7Gn9IraysI",
@@ -3120,33 +3120,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-01T14:35:37.915375+00:00"
-    }
-  },
-  {
-    "video_id": "5pieVHmlbyk",
-    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-    "channel_name": "Machine Learning Street Talk",
-    "title": "The Thermodynamic AI Chip · Thomas Ahle",
-    "url": "https://www.youtube.com/watch?v=5pieVHmlbyk",
-    "published_at": "2026-06-28T23:38:07+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thomas Ahle wants Normal Computing to be the Lovable for chip design: type your intent, and a swarm of agents carries it from design through optimisation, formalisation and verification to tape-out. To get there, his team at wrote their own open-source Verilog simulator, 580,000 lines in 43 days, because commercial EDA verifiers run about $10,000 per core and there are no decent open-source compilers to build on.\n\nThat sets up the question Tim keeps pressing: if an agent can produce a chip desig",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-29T03:49:19.941265+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-06-30T03:34:57.672177+00:00"
     }
   }
 ]
