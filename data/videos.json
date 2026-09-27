@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "qUlfKYGP-vI",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Reward hacking… or just fixing a bug? #podcast",
+    "url": "https://www.youtube.com/shorts/qUlfKYGP-vI",
+    "published_at": "2026-09-27T02:16:03+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Weco AI's research agent wrote a gigantic monkey patch to their eval script. Reward hacking? No: it was fixing a bug.\n\nZhengyao Jiang (co-founder and CEO, Weco AI) on why it's getting harder and harder for humans to tell the difference as agents become more sophisticated.\n\nFrom our episode with Zhengyao Jiang on AIDE and AI systems that improve themselves.\n\n#AI #AIAgents #RewardHacking #MachineLearning #Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-27T16:27:34.980329+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "MK1zLrR9gpM",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "CLM-8B: Contrastive Language Models",
+    "url": "https://www.youtube.com/shorts/MK1zLrR9gpM",
+    "published_at": "2026-09-27T01:53:43+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Jev made System 1 models hot. CLM from Stanford and NVIDIA Research takes a completely different approach: it never generates an answer.\n\nInstead, it embeds the situation and every possible action into the same space and picks whichever action lands closest. Because actions are embedded once and cached, 1,000 options cost about the same as one: 44 ms vs 579 ms for Jev.\n\nThe catch: each option is encoded on its own, so it never compares them side by side.\n\nFull breakdown + demos on my DGX Spark: ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-27T16:27:20.338705+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "yB6_iFGTq9k",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
+    "url": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
+    "published_at": "2026-09-26T19:32:30+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Weco let an AI coding agent rewrite the harness around another agent for eight days: its code, prompts and tools, while the underlying language model stayed fixed. Tim Scarfe asks Weco co-founder Zhengyao Jiang what the reported gains over two years of human engineering actually demonstrate.\n\nThe discussion examines AIDE 85's generated code, held-out evaluation and the difficulty of separating useful discoveries from reward hacking. Jiang explains Weco's four levels of recursive self-improvement",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-27T16:27:48.790947+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "eSuMmMMMrm0",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-26T15:50:59.681293+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-27T16:28:15.131308+00:00"
+    }
   },
   {
     "video_id": "D7Gn9IraysI",
