@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "w1qb3fMiE7s",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "This will keep happening",
+    "url": "https://www.youtube.com/watch?v=w1qb3fMiE7s",
+    "published_at": "2026-09-28T13:18:49+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-28T19:17:52.593145+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "jxOOiNUB9DQ",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Qwen 27B on 6GB VRAM...",
+    "url": "https://www.youtube.com/watch?v=jxOOiNUB9DQ",
+    "published_at": "2026-09-28T13:00:38+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "PrismML says Bonsai 2 keeps 98% of Qwen3.8 27B's performance in a 6 GB file, so I tested it against the full model in the same agent harness, with thinking off on both. On short tasks it's a tie (48.6 vs 47.1), but on six long agentic builds the full Qwen scored 35 out of 60 while Bonsai didn't produce a single working app, at one point running the same search 114 times. Here's how ternary compression works, what their own whitepaper says about agentic benchmarks, and what to look for in the tra",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-28T19:17:23.412629+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "TOmMp4SU144",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "98% of Qwen - Bonsai 2",
+    "url": "https://www.youtube.com/shorts/TOmMp4SU144",
+    "published_at": "2026-09-28T05:10:52+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Bonsai 2 from PrismML squeezes Qwen3.8 27B into a 6 GB file by retraining every weight to −1, 0 or +1, and PrismML claims it keeps 98% of the full model's performance. On short tasks it matched the full model in my tests. Then I gave it a real job in an agentic loop: build an ISS tracker on a 3D globe. The full Qwen model built a working tracker. Bonsai never wrote a line of the app. It ran the exact same search 114 times and got the same answer every time.\n\nCompression holds up for chat and qui",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-28T19:17:37.898985+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "_Ey6fWliRXc",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Post-Labor Economics explained in 10 minutes",
+    "url": "https://www.youtube.com/watch?v=_Ey6fWliRXc",
+    "published_at": "2026-09-27T19:13:29+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V\n\nThe voiceover in this video was recorded organically, by hand. The animation and rendering were aided by AI (but not AI generated).",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-28T19:18:08.598646+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "qUlfKYGP-vI",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-27T16:27:34.980329+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-28T19:18:54.649796+00:00"
+    }
   },
   {
     "video_id": "MK1zLrR9gpM",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-27T16:27:20.338705+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-28T19:18:54.649807+00:00"
+    }
   },
   {
     "video_id": "yB6_iFGTq9k",
@@ -49,9 +139,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-27T16:27:48.790947+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-28T19:18:54.649809+00:00"
+    }
   },
   {
     "video_id": "eSuMmMMMrm0",
@@ -3102,87 +3201,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-02T13:59:45.405396+00:00"
-    }
-  },
-  {
-    "video_id": "cqnHxVvyHns",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Sonnet 5 has a major problem nobody's talking about",
-    "url": "https://www.youtube.com/watch?v=cqnHxVvyHns",
-    "published_at": "2026-06-30T19:14:36+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Sonnet 5 is here and its complicated...\n\nLINKS:\nhttps://www.anthropic.com/news/claude-sonnet-5\nhttps://x.com/banteg/status/2072018046571495605/photo/1\nhttps://x.com/cognition/status/2072022778144821292/photo/1\nhttps://pbs.twimg.com/media/HMFLuJjaEAAgpWK?format=jpg&amp;name=4096x4096\n\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\nLet's Conne",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-01T14:34:41.324277+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-02T13:59:45.405399+00:00"
-    }
-  },
-  {
-    "video_id": "QjtHosTfXiA",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Gemini Omni Flash: Anything to Anything model from Google",
-    "url": "https://www.youtube.com/watch?v=QjtHosTfXiA",
-    "published_at": "2026-06-30T16:06:41+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Gemini Omni Flash API: Multi‑Turn Video Editing, Reference Images, and Best Practices\n\nI show how to use Google’s new Interaction API with the Gemini Omni Flash (preview) model to generate and, especially, edit videos with multi-turn prompts. I cover pricing (similar to Veo 3.1 Fast, around 10¢/second), current limits like 10-second duration and 720p output, and how upstream storage lets you edit via a previous interaction ID without re-uploading. You’ll see targeted edits (changing backgrounds,",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-01T14:34:59.065291+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-02T13:59:45.405401+00:00"
-    }
-  },
-  {
-    "video_id": "iWRmtPdFbGw",
-    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
-    "channel_name": "AI Jason",
-    "title": "I was giving my coding agent context the wrong way...",
-    "url": "https://www.youtube.com/watch?v=iWRmtPdFbGw",
-    "published_at": "2026-06-30T11:19:17+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Github repo Skill for setup Codebase harness: https://github.com/AI-Builder-Club/skills\n\n🔗 Links\n- Join AI Builder Club for step-by-step walk through: https://www.aibuilderclub.com/lp/loop-engineer\n- Try Superdesign: http://superdesign.dev/\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-06-30T14:17:30.706259+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-01T14:35:37.915375+00:00"
     }
   }
 ]
