@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "ZpQFebTK75A",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
+    "url": "https://www.youtube.com/watch?v=ZpQFebTK75A",
+    "published_at": "2026-09-29T22:38:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Leonardo de Moura created Lean and co-created Z3. \n\n---\nThis episode is sponsored by Parallel.\nParallel, where agents find answers: web search, extraction and deep research APIs built for AI agents.\nStart free with the Parallel MCP server and $5 of credits every month: https://parallel.ai/mlst?utm_source=creator&amp;utm_medium=podcast&amp;utm_content=MLST\n---\n\nTim Scarfe talks with Leo about how Lean escaped its original audience, why dependent types and Mathlib made it useful to working mathema",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-09-30T17:39:55.526249+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "4YVeQf8huyM",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-29T17:41:49.950434+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-30T17:40:14.559321+00:00"
+    }
   },
   {
     "video_id": "tQ3nMI-anxU",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-29T17:42:05.142773+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-09-30T17:40:14.559332+00:00"
+    }
   },
   {
     "video_id": "w1qb3fMiE7s",
@@ -3138,60 +3174,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-04T13:23:49.693537+00:00"
-    }
-  },
-  {
-    "video_id": "y24lF1q4SFY",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
-    "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
-    "published_at": "2026-07-02T16:27:26+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more…\n\n\n\nExclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:06 - Fable Timeline\n02:59 - Sol Release?\n06:01 - the Chinese Angle\n07:35 - 5% Stake\n09:10 - Fable vs Sol - the numbers\n13:57 - Sol Misalignment\n15:27 - Claude Sonnet 5\n16:24 - GLM 5.2 + New Paper on Large Model Learning\n",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-03T02:52:43.347781+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-04T02:49:12.054637+00:00"
-    }
-  },
-  {
-    "video_id": "idp3wJCqNrU",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "China's Models No Longer Need Western Hardware",
-    "url": "https://www.youtube.com/watch?v=idp3wJCqNrU",
-    "published_at": "2026-07-02T12:45:35+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "LongCat 2.0: How Meituan Trained a 1.6T Model Without NVIDIA GPUs or TPUs\n\nIn this video, I break down how Meituan open sourced LongCat 2.0 (Owl Alpha on OpenRouter), a 1.6T-parameter MoE model trained without NVIDIA GPUs or Google TPUs, and why that matters for reducing reliance on NVIDIA’s hardware and CUDA software stack. I explain the core tradeoffs between parameters and compute, why simply adding more experts can hit diminishing returns, and how LongCat uses n-gram embeddings to increase c",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-02T13:58:45.054476+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-03T14:03:05.036358+00:00"
     }
   }
 ]
