@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "clNh3f97b2Y",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Argon Changes the Test-Time Compute Game",
+    "url": "https://www.youtube.com/watch?v=clNh3f97b2Y",
+    "published_at": "2026-10-01T13:00:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini 4 Argon is Google's new frontier model, and the most interesting part isn't the benchmarks: it's a 1 million token output limit in a single response, up from 64K in earlier Gemini models. In this video I go through Argon's official benchmarks, Arena's cost-per-task testing, pricing, and what a million-token output means for test-time compute and long-running reasoning.\n\nGemini 4 Argon isn't publicly available yet. It's rolling out first to trusted testers through Google's Fairwind program",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-01T18:06:26.727989+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "OSbjezrUuP0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Argon: The New Frontier",
+    "url": "https://www.youtube.com/shorts/OSbjezrUuP0",
+    "published_at": "2026-10-01T04:16:50+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini 4 Argon can generate up to 1 million output tokens in a single response, up from 64K in earlier Gemini models. Most frontier models today cap a single response at around 128K.\n\nArena's testing puts Argon on the Pareto frontier of performance vs. cost: 33% lower cost per task than GPT-6.1 Sol and 70% lower than Claude Opus 5.5.\n\nArgon isn't publicly available yet. It's rolling out first to trusted testers through Google's Fairwind program.\n\nFun fact: argon is the third most abundant gas in",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-01T18:06:41.637269+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ZpQFebTK75A",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-09-30T17:39:55.526249+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-01T18:07:01.040037+00:00"
+    }
   },
   {
     "video_id": "4YVeQf8huyM",
@@ -3120,60 +3165,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-07T14:31:42.829570+00:00"
-    }
-  },
-  {
-    "video_id": "uO5cvkzh3P0",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "They Said This Will Never Run In Real Time",
-    "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-    "published_at": "2026-07-03T17:19:59+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtube.com/shorts/Tx7167DXr8U\nhttps://www.youtube.com/watch?v=55F9dY2Y1zc\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owe",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-04T02:48:49.001456+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-05T02:59:22.267284+00:00"
-    }
-  },
-  {
-    "video_id": "ju7R6jer6_M",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Design Agents That Run for Days!",
-    "url": "https://www.youtube.com/watch?v=ju7R6jer6_M",
-    "published_at": "2026-07-03T12:45:05+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "checkout latitude for agent observability: https://github.com/latitude-dev/latitude-llm\n\nIn this video I break down how to design long-running agents that can operate for hours or days without going off the rails. I cover the 7 core components: a clear, measurable goal (as a contract), a separate evaluator/judge, strict verifiers (deterministic checks plus stronger evaluations), an outer control loop to prevent early stopping and iterate on failures, orchestration across roles and models (planni",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-03T14:02:31.484622+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-04T13:23:49.693537+00:00"
     }
   }
 ]
