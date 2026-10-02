@@ -1,5 +1,95 @@
 [
   {
+    "video_id": "6hbiQyWUldg",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "I hate to admit this",
+    "url": "https://www.youtube.com/watch?v=6hbiQyWUldg",
+    "published_at": "2026-10-02T14:05:21+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-02T17:31:47.189324+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "Pafx-wIwALM",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "OpenAI Dev Day was... meh",
+    "url": "https://www.youtube.com/watch?v=Pafx-wIwALM",
+    "published_at": "2026-10-01T21:20:56+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-02T17:32:00.684141+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "_rtp1XzaP6Q",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+    "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+    "published_at": "2026-10-01T21:20:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro.\n\n\nPatreon Exclusives: https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:32 - Wrong about Opus 5.5? Deciphering 16th Century Text\n05:01 - Why the models keep breaking out\n11:40 - What the mode",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-02T17:31:05.944996+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "MVRb03jb6Wg",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The most natural voice agent was a French voice speaking English",
+    "url": "https://www.youtube.com/shorts/MVRb03jb6Wg",
+    "published_at": "2026-10-01T20:09:15+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Shawn Wen of PolyAI on why voice agents should not sound generic. A regional flavour reads as human, and the most natural early voice agent was a French voice speaking English.\n\nTaken from our full interview with Shawn Wen (PolyAI) on Machine Learning Street Talk.\n\nSubscribe for more conversations with the people building AI: https://www.youtube.com/@MachineLearningStreetTalk\n\n#Shorts #VoiceAI #AI #PolyAI",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-02T17:31:20.294123+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "VoAPg8Fj6-c",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
+    "url": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
+    "published_at": "2026-10-01T20:00:18+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Tsung-Hsien (Shawn) Wen, CTO of PolyAI, tells Tim Scarfe why voice agents are harder than text agents. Voice adds time, and a good conversation depends on adapting to the person on the line, not just on reasoning to the best answer. Shawn describes an audio-native model (Dialog-RSN-1) that first predicts a turn-taking signal, then replies in text with citations, and writes the transcript last so enterprises can audit it.\n\nAlong the way: training on real, noisy calls with synthetic noise added, a",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-02T17:31:33.494905+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "clNh3f97b2Y",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-01T18:06:26.727989+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-02T17:32:43.072021+00:00"
+    }
   },
   {
     "video_id": "OSbjezrUuP0",
@@ -31,9 +130,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-01T18:06:41.637269+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-02T17:32:43.072032+00:00"
+    }
   },
   {
     "video_id": "ZpQFebTK75A",
