@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "eN77oHqAiUU",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "What Are Claude Code Mods?",
+    "url": "https://www.youtube.com/shorts/eN77oHqAiUU",
+    "published_at": "2026-10-03T13:30:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Claude Code mods are small functions that run inside Claude Code and can let an action through, change it, or stop it before it happens. Skills, hooks and MCP servers can't do that, because they sit outside Claude Code. The full video shows how to install mods and the custom Claude Code I built with them: https://youtu.be/XaYubuLtW8M\n\n#ClaudeCode #ClaudeMods #Anthropic #AIAgents #codingagents",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-03T15:45:56.158378+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "XaYubuLtW8M",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Mods - The Biggest Claude Code Upgrade!",
+    "url": "https://www.youtube.com/watch?v=XaYubuLtW8M",
+    "published_at": "2026-10-03T13:15:06+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Claude Code mods let you run your own JavaScript or TypeScript functions inside Claude Code. A mod can watch, change or stop a tool call before it runs, and it can draw its own panels in the terminal and the desktop app. In this video I explain what a Claude Code mod is and how it differs from hooks, skills and MCP servers. Then I show how to install mods from a marketplace and how I had Claude write a set of mods for my own workflow.\n\nThe session-audit prompt I use (by Vox): https://x.com/Voxyz",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-03T15:46:12.036958+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "EOyCHmyf1Hg",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "I can't do everything",
+    "url": "https://www.youtube.com/watch?v=EOyCHmyf1Hg",
+    "published_at": "2026-10-03T11:41:55+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-03T15:46:30.271507+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "6hbiQyWUldg",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-02T17:31:47.189324+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-03T15:47:30.308425+00:00"
+    }
   },
   {
     "video_id": "Pafx-wIwALM",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-02T17:32:00.684141+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-03T15:47:30.308437+00:00"
+    }
   },
   {
     "video_id": "_rtp1XzaP6Q",
@@ -49,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-02T17:31:05.944996+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-03T15:47:30.308440+00:00"
+    }
   },
   {
     "video_id": "MVRb03jb6Wg",
@@ -67,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-02T17:31:20.294123+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-03T15:47:30.308443+00:00"
+    }
   },
   {
     "video_id": "VoAPg8Fj6-c",
@@ -85,9 +175,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-02T17:31:33.494905+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-03T15:47:30.308450+00:00"
+    }
   },
   {
     "video_id": "clNh3f97b2Y",
