@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-03T15:45:56.158378+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-04T16:29:23.085783+00:00"
+    }
   },
   {
     "video_id": "XaYubuLtW8M",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-03T15:46:12.036958+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-04T16:29:23.085796+00:00"
+    }
   },
   {
     "video_id": "EOyCHmyf1Hg",
@@ -49,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-03T15:46:30.271507+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-04T16:29:23.085798+00:00"
+    }
   },
   {
     "video_id": "6hbiQyWUldg",
@@ -3345,33 +3372,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-09T14:57:23.404903+00:00"
-    }
-  },
-  {
-    "video_id": "9z8MMi3DJxw",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Diffusion Nemotron: Nvidia's \"Two Brain\" Diffusion Model",
-    "url": "https://www.youtube.com/watch?v=9z8MMi3DJxw",
-    "published_at": "2026-07-06T12:45:38+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "NVIDIA’s Two-Tower Diffusion Language Model (Nemotron): Faster Text Generation with Frozen Context\n\nIn this video, I break down how diffusion is moving into text generation and why it can avoid the compute and memory limits of autoregressive next-token prediction by generating in parallel. I explain NVIDIA’s Nemotron “Two Tower” diffusion language model: two cloned 52-layer towers (Mamba-2 + self-attention + MoE), where one tower is frozen as a left-to-right context model and the other is retrai",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-06T15:30:56.012463+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-07T14:31:42.829570+00:00"
     }
   }
 ]
