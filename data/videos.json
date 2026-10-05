@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "Bgtr1Ue40Jo",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Context Language Models: Your Agent Doesn't Need Compaction",
+    "url": "https://www.youtube.com/watch?v=Bgtr1Ue40Jo",
+    "published_at": "2026-10-05T13:30:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Context Language Models (CLM) are a new approach to context management for AI agents from Meta Superintelligence Labs and the University of Washington. Instead of compacting or summarizing the conversation when the context window fills up, the agent edits its own context like a file: it shortens old tool outputs, replaces them with notes, and decides what is worth keeping. In this video I explain how Context Language Models work, why summaries like /compact lose useful information, and then test",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-05T20:20:49.694543+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "ZHVNTTKu9fU",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "The Billion Dollar AI Advantage Is Disappearing",
+    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+    "published_at": "2026-10-05T09:53:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-05T20:20:35.239133+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "eN77oHqAiUU",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -3345,33 +3381,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-09T14:57:23.404892+00:00"
-    }
-  },
-  {
-    "video_id": "1yBU41auQhw",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "DeepSeek's New AI Speed Hack Is Amazing",
-    "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
-    "published_at": "2026-07-07T16:33:29+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-08T14:03:49.416533+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-09T14:57:23.404903+00:00"
     }
   }
 ]
