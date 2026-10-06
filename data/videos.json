@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "6NZEYk4hNG8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "DeepSeek Harness Just Got a Web Agent",
+    "url": "https://www.youtube.com/watch?v=6NZEYk4hNG8",
+    "published_at": "2026-10-06T13:00:38+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "DeepSeek Harness Desktop is a native app for DeepSeek's open-source agentic coding harness, and almost everything in it is a plugin. In this video, I add TinyFish as one MCP plugin so the agent can search the live web, fetch clean page text, log in to a site, click, fill forms, and return structured JSON.\n\nThis video is sponsored by TinyFish.\n→ Try TinyFish (Search and Fetch are free, $8 in free credits, no credit card): https://www.tinyfish.ai/compare/tinyfish-vs-firecrawl?utm_source=youtube&am",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-06T17:58:49.183271+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "nKgughUp4_k",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Context Language Models Explained!",
+    "url": "https://www.youtube.com/shorts/nKgughUp4_k",
+    "published_at": "2026-10-05T21:46:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Context management is one of the biggest bottlenecks for AI agents. When the context window fills up, most harnesses compact or summarize the conversation and lose useful information along the way. Meta and the University of Washington's new paper, Context Language Models, lets the agent edit its own context like a file instead. The catch: it breaks your prefix caching.\n\nFull video, with my tests on a DGX Spark: https://youtu.be/Bgtr1Ue40Jo\nPaper: https://arxiv.org/abs/2609.37725\n\n#AIagents #con",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-06T17:59:02.575127+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Bgtr1Ue40Jo",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-05T20:20:49.694543+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-06T17:59:28.866189+00:00"
+    }
   },
   {
     "video_id": "ZHVNTTKu9fU",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-05T20:20:35.239133+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-06T17:59:28.866200+00:00"
+    }
   },
   {
     "video_id": "eN77oHqAiUU",
@@ -3354,33 +3408,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-11T13:16:55.593640+00:00"
-    }
-  },
-  {
-    "video_id": "OA8vEleJkq4",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "You Don't Need Fable for Everything (Do This Instead)",
-    "url": "https://www.youtube.com/watch?v=OA8vEleJkq4",
-    "published_at": "2026-07-08T12:45:33+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Fable 5 is a planning model, not a coding model, and treating it like both is how you burn an entire Max subscription in one session. This video breaks down the advisor and orchestrator patterns that let Fable 5 plan while Opus 4.8 executes, cutting your usage to a fraction of the cost with almost no drop in accuracy.\n\nLINKS:\nhttps://x.com/ClaudeDevs/status/2074606058128224365\nhttps://platform.claude.com/docs/en/agents-and-tools/tool-use/advisor-tool\nhttps://github.com/anthropics/claude-cookbook",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-08T14:04:07.770322+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-09T14:57:23.404892+00:00"
     }
   }
 ]

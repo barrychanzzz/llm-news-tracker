@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-10-06T04:59:52.967422+00:00"
+    "updated_at": "2026-10-06T17:58:25.298543+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "LLM 综合频道",
+    "content_focus": "\"AI Explained\" 频道主要以宏观视角探讨大型语言模型（LLM）前沿发展所带来的安全、伦理挑战及模型控制难题，并展望AI研究的未来方向。该频道特别适合关注AI发展趋势、安全伦理影响及未来社会走向的AI研究者、政策制定者及对该领域有深刻兴趣的普通观众。",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-10-06T04:59:53.019048+00:00"
+    "updated_at": "2026-10-06T17:58:25.396662+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-10-06T04:59:53.076398+00:00"
+    "updated_at": "2026-10-06T17:58:25.482491+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,40 +41,40 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-10-06T04:59:53.136856+00:00"
+    "updated_at": "2026-10-06T17:58:25.650800+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "LLM 综合频道",
+    "content_focus": "AI Jason频道主要聚焦于LLM及先进AI工具的实战应用和创新组合，特别擅长展示如何将多种AI技术（如GPT、自动化工具）巧妙融合，以实现高效的视频内容创作、自动化流程及用户生成内容（UGC）营销。该频道通过提供具体的“疯狂组合”和实操指南，帮助创作者、营销人员及企业用户掌握前沿AI技术，从而提升工作效率，创作专家级内容，并优化AI驱动的业务流程。",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-10-06T04:59:53.188287+00:00"
+    "updated_at": "2026-10-06T17:58:25.924923+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "name": "Two Minute Papers",
     "url": "https://www.youtube.com/@TwoMinutePapers",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
-    "content_focus": "Two Minute Papers频道专注于大型语言模型（LLM）的前沿进展，例如最新模型（如Claude Opus 5.5）及其创新架构（如DeepSeek），以精炼、易懂的方式解读复杂研究论文的核心突破。这使得该频道非常适合那些希望在短时间内快速掌握AI和LLM领域最新动态、保持知识更新的技术人员、研究者和爱好者。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 1,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-10-06T04:59:53.244157+00:00"
+    "updated_at": "2026-10-06T17:58:26.129986+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "name": "Prompt Engineering",
     "url": "https://www.youtube.com/@engineerprompt",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
-    "content_focus": "\"Prompt Engineering\"频道专注于剖析Claude和Gemini等大型语言模型的最新功能和关键升级（如代码模组、计算能力变化），为观众提供深入的技术洞察。它独特之处在于注重前沿模型的具体应用与优化，尤其适合希望提升LLM使用效率和掌握最新技术的开发者、提示工程师及技术爱好者。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 7,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-10-06T04:59:53.300626+00:00"
+    "updated_at": "2026-10-06T17:58:26.213129+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
@@ -83,9 +83,9 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
     "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 3,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-10-06T04:59:53.421966+00:00"
+    "updated_at": "2026-10-06T17:58:26.420108+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
@@ -94,8 +94,8 @@
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
     "content_focus": "LLM 综合频道",
     "is_seed": true,
-    "active_score": 0,
+    "active_score": 3,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-10-06T04:59:53.542105+00:00"
+    "updated_at": "2026-10-06T17:58:26.627723+00:00"
   }
 ]
