@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "Wkaw03p3BrM",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepMind's New AI Just Cracked The Code Of Life",
+    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+    "published_at": "2026-10-07T13:29:33+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Ca",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-07T18:29:27.746298+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "XtIBx6H9A_I",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Embedding Gemma 2: Multimodal Search & RAG (Free Colab)",
+    "url": "https://www.youtube.com/watch?v=XtIBx6H9A_I",
+    "published_at": "2026-10-07T13:15:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "EmbeddingGemma 2 is a new open embedding model from Google DeepMind that puts text, code, images, video and audio into one shared vector space. It has 740M parameters, an Apache 2.0 license, and it's small enough to run on a phone. In this video I explain why multimodal retrieval matters for RAG and search, how people solved it before (caption-and-transcribe pipelines, CLIP, ImageBind, ColPali), and how EmbeddingGemma 2 works under the hood: modality encoders, one shared Gemma 4 backbone, mean p",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-07T18:29:41.728243+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "fzaHuV9l3g8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Mistral Large 4 aka \"le Chonk\": Europe's Biggest Open Model",
+    "url": "https://www.youtube.com/shorts/fzaHuV9l3g8",
+    "published_at": "2026-10-06T19:28:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Mistral just announced Mistral Large 4, officially nicknamed \"le Chonk.\" It's a mixture-of-experts model with about 1 trillion total parameters and around 50 billion active per token. It takes text and images and has a 1 million token context window.\n\nMistral says it's a frontier-level open-weight model: competitive with the strongest open models in the world, and well ahead of any open model built in the US or Europe, especially on coding agents, cybersecurity, finance, and law. All benchmark n",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-07T18:29:55.085280+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "6NZEYk4hNG8",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-06T17:58:49.183271+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-07T18:30:23.729184+00:00"
+    }
   },
   {
     "video_id": "nKgughUp4_k",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-06T17:59:02.575127+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-07T18:30:23.729199+00:00"
+    }
   },
   {
     "video_id": "Bgtr1Ue40Jo",
