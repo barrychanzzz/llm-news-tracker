@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:27.746298+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "XtIBx6H9A_I",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:41.728243+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "fzaHuV9l3g8",
@@ -50,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:55.085280+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "6NZEYk4hNG8",
@@ -3453,33 +3453,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-11T13:16:55.593637+00:00"
-    }
-  },
-  {
-    "video_id": "pRW1H3djqLk",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "GPT 5.6 Sol: Fable Killer?",
-    "url": "https://www.youtube.com/watch?v=pRW1H3djqLk",
-    "published_at": "2026-07-09T20:38:11+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "GPT 5.6 is here and its the biggest leap in coding for openai. \n\nhttps://openai.com/index/gpt-5-6/\nhttps://x.com/OpenAI/status/2075274273607037403\nhttps://x.com/mattshumer_/status/2075268746315268138\nhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/eliebakouch/status/2075281402807844872\nhttps://x.com/petergostev\nhttps://x.com/HarveenChadha/status/2075286349163512178\nhttps://cursor.com/evals\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Ba",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-10T14:24:53.597824+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-11T13:16:55.593640+00:00"
     }
   }
 ]
