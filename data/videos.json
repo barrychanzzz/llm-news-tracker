@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "S7tFyREI19I",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Training Your Own Embedding Model Is Not As Hard As You Think",
+    "url": "https://www.youtube.com/watch?v=S7tFyREI19I",
+    "published_at": "2026-10-08T13:15:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Fine-tune Embedding Gemma 2 (EmbeddingGemma 2) on your own data with Unsloth and LoRA in a free Colab notebook. I show how fine-tuning an embedding model differs from fine-tuning an LLM, then train Google's multimodal embedding model on two tasks: environmental sounds (ESC-50 top-1 24.5% to 65.8%) and search over my own YouTube transcripts (66.3% to 75.0% top-1 on videos it never saw), and check what it costs the rest of the model.\n\nYou'll learn how to build question-passage training pairs, why ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-08T18:27:55.197554+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "pniLY0I9VJQ",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Life as it could be | Akarsh Kumar on Artificial Life",
+    "url": "https://www.youtube.com/shorts/pniLY0I9VJQ",
+    "published_at": "2026-10-08T11:34:31+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Akarsh Kumar on searching for artificial life with foundation models. Start from something as simple as Conway's Game of Life: \"From this super, super simple world, you run this, you get insane amounts of complexity.\"\n\nIn his words: \"Instead of hard coding a single simulation, you parameterize a space of simulations.\" Then: \"Plug it into a foundation model, and see what the foundation model thinks about what happened.\"\n\nFigures: ASAL, Akarsh Kumar et al. (MIT, Sakana AI).\n\nFull conversation with",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-08T18:28:23.732760+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "LfUgsSUdaX8",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Game of Thrones: Turing Edition | Akarsh Kumar on Core War",
+    "url": "https://www.youtube.com/shorts/LfUgsSUdaX8",
+    "published_at": "2026-10-08T10:30:08+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Akarsh Kumar wanted to see what would happen if you used LLMs to evolve small assembly programs that compete against each other. It's called Core War.\n\nIn his words: \"If you just try to zero-shot this language, it's terrible. But if you do this evolution and you have this verifier, it turns out to be really good.\"\n\nFull conversation with Akarsh on Machine Learning Street Talk.\n\n#Shorts #ArtificialLife #MachineLearning",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-08T18:28:38.772020+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "EqMxcTvJorQ",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Haiku 5.5: Anthropic's New Workhorse.",
+    "url": "https://www.youtube.com/shorts/EqMxcTvJorQ",
+    "published_at": "2026-10-07T20:09:51+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Anthropic just released Claude Haiku 5.5, which it calls its cheapest, fastest, and most capable small model yet. For prompts under 100,000 tokens, it costs $0.10 per million input tokens and $0.50 per million output tokens. That's 90% less than Haiku 4.5 and the same price as OpenAI's GPT-6 Luna. Above 100K tokens it's half off, and Anthropic estimates typical workloads cost about 75% less.\n\nOn OSWorld 2.1, a computer-use benchmark, Anthropic reports 72.4%, up from 15.7% for Haiku 4.5. It's als",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-08T18:28:09.454264+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Wkaw03p3BrM",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:27.746298+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-08T18:29:25.876606+00:00"
+    }
   },
   {
     "video_id": "XtIBx6H9A_I",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:41.728243+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-08T18:29:25.876620+00:00"
+    }
   },
   {
     "video_id": "fzaHuV9l3g8",
@@ -49,9 +139,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-07T18:29:55.085280+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-08T18:29:25.876623+00:00"
+    }
   },
   {
     "video_id": "6NZEYk4hNG8",
@@ -3399,60 +3498,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-13T14:33:54.561099+00:00"
-    }
-  },
-  {
-    "video_id": "yTolO_nxJiU",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Playing with Grok Build and whinging about Anthropic",
-    "url": "https://www.youtube.com/watch?v=yTolO_nxJiU",
-    "published_at": "2026-07-10T13:21:45+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-10T14:25:10.600610+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-11T13:16:55.593626+00:00"
-    }
-  },
-  {
-    "video_id": "mWlCituW7wo",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
-    "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
-    "published_at": "2026-07-10T12:40:15+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure you you’ll learn something you didn’t know before.\n\nFor Exclusive Videos, go to AI Insiders (less than $9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:03 - GPT 5.6 Sol Reveals\n05:08 - Missing",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-10T14:24:34.525244+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-11T13:16:55.593637+00:00"
     }
   }
 ]
