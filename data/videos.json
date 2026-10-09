@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "zoLs2JmtBFY",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Embedding Gemma 2: The Only Embedding you need for RAG",
+    "url": "https://www.youtube.com/shorts/zoLs2JmtBFY",
+    "published_at": "2026-10-08T22:37:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "EmbeddingGemma 2 is Google’s open multimodal embedding model for on-device search. It puts photos, videos, voice notes and text into one vector space, so a spoken question can find the photo it describes with no captioning or transcription step. The model has 740M parameters under Apache 2.0, you can load just the 270M text part, and Google says it runs on a Pixel in under 600 MB of memory. It also handles multimodal retrieval, classification and clustering.\n\nFull video with a free Colab noteboo",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-09T04:41:26.589683+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "S7tFyREI19I",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:27:55.197554+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "pniLY0I9VJQ",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:23.732760+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "LfUgsSUdaX8",
@@ -50,8 +68,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:38.772020+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "EqMxcTvJorQ",
@@ -68,8 +86,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:09.454264+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "Wkaw03p3BrM",
