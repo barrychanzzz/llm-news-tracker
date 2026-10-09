@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "hO4ft4tGOJI",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Why AI Coding Agents Fail (And How to Fix Them)",
+    "url": "https://www.youtube.com/watch?v=hO4ft4tGOJI",
+    "published_at": "2026-10-09T13:00:30+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This video is sponsored by Upstash. Try Upstash Box: https://upstash.com?utm_source=prompt1\n\nWhat is a software factory, and how do you build one? In this video I explain the idea, then build a working software factory with Claude Code running in Upstash Box sandboxes and point it at a real repo with 10 GitHub issues. It finished in 4 min 34 s, opened 9 pull requests, skipped the one vague issue, and all 9 fixes passed hidden tests the agents never saw.\n\n\nWhat you'll learn:\n- The core loop behin",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-09T18:00:05.669909+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "XjN5I44kf08",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Every supplement I take for long COVID and CFS recovery",
+    "url": "https://www.youtube.com/watch?v=XjN5I44kf08",
+    "published_at": "2026-10-09T12:47:02+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-09T18:00:19.639083+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "zoLs2JmtBFY",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-09T04:41:26.589683+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "S7tFyREI19I",
@@ -31,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:27:55.197554+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-09T18:01:05.145646+00:00"
+    }
   },
   {
     "video_id": "pniLY0I9VJQ",
@@ -49,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:23.732760+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-09T18:01:05.145661+00:00"
+    }
   },
   {
     "video_id": "LfUgsSUdaX8",
@@ -67,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:38.772020+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-09T18:01:05.145663+00:00"
+    }
   },
   {
     "video_id": "EqMxcTvJorQ",
@@ -85,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-08T18:28:09.454264+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-09T18:01:05.145664+00:00"
+    }
   },
   {
     "video_id": "Wkaw03p3BrM",
