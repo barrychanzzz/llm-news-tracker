@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "9krtvPgAdnY",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Why people HATE automation",
+    "url": "https://www.youtube.com/watch?v=9krtvPgAdnY",
+    "published_at": "2026-10-10T10:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-10T17:00:38.327957+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "615B5nyMFPk",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "What Most People Get Wrong About Evolution | Akarsh Kumar",
+    "url": "https://www.youtube.com/watch?v=615B5nyMFPk",
+    "published_at": "2026-10-10T04:31:57+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "A lot of people in AI treat evolution as a dumb fallback, basically random search for when you can't take a gradient. Akarsh Kumar thinks that is wrong. Selection hangs on to partial solutions, so mutations only need to be useful about 1% of the time for the search to keep making progress.\n\nAkarsh is a PhD student at MIT working with Phillip Isola, works with Sakana AI, and is first author of the Fractured Entangled Representation paper with Kenneth Stanley, Jeff Clune and Joel Lehman. He tells ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-10T17:00:24.836373+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "hO4ft4tGOJI",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-09T18:00:05.669909+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-10T17:01:05.014586+00:00"
+    }
   },
   {
     "video_id": "XjN5I44kf08",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-09T18:00:19.639083+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-10T17:01:05.014596+00:00"
+    }
   },
   {
     "video_id": "zoLs2JmtBFY",
@@ -3543,60 +3597,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-14T13:41:35.281377+00:00"
-    }
-  },
-  {
-    "video_id": "Ae9q7KsRbuI",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Minecraft Was Missing One Brilliant Idea",
-    "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-    "published_at": "2026-07-12T15:48:43+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.com/mod/terrain-diffusion\nhttps://github.com/xandergos/terrain-diffusion\n\nSource video for some parts of the footage: https://www.youtube.com/watch?v=irE4tcDtUIg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-13T02:41:10.599437+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-14T02:28:07.725841+00:00"
-    }
-  },
-  {
-    "video_id": "HNXGavpWHgg",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Muse Spark: Meta’s AI Comeback Starts Here?",
-    "url": "https://www.youtube.com/watch?v=HNXGavpWHgg",
-    "published_at": "2026-07-12T12:45:21+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Muse Spark 1.1 is here and this release from meta is bigger than just a model release. This is quasi-frontier model from Meta but more importantly its a platform play. \n\nhttps://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\nhttps://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence\nhttps://simonwillison.net/2026/Apr/8/muse-spark/\nhttps://developer.meta.com/ai/resources/blog/build-with-muse-spark/\nhttps://x.com/alexandr_wang/status/2075364232623956227?s=20\n\nMy voice to t",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-12T13:17:22.527472+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-13T14:33:54.561099+00:00"
     }
   }
 ]
