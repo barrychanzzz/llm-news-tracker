@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:23.487058+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "ItBq5rZSeh0",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:23:21.735825+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "5YJGDElbCDY",
@@ -50,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:37.873060+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "DVRMDoYhVBI",
@@ -68,8 +68,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:23:06.928083+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "ycZaPLeJb30",
@@ -86,8 +86,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:52.548615+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "9krtvPgAdnY",
@@ -3624,33 +3624,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-15T13:42:11.076190+00:00"
-    }
-  },
-  {
-    "video_id": "JTHmrELSfvk",
-    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-    "channel_name": "Machine Learning Street Talk",
-    "title": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
-    "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
-    "published_at": "2026-07-13T22:23:38+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "This episode is sponsored by Notion. Learn more about Notion's Developer Platform today at https://notion.com/mlst\n\nBritain's most capable coding model can't be exported, and that ban is the whole reason Cosine set out to build one from scratch. Alistair Pullen, CEO and co-founder of Cosine, sits down with Tim Scarfe to explain how a frontier system he calls Fable, locked behind US export controls, became the founding case for a UK sovereign model trained on the Isambard supercomputer in Bristol",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-14T02:27:36.088617+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-15T02:23:24.937869+00:00"
     }
   }
 ]
