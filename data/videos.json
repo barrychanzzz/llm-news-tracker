@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "JqeqEqh_KeM",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Meta’s Muse Wonder - Fable Class Model",
+    "url": "https://www.youtube.com/shorts/JqeqEqh_KeM",
+    "published_at": "2026-10-12T18:15:08+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Meta just released Muse Wonder and Muse Wonder Full, and the whole launch is built around \"personal superintelligence\": models with Active Memory and Active Focus that handle everyday tasks, not just code. Here's what the two models do, what Meta's own benchmarks claim, and where you can use them today.\n\nMeta's announcement: https://research.meta.ai/blog/muse-wonder\nModel card: https://research.meta.ai/static/muse-wonder-model-card\nTry it (Meta Model API): https://dev.meta.ai/models/muse-wonder\n",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-12T20:56:40.209322+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "8XsbzhuM3ns",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Why UBI isn't enough",
+    "url": "https://www.youtube.com/watch?v=8XsbzhuM3ns",
+    "published_at": "2026-10-12T15:00:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-12T20:56:55.301312+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "4fLVq6HJsKc",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:23.487058+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-12T20:57:40.403758+00:00"
+    }
   },
   {
     "video_id": "ItBq5rZSeh0",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:23:21.735825+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-12T20:57:40.403771+00:00"
+    }
   },
   {
     "video_id": "5YJGDElbCDY",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:37.873060+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-12T20:57:40.403775+00:00"
+    }
   },
   {
     "video_id": "DVRMDoYhVBI",
@@ -67,9 +130,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:23:06.928083+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-12T20:57:40.403777+00:00"
+    }
   },
   {
     "video_id": "ycZaPLeJb30",
@@ -85,9 +157,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-11T17:22:52.548615+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-12T20:57:40.403779+00:00"
+    }
   },
   {
     "video_id": "9krtvPgAdnY",
@@ -3597,33 +3678,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-16T13:48:35.409365+00:00"
-    }
-  },
-  {
-    "video_id": "MsPhMhfvgD4",
-    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
-    "channel_name": "AI Jason",
-    "title": "Why I switched to Pi...",
-    "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
-    "published_at": "2026-07-14T10:35:00+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Get free Claude Code AI Coding course: https://clickhubspot.com/68fd0a\n\n🔗 Links\n- Github repo for my pi setup & plugin: https://github.com/AI-Builder-Club/skills\n- Step-by-step workshop in AI builder club: https://www.aibuilderclub.com/lp/loop-engineer\n- Follow me on twitter: https://twitter.com/jasonzhou1993\n- Try Superdesign: http://superdesign.dev/",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-14T13:41:06.419012+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-15T13:42:11.076190+00:00"
     }
   }
 ]
