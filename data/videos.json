@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "yksrd5uNxcw",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Google is BACK! (Gemini 4 Argon - Fully Tested!)",
+    "url": "https://www.youtube.com/watch?v=yksrd5uNxcw",
+    "published_at": "2026-10-13T16:03:10+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini 4 Argon tested hands-on with early access: I pushed Google's new model to 1 million output tokens in a single response, had it rebuild websites from one screenshot, model a 3D dragon in pure math, and run ML experiments on my DGX Spark GPU. You'll learn how the continuation token works, how to prompt Argon for long outputs, when low, medium or high reasoning effort is worth it, and why your graders belong outside the agent's sandbox.\n\nGemini 4 Argon announcement: https://blog.google/innov",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-13T18:55:38.356005+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "baKLwo2tO4E",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Recursive Self Improvement",
+    "url": "https://www.youtube.com/watch?v=baKLwo2tO4E",
+    "published_at": "2026-10-13T11:38:18+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-13T18:55:52.057052+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "z_sXLlLVUls",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+    "published_at": "2026-10-13T08:56:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagencla",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-13T18:55:24.332333+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "C4Sq3Rot8FU",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+    "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+    "published_at": "2026-10-12T22:52:31+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times.\n\nExclusives, and ad-free early access vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n0:41 Part 1: The Forthcoming Breach\n8:43 Part 2: Why the Labs Keep Racing\n15:41 Part 3: Why the Next 18",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-13T18:55:09.087158+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "JqeqEqh_KeM",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-12T20:56:40.209322+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-13T18:56:31.391137+00:00"
+    }
   },
   {
     "video_id": "8XsbzhuM3ns",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-12T20:56:55.301312+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-13T18:56:31.391147+00:00"
+    }
   },
   {
     "video_id": "4fLVq6HJsKc",
@@ -3624,60 +3714,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-17T13:26:06.541052+00:00"
-    }
-  },
-  {
-    "video_id": "0CqLVnx-2UM",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Claude's Brain Has A Secret... And Scientists Found It",
-    "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-    "published_at": "2026-07-15T13:58:27+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://transformer-circuits.pub/2025/linebreaks/index.html\n\nPaper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765/Shifting-mirrors-adaptive-changes-in-retinal\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-16T02:30:45.877056+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-17T02:33:24.988324+00:00"
-    }
-  },
-  {
-    "video_id": "m1oSW_gYW_E",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "This 27B Model Shouldn't Run On Your Phone. It Does.",
-    "url": "https://www.youtube.com/watch?v=m1oSW_gYW_E",
-    "published_at": "2026-07-15T12:45:12+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Running a 27B Model on iPhone: Prism ML’s 1‑Bit Bonsai Quantization Explained\n\nI break down how Prism ML ran a 27B parameter Qwen-based model on an iPhone 17 Pro at about 11 tokens/sec by compressing it from ~54GB to 3.9GB using their 1-bit “Bonsai” approach. I explain quantization basics (16-bit to 8/4-bit, ternary, and 1-bit), why naive post-training quantization fails due to compounding error, and how prior open-source methods (llama.cpp mixed precision, GPTQ calibration-aware, AWQ activation",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-15T13:41:56.927758+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-16T13:48:35.409365+00:00"
     }
   }
 ]
