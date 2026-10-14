@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "ACJYAIc73gA",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "You Will Own EVERYTHING and Be Happy",
+    "url": "https://www.youtube.com/watch?v=ACJYAIc73gA",
+    "published_at": "2026-10-14T11:30:07+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-14T16:36:04.908888+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "YVV9csOi770",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Argon Built All of This",
+    "url": "https://www.youtube.com/shorts/YVV9csOi770",
+    "published_at": "2026-10-14T10:00:10+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini 4 Argon wrote an entire coastal city in a single 1-million-token response, trained a neural network from a research paper on my DGX Spark, and rebuilt websites from a screenshot without a single image file. I had early access for a couple of weeks, and these are the demos that stood out.\n\nFull video, with every demo and where it broke: https://youtu.be/yksrd5uNxcw\n\n#Gemini #GeminiArgon #AI #Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-14T16:35:50.555178+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "yksrd5uNxcw",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-13T18:55:38.356005+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-14T16:36:46.071013+00:00"
+    }
   },
   {
     "video_id": "baKLwo2tO4E",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-13T18:55:52.057052+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-14T16:36:46.071029+00:00"
+    }
   },
   {
     "video_id": "z_sXLlLVUls",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-13T18:55:24.332333+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-14T16:36:46.071031+00:00"
+    }
   },
   {
     "video_id": "C4Sq3Rot8FU",
@@ -67,9 +130,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-13T18:55:09.087158+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-14T16:36:46.071033+00:00"
+    }
   },
   {
     "video_id": "JqeqEqh_KeM",
@@ -3660,60 +3732,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-18T13:12:37.819052+00:00"
-    }
-  },
-  {
-    "video_id": "axOcn--n_lM",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Claude Just Revealed AI's Biggest Problem",
-    "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-    "published_at": "2026-07-16T15:39:17+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-17T02:33:03.177225+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-18T02:23:51.667668+00:00"
-    }
-  },
-  {
-    "video_id": "IB53DUrnYgI",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "This Trillion Param Model Is Open Weight. And It's Not Chinese.",
-    "url": "https://www.youtube.com/watch?v=IB53DUrnYgI",
-    "published_at": "2026-07-16T12:45:05+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "In this video, I break down Inkling, Thinking Machines’ first open-weight model release under Apache 2.0, trained from scratch as a multimodal decoder-only MoE. I cover the core architecture (near‑trillion parameters, 1M context window, 45T multimodal tokens, 256 experts with 41B active params), how it compares on benchmarks (not SOTA overall but a strong generalist with notable design performance), and why it matters as a major Western open model release. I also walk through the Tinker platform",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-16T13:48:12.410191+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-17T13:26:06.541052+00:00"
     }
   }
 ]
