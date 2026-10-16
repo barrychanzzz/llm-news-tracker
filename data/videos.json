@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "rv-X-Qvd7nk",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "We’ve Been Giving AI Agents Access Wrong.",
+    "url": "https://www.youtube.com/watch?v=rv-X-Qvd7nk",
+    "published_at": "2026-10-16T13:00:14+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "This video is sponsored by Teleport. Learn more about Teleport’s Agentic Identity Framework: https://fandf.co/4hyPyfG\n\nAI agents can now read your tickets, query your databases and change your infrastructure on their own, and most of them do it with a shared password. In this video I look at why agents need their own identity, then run the same task twice on a test store. With one shared admin login, the agent deleted more than a million audit-log rows, and the database log could not say who did",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-16T16:08:24.380549+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "3199TC7Pt_o",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Anthropic Scion is INSANE",
+    "url": "https://www.youtube.com/watch?v=3199TC7Pt_o",
+    "published_at": "2026-10-16T12:00:04+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-16T16:08:39.027140+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "b-c6MUXkpMs",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-15T16:22:09.944251+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-16T16:08:58.542198+00:00"
+    }
   },
   {
     "video_id": "ACJYAIc73gA",
