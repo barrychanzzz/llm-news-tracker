@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "Pl_2TelxjdY",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Can RL Make a 4B Model Compete with 27B?",
+    "url": "https://www.youtube.com/watch?v=Pl_2TelxjdY",
+    "published_at": "2026-10-17T13:00:06+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Can RL Make a 4B Model Compete with 27B? My Open RL Environment Experiments (GRPO, LoRA, DGX)\n\nIn this video I test whether open-source RL environments can make a small model perform closer to a much larger one by training Qwen 3.5 4B (with a LoRA) against Kaggle-style “small data” RL tasks on two DGX Sparks and comparing to Qwen 27B on a held-out exam. I explain what RL environments are (sandbox, tools, checker), why you need a strict checker to avoid reward hacking, and how GRPO works and only",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-17T15:00:22.596122+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "2wlQZY6Knqo",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "How Jobs Actually Disappear",
+    "url": "https://www.youtube.com/watch?v=2wlQZY6Knqo",
+    "published_at": "2026-10-17T12:00:15+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-17T15:00:37.732928+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "rv-X-Qvd7nk",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-16T16:08:24.380549+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-17T15:01:04.819316+00:00"
+    }
   },
   {
     "video_id": "3199TC7Pt_o",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-16T16:08:39.027140+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-17T15:01:04.819329+00:00"
+    }
   },
   {
     "video_id": "b-c6MUXkpMs",
