@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "ubDXXZ8iRAo",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Mechanistic Interpretability... solved?",
+    "url": "https://www.youtube.com/watch?v=ubDXXZ8iRAo",
+    "published_at": "2026-10-18T12:00:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-18T15:25:32.996719+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "BxZ6DvJnQz8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "DeepSeek V4.1 Flash 1017: A “Minor” Update?",
+    "url": "https://www.youtube.com/shorts/BxZ6DvJnQz8",
+    "published_at": "2026-10-17T19:16:30+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "DeepSeek just released DeepSeek V4.1 Flash 1017. Its Hugging Face model card calls it a minor update, but it improved on all 11 benchmarks in DeepSeek’s own table, with Terminal-Bench 4.0 jumping from 31.2% to 42.3% five weeks after V4.1 Flash.\n\nOn DeepSeek’s DeepSWE v1.1 cost chart, it reaches 77.0% at about $0.20 per task, the highest score on that chart. On DeepSeek’s table, it’s comparable to OpenAI’s GPT 5.6 Sol at about a sixteenth of Sol’s output price. All benchmark numbers are DeepSeek’",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-18T15:25:18.448208+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "Pl_2TelxjdY",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-17T15:00:22.596122+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-18T15:26:00.736026+00:00"
+    }
   },
   {
     "video_id": "2wlQZY6Knqo",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-17T15:00:37.732928+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-18T15:26:00.736037+00:00"
+    }
   },
   {
     "video_id": "rv-X-Qvd7nk",
@@ -3786,60 +3840,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-24T02:34:40.414620+00:00"
-    }
-  },
-  {
-    "video_id": "Pb6P8GW7elI",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "This 744GB Model Shouldn't Fit on Your Laptop. It Does",
-    "url": "https://www.youtube.com/watch?v=Pb6P8GW7elI",
-    "published_at": "2026-07-20T13:00:25+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Colibri: Run GLM 5.2 on 25GB of RAM on consumer hardware!\n\nA 744B Mixture-of-Experts model activates only ~40B parameters per token — and only ~11 GB of those change from token to token (the routed experts).\n\nLINKS:\nhttps://github.com/JustVugg/colibri\nhttps://z.ai/blog/glm-5.2\nDwarfStar-4 Video: https://youtu.be/9gHcmhUDJfw\nDSpark video: https://youtu.be/eFgknPFK-g0\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-20T14:04:22.472315+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-21T13:47:31.827169+00:00"
-    }
-  },
-  {
-    "video_id": "wCSPgHpcxdc",
-    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
-    "channel_name": "AI Jason",
-    "title": "Tmux + Fable = Cut 35% less token",
-    "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
-    "published_at": "2026-07-20T11:19:33+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Open Agent Teams skill + my Claude.md setup: https://github.com/AI-Builder-Club/skills/blob/main/skills/open-agent-teams/SKILL.md\n\n🔗 Links\n- 1-hr deep dive with Orca's advanced AI coding workflow: https://www.aibuilderclub.com/courses\n- Try Superdesign: http://superdesign.dev/\n- Follow me on twitter: https://twitter.com/jasonzhou1993",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-20T14:04:05.651244+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-21T13:47:31.827184+00:00"
     }
   }
 ]
