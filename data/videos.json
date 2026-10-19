@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "YGEz40RSpTE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "DeepSeek Finally Fixed Its Biggest Problem (V4.1 Flash 1017 - Fully Tested!)",
+    "url": "https://www.youtube.com/watch?v=YGEz40RSpTE",
+    "published_at": "2026-10-19T13:00:38+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "DeepSeek calls V4.1 Flash 1017 a “minor update”, but it went up on every benchmark in their table, and it’s now the #1 open model on Arena’s WebDev leaderboard. The bigger story is tokens. DeepSeek has always been cheap per token, but its Flash models were token-hungry, so cheap per token never meant cheap per task. In my reruns, 1017 used about a third fewer thinking tokens at high effort and 45% fewer at max, with the same prompts and settings.\n\n🔗 Links\n\nDeepSeek announcement: https://x.com/de",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-19T18:22:52.895031+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "8l1v9eEdqsQ",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Post-Labor Economics vs Communism",
+    "url": "https://www.youtube.com/watch?v=8l1v9eEdqsQ",
+    "published_at": "2026-10-19T12:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-19T18:23:08.168499+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "LWxX6vvHfrc",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Gemini 4 Argon Really Surprised Me",
+    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+    "published_at": "2026-10-19T08:49:21+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/EnvolDev/status/2110116583016419760\nhttps://x.com/kickingkeys/status/2110037855452180633\nhttps://x.com",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-19T18:22:36.780468+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ubDXXZ8iRAo",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-18T15:25:32.996719+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-19T18:23:40.881749+00:00"
+    }
   },
   {
     "video_id": "BxZ6DvJnQz8",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-18T15:25:18.448208+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-19T18:23:40.881760+00:00"
+    }
   },
   {
     "video_id": "Pl_2TelxjdY",
