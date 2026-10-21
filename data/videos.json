@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-20T16:24:05.429896+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "YGEz40RSpTE",
@@ -3930,33 +3930,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-25T13:23:19.559156+00:00"
-    }
-  },
-  {
-    "video_id": "wzY2fV4Mp3U",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
-    "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
-    "published_at": "2026-07-22T16:36:53+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "An unreleased internal OpenAI model, very likely to be called GPT-6, was able to autonomously break out of its sandbox AND break into HuggingFace, just to score higher on a benchmark prompt. This video has the details you may have missed, a layperson analogy, whether this is truly novel, and more…\n\nDozens more Exclusive videos on Patreon ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:17 - HuggingFace Earlier Report - the possible week gap\n02:24 - But what happened?",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-23T02:38:00.270432+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-24T02:34:40.414620+00:00"
     }
   }
 ]
