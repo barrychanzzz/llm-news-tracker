@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "esdRFXgXaaQ",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "DeepSeek Just Open-Sourced How It Serves 155T Tokens a Day",
+    "url": "https://www.youtube.com/watch?v=esdRFXgXaaQ",
+    "published_at": "2026-10-21T13:00:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "DeepSeek just open-sourced DeepInfer, the inference engine behind its own API, along with a detailed write-up of how it serves DeepSeek V4.1 Flash at scale: 155 trillion tokens a day from a single cluster. In this video we follow one request through the system: deepseek-recipe tokenization and prompt-injection protection, a KV cache that DeepSeek keeps for days (96% of input tokens are cache hits), prefill and decode on different machines, expert parallelism across 64+ GPUs, DSpark speculative d",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-21T16:39:47.719126+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "U4Qx9HRCk2c",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Making Money After AI Nukes All Jobs",
+    "url": "https://www.youtube.com/watch?v=U4Qx9HRCk2c",
+    "published_at": "2026-10-21T12:00:14+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-21T16:40:01.581353+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ep_EAZFUyW4",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-20T16:24:05.429896+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-21T16:40:19.863901+00:00"
+    }
   },
   {
     "video_id": "YGEz40RSpTE",
