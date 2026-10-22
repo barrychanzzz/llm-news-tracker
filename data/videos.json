@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "ByKEkRohzt8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "TimesFM - Foundation Model for Time Series Forcasting",
+    "url": "https://www.youtube.com/watch?v=ByKEkRohzt8",
+    "published_at": "2026-10-22T13:00:18+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Thanks to Neon for sponsoring this video. Try Neon here : https://neon.plug.dev/Sw0JRgk\n\nGoogle's TimesFM 3.0 forecasts time series without any training on your data. Hand it the history, and it continues the chart with a range around every day. In this video, I show how it works (patches, tokens, \"autocomplete for charts\"), what changed from 2.5 to 3.0, and I test both versions on real New York subway ridership and on a simulated business running on Neon. Then I give the exact planning decision",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-22T16:47:35.367431+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "CVeyL08MX7E",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Dario Amodei is DELUSIONAL",
+    "url": "https://www.youtube.com/watch?v=CVeyL08MX7E",
+    "published_at": "2026-10-22T12:00:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-22T16:48:03.259115+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "0sI-GTYetD8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Claude Duet: Anthropic's Proactive Agent",
+    "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
+    "published_at": "2026-10-21T21:49:31+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Anthropic just announced Claude Duet, a new app where Claude works as a proactive agent. It comes to you first instead of waiting for a prompt. Duet runs on Claude Opus 5.5 on its own computer in the cloud, so it keeps working after you close the app. Each morning it sends you a short brief from your connected apps, and during the day it messages you only when something needs your attention. Before it sends a message, makes a payment, signs a document, or deletes anything, it shows you what it’s",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-22T16:47:49.465616+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "esdRFXgXaaQ",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-21T16:39:47.719126+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-22T16:48:34.913187+00:00"
+    }
   },
   {
     "video_id": "U4Qx9HRCk2c",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-21T16:40:01.581353+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-22T16:48:34.913198+00:00"
+    }
   },
   {
     "video_id": "ep_EAZFUyW4",
@@ -3948,33 +4020,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-26T02:40:20.361291+00:00"
-    }
-  },
-  {
-    "video_id": "H_Lbe69XO_8",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Laguna S 2.1: The Best Local Agentic Coder?",
-    "url": "https://www.youtube.com/watch?v=H_Lbe69XO_8",
-    "published_at": "2026-07-24T13:00:02+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "In this video, we break down Poolside’s Laguna S2.1, an open-weights 118B MoE coding model (8B active per token) with a 1M-token context window, and why it performs above its size on agentic coding benchmarks like Terminal Bench 2.1. I cover how it was trained with reinforcement learning in FP8 on ~4,000 NVIDIA H200s in under nine weeks, plus how they tackled reward hacking on SWE-bench using an external LLM judge, prompt amendments, and network-blocked sandboxes. \n\nThanks to @NVIDIADeveloper fo",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-24T13:43:44.646277+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-25T13:23:19.559156+00:00"
     }
   }
 ]
