@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:47:35.367431+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "CVeyL08MX7E",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:48:03.259115+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "0sI-GTYetD8",
@@ -50,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:47:49.465616+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "esdRFXgXaaQ",
@@ -3993,33 +3993,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-30T13:58:38.432141+00:00"
-    }
-  },
-  {
-    "video_id": "9CYT5OFypa0",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Opus 5 Is Fable 5 for Half the Money?",
-    "url": "https://www.youtube.com/watch?v=9CYT5OFypa0",
-    "published_at": "2026-07-24T18:54:17+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Claude Opus 5 First Impressions: Benchmarks, Pricing, Agentic Coding & Real-World Demos\n\nIn this quick first-impressions video, I test Anthropic’s new Claude Opus 5 and compare it to “Fable 5” across major third‑party benchmarks (including Cursor and Devin/Frontier Code), highlighting strong agentic coding results and improved performance at roughly half the price. I cover pricing (same as Opus 4.8), effort/thinking budget tradeoffs, and note Anthropic intentionally reduced cybersecurity capabil",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-25T02:33:15.223690+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-26T02:40:20.361291+00:00"
     }
   }
 ]
