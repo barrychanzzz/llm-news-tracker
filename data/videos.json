@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "UZ0WYh6O4ug",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "How Fast Will the AI Transition Really Be?",
+    "url": "https://www.youtube.com/watch?v=UZ0WYh6O4ug",
+    "published_at": "2026-10-23T12:00:23+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-23T16:31:07.166901+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "0XSk7fCimYE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "The Internet Is on Fire (Patch These Now)",
+    "url": "https://www.youtube.com/shorts/0XSk7fCimYE",
+    "published_at": "2026-10-23T02:34:10+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In five days, almost every layer developers build on got hit: weak eMudhra certificate keys (one was the number 4), PHP2Shell, a Node.js Brotli RCE, a CVSS 10 GitLab flaw, a poisoned LiteLLM release on PyPI, Plex2Shell attacks, Railway and OpenCode key exposures, and an SBI data leak. Here's what happened at each layer, and what to update and rotate today.\n\nSources:\neMudhra keys (Help Net Security): https://www.helpnetsecurity.com/2026/10/21/emudhra-certificates-private-keys-compromised/\nPHP sec",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-23T16:30:52.237372+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ByKEkRohzt8",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:47:35.367431+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-23T16:31:40.592691+00:00"
+    }
   },
   {
     "video_id": "CVeyL08MX7E",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:48:03.259115+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-23T16:31:40.592701+00:00"
+    }
   },
   {
     "video_id": "0sI-GTYetD8",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-22T16:47:49.465616+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-23T16:31:40.592704+00:00"
+    }
   },
   {
     "video_id": "esdRFXgXaaQ",
