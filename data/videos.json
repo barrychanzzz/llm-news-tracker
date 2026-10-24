@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "pW2ktrJlsyE",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Harness² Explained: Self-Improving Agents Without Training",
+    "url": "https://www.youtube.com/watch?v=pW2ktrJlsyE",
+    "published_at": "2026-10-24T13:00:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Harness² is a research framework from Google Cloud AI Research and Northwestern University that lets an AI agent rewrite its own harness (its prompts, skills, scripts, subagents and control-loop hooks) for every new task, without retraining the model. In this video I explain how it improves a harness with no answer key (Propose, Probe, Compose), why it has two levels of recursion with an experience library, what the results show against Claude Code and Codex, and where the approach breaks.\n\nPape",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-24T15:25:43.072414+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "VmrNsOVOAt4",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Anthropic Is Living In The Future",
+    "url": "https://www.youtube.com/watch?v=VmrNsOVOAt4",
+    "published_at": "2026-10-24T12:00:03+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-24T15:26:12.847299+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "zgluzf-zjhI",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Kimi K3.1 Pro: Open Weights, Almost Opus",
+    "url": "https://www.youtube.com/shorts/zgluzf-zjhI",
+    "published_at": "2026-10-23T18:06:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Moonshot just released Kimi K3.1 Pro, an open-weight mixture of experts model with 2.8 trillion total parameters, about 104 billion active, and a 1 million token context window. It’s the same size as Kimi K3, post-trained with a lot more reinforcement learning. On Moonshot’s own Terminal-Bench 4.0 numbers it scores 65.7%, less than a point behind Claude Opus 5.5 (66.4%) and ahead of GPT-6 Astra (58.2%), at about a third of Opus’s cost per task on their chart.\n\nMoonshot also removed cyber-related",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-24T15:25:57.563423+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "UZ0WYh6O4ug",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-23T16:31:07.166901+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-24T15:26:46.333561+00:00"
+    }
   },
   {
     "video_id": "0XSk7fCimYE",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-23T16:30:52.237372+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-24T15:26:46.333571+00:00"
+    }
   },
   {
     "video_id": "ByKEkRohzt8",
