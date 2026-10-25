@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "_XXX5K-EMoc",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Does Kimi K3.1 Pro Replaces Opus 5.5? (Full Comparison)",
+    "url": "https://www.youtube.com/watch?v=_XXX5K-EMoc",
+    "published_at": "2026-10-25T13:00:11+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kimi K3.1 Pro vs Claude Opus 5.5 on 13 long-horizon agentic coding tasks. Both models ran in the same Claude Code harness, with the same prompts, the same effort setting and the same grading scripts. Only the model string changed.\n\nKimi K3.1 Pro is listed at half the price of Opus 5.5 ($2 / $10 per million input / output tokens vs $4 / $20). Across all 13 tasks it cost $45.91 against Opus's $83.46, about 55% of the bill, and between 28% and 93% depending on the task. The reason is caching: about",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-25T15:36:13.453531+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "AwOXSYxq3uA",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "CVEs Are Going TO THE MOON",
+    "url": "https://www.youtube.com/watch?v=AwOXSYxq3uA",
+    "published_at": "2026-10-25T12:00:01+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-25T15:36:28.424274+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "pW2ktrJlsyE",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-24T15:25:43.072414+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-25T15:37:04.308630+00:00"
+    }
   },
   {
     "video_id": "VmrNsOVOAt4",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-24T15:26:12.847299+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-25T15:37:04.308643+00:00"
+    }
   },
   {
     "video_id": "zgluzf-zjhI",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-24T15:25:57.563423+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-25T15:37:04.308646+00:00"
+    }
   },
   {
     "video_id": "UZ0WYh6O4ug",
