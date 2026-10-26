@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "IRJDwtAreB4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Mathematics Just Changed Forever — Kevin Hartnett",
+    "url": "https://www.youtube.com/watch?v=IRJDwtAreB4",
+    "published_at": "2026-10-26T14:23:14+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kevin Hartnett is the author of *The Proof in the Code*.\n\nSPONSOR:\n---\nCyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open.\nApply now: https://cyber.fund\n---\n\nIn 1998 Thomas Hales finished a proof of the Kepler conjecture that leaned so heavily on computer code that the Annals of Mathematics could not say whether it was true. That impasse opens Kevin Hartnett's book *The Proof in the Code*, and this documentary.\n\nBu",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-26T18:17:38.090860+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "lcVFk4df5Ms",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Harness² Explained in 60 Seconds",
+    "url": "https://www.youtube.com/shorts/lcVFk4df5Ms",
+    "published_at": "2026-10-26T13:15:22+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Harness² lets an AI agent build and evolve its own harness (its instructions, tools and control loop) for every task, with no retraining. Watch the full explainer: https://youtu.be/pW2ktrJlsyE\n\nPaper: https://arxiv.org/abs/2610.14224\nCode: https://github.com/google-research/harness2\nProject page: https://harness2.github.io\n\n\n#AIAgents #Harness2 #ClaudeCode #AgenticAI #LLM",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-26T18:17:22.543471+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "Kd8mpwU4-JA",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "You Are The Next Horse",
+    "url": "https://www.youtube.com/watch?v=Kd8mpwU4-JA",
+    "published_at": "2026-10-26T12:00:34+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-26T18:17:53.195066+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "_XXX5K-EMoc",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-25T15:36:13.453531+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-26T18:18:27.817518+00:00"
+    }
   },
   {
     "video_id": "AwOXSYxq3uA",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-25T15:36:28.424274+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-26T18:18:27.817531+00:00"
+    }
   },
   {
     "video_id": "pW2ktrJlsyE",
