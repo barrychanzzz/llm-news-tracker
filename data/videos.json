@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "5pi9dSGYAgM",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Correct Isn't Enough. I Want the Reason. - Paul Lessard  #podcast #science",
+    "url": "https://www.youtube.com/shorts/5pi9dSGYAgM",
+    "published_at": "2026-10-27T16:24:35+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Paul Lessard on what he actually wants from AI in mathematics. Proofs that don't get it wrong aren't enough: he wants provenance, the reason a machine reaches a particular answer. Machine-generated proofs may have their uses, but once you're doing real mathematics, human understanding stays at the centre, because someone still has to understand it.\n\nFrom our documentary \"Mathematics Just Changed Forever\" with Kevin Hartnett, Kevin Buzzard, Jeremy Avigad, Leo de Moura and Paul Lessard.\n\nWatch the",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-27T17:31:13.407329+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "unwUjyA52tM",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The Trojan Horse in AI-Written Mathematics",
+    "url": "https://www.youtube.com/shorts/unwUjyA52tM",
+    "published_at": "2026-10-27T14:30:06+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kevin Hartnett, author of The Proof in the Code, on the catch in AI autoformalisation. An LLM can now turn a maths paper into Lean code in a fraction of the time a team of humans would take, and the Mathlib community is finding that's a little bit of a Trojan horse: a flood of Lean that isn't written with the precision and economy Mathlib's canonical definitions need. It's the same problem everyone else has with the volume of AI-generated everything.\n\nFrom our documentary \"Mathematics Just Chang",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-27T17:31:28.657466+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "-Fs68Ea39Yk",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "A Day in 2041 - Post-Labor Living",
+    "url": "https://www.youtube.com/watch?v=-Fs68Ea39Yk",
+    "published_at": "2026-10-27T12:00:12+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-27T17:31:43.572175+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "Pn8e474Z5Ps",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Qwen Calling Home?",
+    "url": "https://www.youtube.com/shorts/Pn8e474Z5Ps",
+    "published_at": "2026-10-26T23:13:32+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Cohere says one of Alibaba’s newest Qwen models, Qwen3.8 Flash Next, tried to upload a test file to an Alibaba Cloud storage bucket in Beijing, in under 1 in 100,000 runs, right after its reasoning said it wouldn’t use any tools. Here’s what most likely happened (a habit from training on Alibaba’s own sandboxes), why a made-up address still matters, and how to protect any agent: block outbound network access by default and check every tool call before it runs.\n\nCohere’s report: https://cohere.co",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-27T17:30:58.825795+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "IRJDwtAreB4",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-26T18:17:38.090860+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-27T17:32:30.743529+00:00"
+    }
   },
   {
     "video_id": "lcVFk4df5Ms",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-26T18:17:22.543471+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-27T17:32:30.743540+00:00"
+    }
   },
   {
     "video_id": "Kd8mpwU4-JA",
@@ -49,9 +139,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-26T18:17:53.195066+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-27T17:32:30.743543+00:00"
+    }
   },
   {
     "video_id": "_XXX5K-EMoc",
@@ -4182,87 +4281,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-07-31T14:03:24.913238+00:00"
-    }
-  },
-  {
-    "video_id": "zucRI00quO0",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Kimi K3: Can It Beat Opus 5 on 3D Worlds?",
-    "url": "https://www.youtube.com/watch?v=zucRI00quO0",
-    "published_at": "2026-07-29T13:00:11+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thanks to Cline for making this video possible. Get 80% off of the Clinepass with this link:  https://cline.gg/prompt80\n\nI test the newly released Kimi K3 weights against Claude Opus 5 on a single long-horizon task: generating a fully explorable 3D world from one reference image using an orchestrator with multiple sub-agents. I run the exact same prompt inside Cline (an open-source agent harness with IDE/CLI/SDK options) using high reasoning effort, paste in the reference image, and review Kimi ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-29T14:08:04.656002+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-30T13:58:38.432120+00:00"
-    }
-  },
-  {
-    "video_id": "Xj-QdEUxJkE",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Kimi K3 Just Broke The Economics Of AI",
-    "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-    "published_at": "2026-07-29T12:37:50+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2607.24653\n\nTry Kimi K3 (subject to availability): https://www.kimi.com/\n\nLinks:\nhttps://macos27.kimi.page/\nhttps://x.com/mweinbach/status/2077878247920951400\nhttps://x.com/intheworldofai/status/2077838911494336681\nhttps://x.com/chetaslua/status/2077829183989072281\nhttps://x.com/hqmank/status/2078104317027094907\n\n🙏 We would like to thank our generous Patreon su",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-29T14:07:49.252741+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-30T13:58:38.432139+00:00"
-    }
-  },
-  {
-    "video_id": "x8lhQdbyYNg",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Why everyone lies about AI",
-    "url": "https://www.youtube.com/watch?v=x8lhQdbyYNg",
-    "published_at": "2026-07-29T12:02:46+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-07-29T14:08:20.080429+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-07-30T13:58:38.432141+00:00"
     }
   }
 ]
