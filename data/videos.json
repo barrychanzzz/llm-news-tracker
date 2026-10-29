@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "hOitZIkMT2Y",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "I Trained Qwen 4B with Distillation to Catch Qwen 27B",
+    "url": "https://www.youtube.com/watch?v=hOitZIkMT2Y",
+    "published_at": "2026-10-29T13:00:37+00:00",
+    "view_count": 5046,
+    "duration": 1395,
+    "duration_string": "23:15",
+    "description": "Can a 27 billion parameter model teach a 4 billion model to be as good as itself? Last time, RL got Qwen 4B from 52% to 58.4% and then hit a wall. This time I used Qwen 27B as a teacher and tried all three kinds of distillation on two DGX Sparks: training on the teacher's answers, training on its probabilities, and on-policy distillation where the 27B grades every token the 4B writes.\n\nSponsored by Dex, the talent agent for senior engineers. Free for engineers: https://meetdex.link/promptenginee",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-29T18:03:44.069899+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "W6b7MHwUBHk",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "The Last 5 Years of Labor",
+    "url": "https://www.youtube.com/watch?v=W6b7MHwUBHk",
+    "published_at": "2026-10-29T12:00:15+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-29T18:04:12.437840+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "kMpTBy3g1N0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Carbon: The New Frontier",
+    "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+    "published_at": "2026-10-28T18:57:07+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Google just announced Gemini 4 Carbon, its second frontier model in about two weeks after Gemini 4 Argon. According to Artificial Analysis, Carbon is now #1 on their Intelligence Index at 59, one point ahead of Claude Opus 5.5.\n\nGoogle says Carbon leads across the whole cyber defense workflow: finding vulnerabilities (SEC-bench Pro 88.2%), proving they can be exploited (ExploitGym 54.8%) and writing the patch (CWE-bench 71.0%). Google also says successful cheating on Terminal-Bench 4.0 dropped t",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-10-29T18:03:57.364525+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "pryCaGv8wuo",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:55:56.668889+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356602+00:00"
+    }
   },
   {
     "video_id": "_87vrjxx1EE",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:56:11.309118+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356613+00:00"
+    }
   },
   {
     "video_id": "lhvPU5mAeWc",
@@ -49,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:57:36.750065+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356615+00:00"
+    }
   },
   {
     "video_id": "IcXN7ysaqrc",
@@ -67,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:56:25.266498+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356618+00:00"
+    }
   },
   {
     "video_id": "_9axenbT-1I",
@@ -85,9 +175,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:56:39.451866+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356623+00:00"
+    }
   },
   {
     "video_id": "eeVmSP9fL0c",
@@ -103,9 +202,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:56:53.584069+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356625+00:00"
+    }
   },
   {
     "video_id": "Melgii34x-c",
@@ -121,9 +229,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:57:08.584376+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356628+00:00"
+    }
   },
   {
     "video_id": "m7jelL7qRWo",
@@ -139,9 +256,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-28T17:57:22.264527+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-10-29T18:05:18.356629+00:00"
+    }
   },
   {
     "video_id": "5pi9dSGYAgM",
