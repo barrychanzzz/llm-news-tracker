@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "LMiadHKsf64",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "These Jobs are AI-Proof... But How Many Will Last?",
+    "url": "https://www.youtube.com/watch?v=LMiadHKsf64",
+    "published_at": "2026-11-01T13:00:11+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-01T17:41:15.961338+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "aJUJRxwBteM",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-10-31T16:51:54.484927+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-01T17:41:28.696079+00:00"
+    }
   },
   {
     "video_id": "CWdTBLsbaQs",
@@ -4524,60 +4551,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-07T02:36:14.740254+00:00"
-    }
-  },
-  {
-    "video_id": "_zMrVJVD4ZU",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Qwen Just Did it Again! The Biggest Model Yet!",
-    "url": "https://www.youtube.com/watch?v=_zMrVJVD4ZU",
-    "published_at": "2026-08-03T13:00:10+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Qwen 3.8 Max: 2.4T Params, Agentic Long-Horizon Tasks, Benchmarks + Web App Demos\n\nI cover Qwen’s new Qwen 3.8 Max release, a 2.4T-parameter multimodal model with 95B active params that’s expected to go open-weight soon, and I compare excitement around the upcoming 27B model that can run on consumer hardware. I review benchmarks (including a top-five Arena spot and coding/agentic performance comparisons), then dig into agentic long-horizon capabilities like creating and evolving its own harness ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-03T14:37:40.916305+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-04T14:08:48.929676+00:00"
-    }
-  },
-  {
-    "video_id": "bm1BjOjS7sQ",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Another DeepSeek Moment Has Arrived",
-    "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-    "published_at": "2026-08-03T09:47:34+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek API: https://platform.deepseek.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-03T14:37:23.694271+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-04T14:08:48.929688+00:00"
     }
   }
 ]
