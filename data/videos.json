@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "wXJDtImT_-0",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "GPT-6 Astra Made Qwen 6x Better at Math Without Training",
+    "url": "https://www.youtube.com/watch?v=wXJDtImT_-0",
+    "published_at": "2026-11-03T14:00:04+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "GPT-6 Astra edited just 0.016% of Qwen3.5-0.8B's weights, and its MATH-500 score jumped from 7.9% to 48.1%, with no training and no gradients. This is Weight-Space Programming, new research from MIT CSAIL in which a frontier LLM reads and writes neural network weights directly. In this video I explain how Astra reads a network's weights, how it wrote a Breakout network from all-zero weights, what it changed inside Qwen, and why most of the 6x gain comes from stopping the reasoning loops that Qwe",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-03T19:05:16.016839+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "a65DF3N0EoU",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "ELI5: Post-Labor Economics",
+    "url": "https://www.youtube.com/watch?v=a65DF3N0EoU",
+    "published_at": "2026-11-03T13:00:14+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-03T19:05:30.204931+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "0Kw6_DTZPrY",
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "channel_name": "AI Explained",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-02T21:26:35.671452+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-03T19:06:05.781432+00:00"
+    }
   },
   {
     "video_id": "XyRE7eKKKug",
@@ -31,9 +76,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-02T21:27:07.279260+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-03T19:06:05.781447+00:00"
+    }
   },
   {
     "video_id": "yW_ngvMFlYs",
@@ -49,9 +103,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-02T21:26:52.182726+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-03T19:06:05.781450+00:00"
+    }
   },
   {
     "video_id": "LMiadHKsf64",
@@ -4587,33 +4650,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-08T12:44:49.807788+00:00"
-    }
-  },
-  {
-    "video_id": "ppQh4Tc9BmM",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "The Billion Dollar AI Race Just Broke",
-    "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-    "published_at": "2026-08-05T13:54:29+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Qwen 3.8 Max:\nhttps://qwen.ai/blog?id=qwen3.8\n\nSources:\nhttps://x.com/loktar00/status/2082589566934929750\nhttps://x.com/CommandCodeAI/status/2084293498950590839\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen S",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-06T02:28:01.148809+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-07T02:36:14.740254+00:00"
     }
   }
 ]
