@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "EagFtaET0vE",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "No. Capitalism 2.0 Is Coming.",
+    "url": "https://www.youtube.com/watch?v=EagFtaET0vE",
+    "published_at": "2026-11-04T13:00:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-04T19:25:13.602137+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "BwE9HfB5Rtw",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The Dream Chocolate That Stopped Being Real (Joscha Bach)",
+    "url": "https://www.youtube.com/shorts/BwE9HfB5Rtw",
+    "published_at": "2026-11-04T08:27:06+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Joscha Bach on a dream he had when he was two or three. He was about to eat a chocolate with a very strong smell, and he woke up just before it reached his mouth. He still knew everything about the chocolate, but it was no longer real. So he fell asleep again, went back into the dream, and the chocolate was real again: he could smell it and taste it. When he woke up a second time, the realness disappeared again. The contents were exactly the same. The only thing that had gone was the illusion of",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-04T19:24:26.944977+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "TA9-RgnLZrs",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Simulated Water Can't Make You Wet (Joscha Bach)",
+    "url": "https://www.youtube.com/shorts/TA9-RgnLZrs",
+    "published_at": "2026-11-04T04:39:59+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Joscha Bach on a joke that turned out to be true. In Minecraft, if you're on fire and jump into water, the fire goes out because you're wet. Someone then trained a neural network on nothing but Minecraft's visuals, so you could play a simulated Minecraft with no game code underneath. Joscha set out to joke that simulated water in simulated Minecraft can't make you wet. He tried it, and it was literally true: the water receded as you walked in, because the network had never learned what it means ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-04T19:24:41.748302+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "ZhftAOXJACM",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Minecraft Doesn't Know What It's Running On (Joscha Bach)",
+    "url": "https://www.youtube.com/shorts/ZhftAOXJACM",
+    "published_at": "2026-11-04T02:53:57+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Joscha Bach on why a computer is a \"causal insulator\". Minecraft runs just as well on a Mac as on a PC, and nothing inside the game can tell what it's running on. He argues the brain does the same job for us, which is why we can picture a future, or remember a past, that isn't tied to the present moment.\n\n#Shorts\n\nWatch the full conversation: https://www.youtube.com/watch?v=yW_ngvMFlYs",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-04T19:24:55.721051+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "wXJDtImT_-0",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-03T19:05:16.016839+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-04T19:25:52.255469+00:00"
+    }
   },
   {
     "video_id": "a65DF3N0EoU",
@@ -31,9 +112,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-03T19:05:30.204931+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-04T19:25:52.255485+00:00"
+    }
   },
   {
     "video_id": "0Kw6_DTZPrY",
@@ -4623,33 +4713,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-08T12:44:49.807777+00:00"
-    }
-  },
-  {
-    "video_id": "xGzseSSStnw",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "AI is getting a little out of control",
-    "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
-    "published_at": "2026-08-06T15:02:06+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dean…\n\nhttps://80000hours.org/aiexplained\n\n\nExclusive Videos - AI Insiders ($7/month if annual!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:16 - 10 Autonomous Discoveries\n08:20 - The Security ‘I",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-07T13:00:47.934162+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-08T12:44:49.807788+00:00"
     }
   }
 ]
