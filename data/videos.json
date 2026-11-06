@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "AyzLIRBuUN8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "What Are AI Evals? And How to Build Your First One",
+    "url": "https://www.youtube.com/watch?v=AyzLIRBuUN8",
+    "published_at": "2026-11-06T14:00:21+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Try Progress Agentic RAG free for 14 days (video sponsor): https://www.progress.com/agentic-rag/book-a-demo?utm_medium=paid-social&amp;utm_source=promptengineering&amp;utm_campaign=influencer\n\n\nAI evals are how you know whether an AI agent actually works. In this video, you'll learn what evals are, why testing an AI agent is different from testing regular software, and how to evaluate an agent with code checks, an LLM judge, and human review. Then we build an eval set for a text-to-SQL agent, us",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-06T18:55:45.611492+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "mqElF76GdCc",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "What is \"Weight Space Programming\"???",
+    "url": "https://www.youtube.com/watch?v=mqElF76GdCc",
+    "published_at": "2026-11-06T13:00:37+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-06T18:55:59.354891+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "XgC1QTs6A2U",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+    "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+    "published_at": "2026-11-06T07:27:02+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be Good Enough?\n43:53 Favorite Papers\n44:53 The hardest question\n\n🙏 We would like to thank our generous ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-06T18:55:31.678200+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "79TcCuDWlpw",
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "channel_name": "David Shapiro",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-05T19:31:35.381989+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-06T18:56:24.045146+00:00"
+    }
   },
   {
     "video_id": "EagFtaET0vE",
