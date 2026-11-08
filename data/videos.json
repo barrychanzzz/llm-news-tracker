@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "5qb6JrO-Z1M",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "AI Won’t Pay Off Until You Redesign the Work",
+    "url": "https://www.youtube.com/watch?v=5qb6JrO-Z1M",
+    "published_at": "2026-11-08T13:00:32+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-08T17:38:46.188209+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "GJ6PMUm5oTA",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-07T17:27:53.138973+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-08T17:39:05.855254+00:00"
+    }
   },
   {
     "video_id": "c4OK-RjCk_U",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-07T17:28:07.445134+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-08T17:39:05.855265+00:00"
+    }
   },
   {
     "video_id": "AyzLIRBuUN8",
