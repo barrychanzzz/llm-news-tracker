@@ -1,5 +1,77 @@
 [
   {
+    "video_id": "g_n55IXQU20",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Three Months After You Build the Harness (Edward Hughes)",
+    "url": "https://www.youtube.com/shorts/g_n55IXQU20",
+    "published_at": "2026-11-11T14:15:21+00:00",
+    "view_count": 918,
+    "duration": 28,
+    "duration_string": "28",
+    "description": "Every hand-built harness around an AI model has a shelf life. Edward Hughes explains why his team deliberately does not build harnesses for their AI scientist work. His co-founder Louis Kirsch analysed harness-based AI scientist systems and found that about three months after a harness is built, the base model can do the same thing on its own.\n\nFull conversation on Machine Learning Street Talk, \"What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes\".\n\n#Shorts #AI #A",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T19:16:49.077152+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "BnA4i_vjcV4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "LLMs Cosplay Understanding (Jeremy Howard)",
+    "url": "https://www.youtube.com/shorts/BnA4i_vjcV4",
+    "published_at": "2026-11-11T13:50:12+00:00",
+    "view_count": 917,
+    "duration": 61,
+    "duration_string": "1:01",
+    "description": "Jeremy Howard, co-founder of fast.ai and Answer.AI, on the endless online argument over whether LLMs \"really\" understand. His answer is that both sides are right: LLMs cosplay understanding, much like the man in Searle's Chinese room. For a great many tasks the difference doesn't matter, until you reach the point where the pretence stops working.\n\nFull conversation with Jeremy on Machine Learning Street Talk.\n\n#Shorts #LLM #MachineLearning\n\nFull episode: https://www.youtube.com/watch?v=dHBEQ-Ryo",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T19:16:56.318743+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "qD3FrUgkVII",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
+    "url": "https://www.youtube.com/shorts/qD3FrUgkVII",
+    "published_at": "2026-11-11T08:21:36+00:00",
+    "view_count": 3472,
+    "duration": 66,
+    "duration_string": "1:06",
+    "description": "Jeremy Howard, co-founder of fast.ai and Answer.AI, on Anthropic's \"clean-room\" C compiler written by Claude. Chris Lattner's LLVM, the most widely used foundation for compilers, is in the training data many times over, so converting it to Rust is an interpolation between parts of that data: a style-transfer problem. The giveaway is that it copied parts of LLVM that Chris now says were a mistake. In Jeremy's words: \"That doesn't happen accidentally. That happens because you're not actually being",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T19:17:04.105615+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "WyHxyBrKhaQ",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
+    "url": "https://www.youtube.com/shorts/WyHxyBrKhaQ",
+    "published_at": "2026-11-11T08:13:17+00:00",
+    "view_count": 531,
+    "duration": 103,
+    "duration_string": "1:43",
+    "description": "Blaise Agüera y Arcas on the BFF experiment. Start with a soup of 1,024 tapes, each 64 random bytes. Pluck two at random, join them end to end, run them, pull them apart, put them back, and repeat. That's the entire experiment. Out of it come complex programs that copy themselves and each other: in his words, \"emergence of life in this very functional minimal sense from randomness.\"\n\nWatch the full conversation: https://www.youtube.com/watch?v=M2iX6HQOoLg\n\n#Shorts #ArtificialLife #MachineLearnin",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T19:17:18.148439+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "583ThJIqQ7k",
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "channel_name": "AI Explained",
@@ -13,6 +85,24 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T04:49:21.009944+00:00",
+    "analyzed": false,
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
+  },
+  {
+    "video_id": "SlFMPTdKuAk",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Carbon : The New Frontier",
+    "url": "https://www.youtube.com/shorts/SlFMPTdKuAk",
+    "published_at": "2026-11-10T21:16:11+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Google's Gemini 4 Carbon is out for developers: 60 on the Artificial Analysis Intelligence Index, a 1M-token context window, up to 1M output tokens, and an introductory price of $2 in and $10 out per million tokens until November 30. I tested Google's \"runs for days\" claim by leaving it alone to rebuild a historic fort in 3D. Full video: https://youtu.be/lQ6wwLHqDAg\n\nGoogle's announcement: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nArtifi",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T19:16:41.351563+00:00",
     "analyzed": false,
     "subtitle_retries": 1,
     "no_subtitle_count": 1
@@ -31,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:12.075367+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-11T19:18:24.641107+00:00"
+    }
   },
   {
     "video_id": "nyBmFVBfKOM",
@@ -49,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:59.585834+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-11T19:18:24.641120+00:00"
+    }
   },
   {
     "video_id": "vug73goPJaM",
@@ -95,9 +203,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:39.279206+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-11T19:18:24.641122+00:00"
+    }
   },
   {
     "video_id": "GCGaQj-FAo8",
@@ -113,9 +230,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:52.452489+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-11T19:18:24.641124+00:00"
+    }
   },
   {
     "video_id": "BsWS2dImirs",
@@ -131,9 +257,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:25.461764+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-11T19:18:24.641125+00:00"
+    }
   },
   {
     "video_id": "f5FnRf6nHNM",
@@ -4858,33 +4993,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-15T12:34:38.730523+00:00"
-    }
-  },
-  {
-    "video_id": "NPO2CwHnfmI",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "DeepSeek Drops Its Own Harness!",
-    "url": "https://www.youtube.com/watch?v=NPO2CwHnfmI",
-    "published_at": "2026-08-13T17:32:48+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "DeepSeek V4 Pro (GA) is here along with the DeepSeek Harness (this is the important one!):\n\nhttps://deepseek.com/harness/en/\n\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineer",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-14T01:50:38.778831+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-15T01:09:41.630998+00:00"
     }
   }
 ]
