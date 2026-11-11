@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "583ThJIqQ7k",
+    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "channel_name": "AI Explained",
+    "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+    "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+    "published_at": "2026-11-10T23:11:36+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast AI is accelerating AI, five benchmarks few others will talk about, why Simple Bench got saturated but meta-simple bench might not have, Internal model 4, remote labour automation and much more\n\nhttps://www.assemblyai.com/aiexplained\n\nExclusive Vids($9!): https://www.patreon.com/A",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-11T04:49:21.009944+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "lQ6wwLHqDAg",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:12.075367+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "nyBmFVBfKOM",
@@ -32,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:59.585834+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "vug73goPJaM",
@@ -78,8 +96,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:39.279206+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "GCGaQj-FAo8",
@@ -96,8 +114,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:52.452489+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "BsWS2dImirs",
@@ -114,8 +132,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-10T19:21:25.461764+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "f5FnRf6nHNM",
