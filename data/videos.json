@@ -14,8 +14,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:49.077152+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "BnA4i_vjcV4",
@@ -32,8 +32,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:56.318743+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "qD3FrUgkVII",
@@ -50,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:17:04.105615+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "WyHxyBrKhaQ",
@@ -68,8 +68,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:17:18.148439+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "583ThJIqQ7k",
@@ -85,9 +85,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T04:49:21.009944+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T05:52:04.800448+00:00"
+    }
   },
   {
     "video_id": "SlFMPTdKuAk",
@@ -104,8 +113,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:41.351563+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "lQ6wwLHqDAg",
