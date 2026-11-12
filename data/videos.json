@@ -1,5 +1,131 @@
 [
   {
+    "video_id": "gPNiuyYirfw",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepMind’s AI Just Did The Impossible",
+    "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+    "published_at": "2026-11-12T13:41:41+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind paper AlphaProof Code is available here:\nhttps://deepmind.google/blog/introducing-alphaproof-code/\nhttps://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan S",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:34:04.553480+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "inwyawObxL4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AlexNet Left My Old Book in the Dust (Simon Prince) #Shorts",
+    "url": "https://www.youtube.com/shorts/inwyawObxL4",
+    "published_at": "2026-11-12T11:28:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "In 2010 Simon Prince spent a sabbatical in Toronto writing a book that recast computer vision as probabilistic graphical models, with Alex Krizhevsky in the next room. He released it in 2012, a few months before AlexNet came out.\n\nFull conversation on Machine Learning Street Talk, \"This is why Deep Learning is really weird.\":\nhttps://www.youtube.com/watch?v=sJXn4Cl4oww\n\n#Shorts #deeplearning #AlexNet #MachineLearning #MLST",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:34:18.897070+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "10glKhm5LW4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Lying Only Works Because We're Cooperative (Michael Tomasello)",
+    "url": "https://www.youtube.com/shorts/10glKhm5LW4",
+    "published_at": "2026-11-12T11:27:47+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Lying only works because we're cooperative. \"If I tell you it's raining outside, it would never occur to you that I'm lying about that.\" Michael Tomasello, developmental psychologist at Duke University, on why chimpanzees don't lie to one another, why humans expect cooperation by default, and how that cooperative nature is exactly what lying exploits.\n\nThe full conversation with Michael Tomasello is out on Machine Learning Street Talk on 24 November.\n\n#Shorts #MichaelTomasello #Cooperation #Lyin",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:34:33.622572+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "0w2Crs8RzFE",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "How Would You Make a Traffic Light Smart? (Michael Tomasello)",
+    "url": "https://www.youtube.com/shorts/0w2Crs8RzFE",
+    "published_at": "2026-11-12T03:03:27+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "How would you make a traffic light smart? Michael Tomasello, developmental psychologist at Duke University, on why there's only one solution: perception, a goal, and a decision-making mechanism that acts to make the world conform to that goal. An organisation completely different from stimulus and response.\n\nThe full conversation with Michael Tomasello is out on Machine Learning Street Talk on 24 November.\n\n#Shorts #MichaelTomasello #Agency #Cognition #AI #MLST",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:34:48.178124+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "TiEut-ZUwxs",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Humans Created Languages (Michael Tomasello)",
+    "url": "https://www.youtube.com/shorts/TiEut-ZUwxs",
+    "published_at": "2026-11-12T03:03:17+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Humans didn't just learn language, we created it. Michael Tomasello, developmental psychologist at Duke University, on studies where children cut off from talking invent new gestures and turn them into shared conventions, and why large language models, as far as he knows, don't create linguistic conventions.\n\nThe full conversation with Michael Tomasello is out on Machine Learning Street Talk on 24 November.\n\n#Shorts #MichaelTomasello #Language #LLM #Cognition #MLST",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:35:02.796502+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "wyLcJ5kHu_4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "It Was Fred That Broke the Window (Michael Tomasello)",
+    "url": "https://www.youtube.com/shorts/wyLcJ5kHu_4",
+    "published_at": "2026-11-12T03:03:06+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Why say \"It was Fred that broke the window\" instead of \"Fred broke the window\"? Michael Tomasello, developmental psychologist at Duke University, on how grammatical constructions such as the cleft and the passive are conventions we created for taking another person's perspective.\n\nThe full conversation with Michael Tomasello is out on Machine Learning Street Talk on 24 November.\n\n#Shorts #MichaelTomasello #Linguistics #Grammar #Cognition #MLST",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:35:18.334951+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "ssD05l4UxmY",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AlexNet Should Never Have Worked (Simon Prince)",
+    "url": "https://www.youtube.com/shorts/ssD05l4UxmY",
+    "published_at": "2026-11-11T21:04:44+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Simon Prince on why AlexNet should never have worked. It had 60 million parameters, orders of magnitude more than the vision models of its time. Its input was a 150,000-dimensional space. It was trained from random weights with noisy gradient descent. Yet it fit ImageNet: \"jaw-dropping, really.\" Simon Prince is the author of Understanding Deep Learning (MIT Press, 2023).\n\n#Shorts #deeplearning #AlexNet #machinelearning\n\nWatch the full conversation: https://www.youtube.com/watch?v=sJXn4Cl4oww",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-12T19:35:33.438166+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "g_n55IXQU20",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +139,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:49.077152+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T19:36:54.382262+00:00"
+    }
   },
   {
     "video_id": "BnA4i_vjcV4",
@@ -31,9 +166,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:56.318743+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T19:36:54.382283+00:00"
+    }
   },
   {
     "video_id": "qD3FrUgkVII",
@@ -49,9 +193,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:17:04.105615+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T19:36:54.382285+00:00"
+    }
   },
   {
     "video_id": "WyHxyBrKhaQ",
@@ -67,9 +220,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:17:18.148439+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T19:36:54.382288+00:00"
+    }
   },
   {
     "video_id": "583ThJIqQ7k",
@@ -112,9 +274,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-11T19:16:41.351563+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-12T19:36:54.382289+00:00"
+    }
   },
   {
     "video_id": "lQ6wwLHqDAg",
@@ -4948,60 +5119,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-19T12:43:16.936159+00:00"
-    }
-  },
-  {
-    "video_id": "b6HIoqT__E8",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "GLM 5.3: The New Top Open Model!",
-    "url": "https://www.youtube.com/watch?v=b6HIoqT__E8",
-    "published_at": "2026-08-14T12:30:07+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thanks to Momentic for Sponsoring this video: https://momentic.plug.dev/fD5q2oc\n\nGLM 5.3 is now the best open model and has caught to the frontier!\n\nLINKS:\nBlog: https://z.ai/blog/glm-5.3\nTry it here: https://cline.gg/prompt80 \n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ B",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-14T13:03:53.307454+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-15T12:34:38.730508+00:00"
-    }
-  },
-  {
-    "video_id": "QnGNF8k_uoc",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-    "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-    "published_at": "2026-08-14T08:42:07+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/riemann-zeta\n\nSource:\nhttps://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-14T13:03:36.876031+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-15T12:34:38.730523+00:00"
     }
   }
 ]
