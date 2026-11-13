@@ -6,8 +6,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:15:13.073344+00:00"
+    "description": "Karpathy频道侧重AI基础原理和工程实践，Two Minute Papers则快速解读AI前沿研究成果和行业应用，两者在AI学习路径上形成互补。",
+    "generated_at": "2026-11-13T19:18:33.461687+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -16,8 +16,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "频道A聚焦AI的伦理、风险及社会影响，频道B则深入探讨AI的最新研究成果与产业应用，两者视角不同但互相补充。",
-    "generated_at": "2026-11-13T05:15:33.959812+00:00"
+    "description": "AI Explained侧重于AI的社会影响、安全风险与伦理讨论，而Two Minute Papers则深入解读AI的技术突破、研究进展与实际应用，两者从宏观和微观层面互补地覆盖AI领域。",
+    "generated_at": "2026-11-13T19:18:53.386734+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -26,8 +26,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:15:49.108267+00:00"
+    "description": "Two Minute Papers 侧重于AI研究的快速总结和应用趋势，而Yannic Kilcher频道（根据其既有风格）预计提供深入的技术分析，两者在内容深度和呈现方式上互为补充。",
+    "generated_at": "2026-11-13T19:19:21.186229+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -36,8 +36,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:16:04.259961+00:00"
+    "description": "B频道专注于LLM/AI前沿研究的简洁总结，而A频道作为新频道暂无具体内容，其独特的定位与B频道形成互补。",
+    "generated_at": "2026-11-13T19:19:55.239866+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -46,8 +46,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "AI Jason侧重于结合AI工具实现商业化应用和流程优化，而Two Minute Papers则深入探讨AI前沿研究及其潜在的颠覆性影响，两者从不同维度互补了AI领域的内容。",
-    "generated_at": "2026-11-13T05:16:24.724615+00:00"
+    "description": "AI Jason侧重AI工具的实际应用与商业落地，Two Minute Papers则聚焦AI前沿研究与技术突破，两者在AI的实践与理论层面互补。",
+    "generated_at": "2026-11-13T19:20:14.794502+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -56,8 +56,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:16:39.873511+00:00"
+    "description": "A侧重于AI的最新能力与行业应用，B则专注于LLM模型的技术细节和实践优化，两者在AI领域互为补充。",
+    "generated_at": "2026-11-13T19:20:36.891334+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -66,8 +66,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:16:55.032351+00:00"
+    "description": "A侧重LLM的应用与前沿突破，B深挖其基础原理和固有局限，两者互为补充，为观众提供全面洞察。",
+    "generated_at": "2026-11-13T19:20:58.095659+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -76,7 +76,7 @@
     "channel_b_name": "David Shapiro",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-13T05:17:10.188591+00:00"
+    "description": "A频道深入解读AI的技术突破与能力，B频道则探讨AI在工作场所和组织变革中的战略与实践影响，两者从技术前沿和商业应用落地层面互为补充。",
+    "generated_at": "2026-11-13T19:21:19.329589+00:00"
   }
 ]

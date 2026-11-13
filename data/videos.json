@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "-On9ZKGiMfA",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini Decision 1: You Don’t Need an LLM to Make a Decision",
+    "url": "https://www.youtube.com/watch?v=-On9ZKGiMfA",
+    "published_at": "2026-11-13T14:00:09+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini Decision 1 is Google's new decision model: it answers yes/no, multiple-choice and score questions about text, images, audio, PDFs and video, and returns a probability and a confidence score instead of generating text. In this video I show how the Gemini Decisions API works, how to call it in Python with every input type, where a decision model makes more sense than an LLM, and four mistakes I made while building three apps with it.\n\n🔗 Code (quickstart, notebook and the three apps): https:",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-13T19:14:45.938035+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "M_Fzx5KzBwY",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "Jensen is gone. My thoughts.",
+    "url": "https://www.youtube.com/watch?v=M_Fzx5KzBwY",
+    "published_at": "2026-11-12T21:23:26+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-13T19:15:15.043835+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "2imEgVWkeoA",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+    "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+    "published_at": "2026-11-12T19:32:57+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Google just released Gemini 4 Hydrogen, its fastest Gemini 4 model and the successor to the Flash models. It scores one point above Gemini 4 Argon on the Artificial Analysis Intelligence Index, has four thinking levels (low, medium, high, xhigh), and costs $1.50 per million input tokens.\n\nGoogle's announcement: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\nDeveloper guide: https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen\n\nI wor",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-13T19:15:00.962660+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "gPNiuyYirfw",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:34:04.553480+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384317+00:00"
+    }
   },
   {
     "video_id": "inwyawObxL4",
@@ -31,9 +94,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:34:18.897070+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384333+00:00"
+    }
   },
   {
     "video_id": "10glKhm5LW4",
@@ -49,9 +121,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:34:33.622572+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384336+00:00"
+    }
   },
   {
     "video_id": "0w2Crs8RzFE",
@@ -67,9 +148,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:34:48.178124+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384340+00:00"
+    }
   },
   {
     "video_id": "TiEut-ZUwxs",
@@ -85,9 +175,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:35:02.796502+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384346+00:00"
+    }
   },
   {
     "video_id": "wyLcJ5kHu_4",
@@ -103,9 +202,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:35:18.334951+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384349+00:00"
+    }
   },
   {
     "video_id": "ssD05l4UxmY",
@@ -121,9 +229,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-12T19:35:33.438166+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-13T19:16:18.384350+00:00"
+    }
   },
   {
     "video_id": "g_n55IXQU20",
