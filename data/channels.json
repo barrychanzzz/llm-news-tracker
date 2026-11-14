@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-11-13T19:14:23.241124+00:00"
+    "updated_at": "2026-11-14T05:00:58.874286+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "“AI Explained”频道主要探讨大型语言模型（LLM）的最新发展、潜在安全风险、伦理争议以及行业领袖对人工智能未来的看法。它以宏观视角解读AI技术对社会的影响和挑战，尤其适合关注AI安全、伦理和行业前沿动态的非技术观众。",
+    "content_focus": "该频道深入探讨大型语言模型（LLM）的最新进展、自改进机制及其潜在风险，尤其关注AI发展带来的伦理挑战、安全隐患及业界领袖的观点。其独特之处在于通过分析前沿研究和专家言论，揭示AI技术可能失控的深层问题，非常适合关心AI伦理、安全以及未来发展方向的专业人士和爱好者。",
     "is_seed": true,
-    "active_score": 1,
+    "active_score": 0,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-11-13T19:14:23.624528+00:00"
+    "updated_at": "2026-11-14T05:00:58.943647+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-11-13T19:14:23.688925+00:00"
+    "updated_at": "2026-11-14T05:00:59.008915+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,61 +41,61 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-11-13T19:14:23.805179+00:00"
+    "updated_at": "2026-11-14T05:00:59.090655+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "AI Jason频道主要聚焦大型语言模型及AI工具的实际应用，尤其擅长展示不同AI技术（如GPT与Hyperframe）的“疯狂组合”，以实现自动化和专业级内容创作。它提供AI UGC营销活动等商业落地策略，非常适合希望利用AI提升业务效率、内容产出和营销效果的创业者、营销人员及内容创作者。",
+    "content_focus": "AI Jason频道着重探讨大型语言模型（LLM）与各种AI工具的创新组合应用，例如利用GPT等技术实现高级视频制作、业务自动化及AI驱动的用户生成内容（UGC）营销。其特色在于提供实用操作指南，强调AI工具间的协同效应，旨在帮助创业者、营销人员和内容创作者高效利用前沿AI技术提升工作效率和内容质量。",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-11-13T19:14:23.989069+00:00"
+    "updated_at": "2026-11-14T05:00:59.158002+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "name": "Two Minute Papers",
     "url": "https://www.youtube.com/@TwoMinutePapers",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
-    "content_focus": "该频道主要聚焦LLM在工具使用、智能体行为及行业应用方面的最新研究，以简洁明了的方式，深入解读AI如何复现软件功能等突破性进展。它快速总结复杂技术论文，揭示AI的最新能力与潜在影响，非常适合希望快速了解AI前沿技术、智能体发展及行业应用趋势的开发者、研究人员和科技爱好者。",
+    "content_focus": "主要关注Tool Use相关内容",
     "is_seed": true,
-    "active_score": 3,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-11-13T19:14:24.172983+00:00"
+    "updated_at": "2026-11-14T05:00:59.226729+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "name": "Prompt Engineering",
     "url": "https://www.youtube.com/@engineerprompt",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq7SjbgRKty5TgGafW8Clg",
-    "content_focus": "该频道名为“Prompt Engineering”，但其内容更侧重于探索和分析最新的大型语言模型（如Claude, Gemini, Qwen），以及如模型蒸馏等实践性训练和优化技术，提供前沿的LLM模型观察与实验。它非常适合希望深入了解最新LLM模型动态、技术细节及实践操作的AI开发者、研究人员和技术爱好者。",
+    "content_focus": "尽管频道名为“Prompt Engineering”，但其内容更广泛地涵盖了最新大型语言模型（LLM）的功能介绍（如Claude Fable、Gemini），以及更深度的模型训练与优化技术（如Qwen模型蒸馏）。该频道专注于LLM领域的尖端发展，提供技术深度分析，非常适合关注模型前沿进展、技术细节以及寻求模型优化方案的LLM开发者、研究人员和技术爱好者。",
     "is_seed": true,
-    "active_score": 5,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-11-13T19:14:24.242785+00:00"
+    "updated_at": "2026-11-14T05:00:59.346465+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "name": "Machine Learning Street Talk",
     "url": "https://www.youtube.com/@MachineLearningStreetTalk",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
-    "content_focus": "Machine Learning Street Talk 频道主要深入探讨大型语言模型（LLM）的**基础原理及其固有局限性**。它以**批判性视角和专家访谈**为特色，**深挖LLM的技术本质，质疑其表象**，而非单纯关注应用或行业趋势。这使其成为机器学习研究员、工程师以及寻求**LLM深层技术见解和挑战分析**的高级学习者的理想资源。",
+    "content_focus": "该频道在LLM话题上，似乎侧重于深入探讨其架构挑战（如与传统编译器的比较）、技术局限性（如对“理解”的批判性视角）以及实际部署后的复杂性。其独特之处在于通过专家访谈，提供对LLM技术底层逻辑和实际影响的深刻反思，而非停留在表面介绍。这特别适合希望超越LLM炒作、深入理解其技术本质和应用挑战的机器学习从业者、研究人员及高级学习者。",
     "is_seed": true,
-    "active_score": 12,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-11-13T19:14:24.365689+00:00"
+    "updated_at": "2026-11-14T05:00:59.421048+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "name": "David Shapiro",
     "url": "https://www.youtube.com/@DaveShap",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
-    "content_focus": "该频道主要探讨AI（尤其是大型语言模型LLM）在工作场所和组织变革方面的战略与实践影响，强调AI的真正价值实现需要重新设计工作流程。其独特之处在于提供一个务实视角，关注AI落地所需的运营转型和挑战，而非仅仅技术层面。这对于希望有效利用AI提升生产力并推动组织变革的商业领袖、战略家及专业人士将大有裨益。",
+    "content_focus": "该YouTube频道似乎主要关注AI（可能涵盖LLM）如何驱动工作重塑及组织转型，其独特之处在于强调AI的价值实现离不开对现有工作模式的重新设计。这对于寻求AI在商业实践中应用及策略性影响的决策者和管理者将颇具参考价值。",
     "is_seed": true,
-    "active_score": 5,
+    "active_score": 0,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-11-13T19:14:24.522316+00:00"
+    "updated_at": "2026-11-14T05:00:59.492733+00:00"
   }
 ]
