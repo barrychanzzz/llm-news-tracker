@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "53uYYeNC6Ek",
+    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+    "channel_name": "David Shapiro",
+    "title": "\"It was a political hit job\" (Huang Gate)",
+    "url": "https://www.youtube.com/watch?v=53uYYeNC6Ek",
+    "published_at": "2026-11-15T14:03:13+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-15T18:30:59.339248+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "XaJi7a0UChs",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Recursive Harness: Self-Improving Agents Without Training",
+    "url": "https://www.youtube.com/watch?v=XaJi7a0UChs",
+    "published_at": "2026-11-15T14:00:00+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "How to build a self-evolving agent harness: the agent starts with three tools (shell, read, write) and grows its own tools, lifecycle hooks and memory while it works, on the Gemini Interactions API. I walk through the three-zone architecture, then test it against a frozen harness on web apps, silent bug-report videos and a custom binary format, and show when a self-evolving harness pays off and when it bloats itself.\n\nFish Audio Drama 3 (API): https://fish.audio/?fpr=engineerprompt\nHarness² Expl",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-15T18:30:44.510300+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "x7iwI6WfWS0",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-14T17:41:42.889379+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-15T18:31:19.370390+00:00"
+    }
   },
   {
     "video_id": "-On9ZKGiMfA",
@@ -5254,33 +5299,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-21T01:13:00.643977+00:00"
-    }
-  },
-  {
-    "video_id": "yyJpwHBKRCg",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Don't Pick One Coding Agent—Combine Them",
-    "url": "https://www.youtube.com/watch?v=yyJpwHBKRCg",
-    "published_at": "2026-08-17T13:00:34+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Thank you to JetBrains for sponsoring this video. see more real-world examples of AI in JetBrains IDEs: https://jb.gg/JB-AI-in-IDEs \n\nIn this video I show my personal workflow for combining multiple coding agents in a modern IDE instead of debating which one is “best.” Using JetBrains PyCharm (sponsor) and its ability to connect many agents via agent communication protocol and share full IDE context, \n\nLINKS:\nBody Scanner: https://bodyscope.pages.dev/\n\nMy voice to text App: whryte.com\nWebsite: h",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-18T12:48:59.179682+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-19T12:43:16.936159+00:00"
     }
   }
 ]
