@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "gl2U4fGTr6g",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+    "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+    "published_at": "2026-11-17T12:46:24+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stan",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-17T20:29:52.968245+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "T4vxQxpdNi8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Goal Engineering - The New Buzzword",
+    "url": "https://www.youtube.com/shorts/T4vxQxpdNi8",
+    "published_at": "2026-11-17T07:13:07+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its work fast. Here’s what LangChain’s post with Actively AI argues, and the one rule behind it. Full video on how to check what an agent produces (code checks, an LLM judge and human review): https://youtu.be/AyzLIRBuUN8\n\nSource: https://x.com/hwchase17/status/2121635683999883577\n\n#GoalEngineering #AIAgents #LangChain #PromptEngineering #contextengineering",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-17T20:30:08.262474+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "ZtwexS12FC0",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,8 +50,8 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-17T06:40:04.821731+00:00",
     "analyzed": false,
-    "subtitle_retries": 1,
-    "no_subtitle_count": 1
+    "subtitle_retries": 2,
+    "no_subtitle_count": 2
   },
   {
     "video_id": "t1s_wjsUSsg",
@@ -31,9 +67,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-16T21:40:22.877513+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-17T20:30:31.887240+00:00"
+    }
   },
   {
     "video_id": "53uYYeNC6Ek",
@@ -5299,60 +5344,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-22T01:08:36.351014+00:00"
-    }
-  },
-  {
-    "video_id": "kyYepbhe1g8",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-    "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-    "published_at": "2026-08-19T18:02:46+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nDeepSeek V4 Pro 0813:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\n\nDSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw\n\nSources:\nhttps://x.com/cline/status/2087602193205694891\nhttps://x.com/TypingMindApp/status/2088214938754167263\nhttps://x.com/stevibe/status/2047546592530747561\nhttps://x.com/voidfreud/status/2087701887327887543\nhttps://x.com/exploraX_/status/2079197387860435360\nhttps://x",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-20T01:08:37.274107+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-21T01:13:00.643966+00:00"
-    }
-  },
-  {
-    "video_id": "UK2xbBmxywg",
-    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-    "channel_name": "Prompt Engineering",
-    "title": "Qwen 3.8-27B in Deepseek Harness: This Is the Open-Source AI Stack to Beat",
-    "url": "https://www.youtube.com/watch?v=UK2xbBmxywg",
-    "published_at": "2026-08-19T13:00:25+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Qwen 3.8 27B Locally + DeepSeek Harness: Setup, Reasoning Levels, and Vision Bounding Boxes\n\nLINKS:\nhttps://huggingface.co/Qwen/Qwen3.8-27B\nhttps://x.com/xenovacom/status/2089435071384076306\nhttps://recipes.vllm.ai/Qwen/Qwen3.8-27B\nhttps://huggingface.co/mlx-community/Qwen3.8-27B-4bit\nhttps://github.com/deepseek-ai/deepseek-harness\n\nDeepseek Harness video: https://www.youtube.com/watch?v=NPO2CwHnfmI\n\nThanks to ‪@NVIDIADeveloper‬ for DGX Spark. Check it out here:  https://nvda.ws/3XIkwsh \n\n\nMy vo",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-20T01:08:50.770332+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-21T01:13:00.643977+00:00"
     }
   }
 ]
