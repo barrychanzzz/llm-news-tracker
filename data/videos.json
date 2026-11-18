@@ -13,9 +13,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-17T20:29:52.968245+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-18T20:00:37.004248+00:00"
+    }
   },
   {
     "video_id": "T4vxQxpdNi8",
@@ -31,9 +40,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-17T20:30:08.262474+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-18T20:00:37.004259+00:00"
+    }
   },
   {
     "video_id": "ZtwexS12FC0",
@@ -5326,33 +5344,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-24T01:12:12.238847+00:00"
-    }
-  },
-  {
-    "video_id": "fgsmq8f3sWQ",
-    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-    "channel_name": "Machine Learning Street Talk",
-    "title": "Every Exponential Ends — Silicon Valley Forgot — Adam Becker",
-    "url": "https://www.youtube.com/watch?v=fgsmq8f3sWQ",
-    "published_at": "2026-08-20T19:30:59+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Astrophysicist Adam Becker, author of \"What Is Real?\", joins Tim Scarfe to take apart the futures Silicon Valley keeps selling: the 2045 singularity, mind uploading, Mars colonies, and the AI apocalypse. His new book *More Everything Forever* argues these ideas are hugely influential, mostly evidence-free, and bankrolled by tech billionaires who need a story in which growth never ends.\n\nBecker does the physics the boosters skip. Kurzweil's \"law of accelerating returns\" rests on cherry-picked dat",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-21T01:12:39.188868+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-22T01:08:36.351014+00:00"
     }
   }
 ]

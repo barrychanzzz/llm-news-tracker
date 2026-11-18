@@ -8,18 +8,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:51.853473+00:00",
-    "updated_at": "2026-11-18T05:58:56.559654+00:00"
+    "updated_at": "2026-11-18T20:00:12.579500+00:00"
   },
   {
     "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
     "name": "AI Explained",
     "url": "https://www.youtube.com/@aiexplained-official",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "content_focus": "AI Explained频道深入探讨LLM前沿技术，特别关注如AI自我改进、新兴模型（如Gemini Carbon）等最新发展，以及随之而来的安全风险和控制挑战。该频道以其批判性视角和对行业领袖（如Amodei、Altman）观点的引用，为关注AI伦理、安全及未来深远影响的专业人士和爱好者提供独到见解。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:54.105017+00:00",
-    "updated_at": "2026-11-18T05:58:56.593192+00:00"
+    "updated_at": "2026-11-18T20:00:12.733233+00:00"
   },
   {
     "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -30,7 +30,7 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:56.931738+00:00",
-    "updated_at": "2026-11-18T05:58:56.620665+00:00"
+    "updated_at": "2026-11-18T20:00:12.857972+00:00"
   },
   {
     "channel_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -41,18 +41,18 @@
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:24:58.979663+00:00",
-    "updated_at": "2026-11-18T05:58:56.719740+00:00"
+    "updated_at": "2026-11-18T20:00:12.971787+00:00"
   },
   {
     "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
     "name": "AI Jason",
     "url": "https://www.youtube.com/@AIJasonZ",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
-    "content_focus": "AI Jason频道主要探讨如何将前沿人工智能和大型语言模型（LLM）工具进行创新组合，以实现自动化内容创作和业务流程优化。它提供独特的实战策略和分步指南，尤其适合希望利用AI提升视频制作、自动化运营及拓展UGC营销的企业家和创作者。",
+    "content_focus": "LLM 综合频道",
     "is_seed": true,
     "active_score": 0,
     "added_at": "2026-05-13T09:25:03.963499+00:00",
-    "updated_at": "2026-11-18T05:58:56.746268+00:00"
+    "updated_at": "2026-11-18T20:00:13.290599+00:00"
   },
   {
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -63,7 +63,7 @@
     "is_seed": true,
     "active_score": 3,
     "added_at": "2026-05-13T09:25:06.568868+00:00",
-    "updated_at": "2026-11-18T05:58:56.775473+00:00"
+    "updated_at": "2026-11-18T20:00:13.335487+00:00"
   },
   {
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
@@ -74,28 +74,28 @@
     "is_seed": true,
     "active_score": 5,
     "added_at": "2026-05-13T09:25:08.955538+00:00",
-    "updated_at": "2026-11-18T05:58:56.981587+00:00"
+    "updated_at": "2026-11-18T20:00:13.465979+00:00"
   },
   {
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "name": "Machine Learning Street Talk",
     "url": "https://www.youtube.com/@MachineLearningStreetTalk",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ",
-    "content_focus": "该YouTube频道主要深入探讨LLM的内在机制、局限性以及其架构或部署中的技术挑战。它通过邀请Jeremy Howard等专家进行批判性讨论，旨在超越表面现象，提供对LLM更深刻、更真实的理解。对于希望深入探究LLM本质、理解其深层问题及工程实践的机器学习研究者和工程师来说，该频道尤其有益。",
+    "content_focus": "该频道主要通过专家访谈，深入探讨大型语言模型（LLM）的内部机制、实际局限性及其在理解层面上的挑战。它以批判性视角审视LLM的设计缺陷和潜在误区，而非流于表面介绍。对于寻求LLM深层原理、局限性及前沿思辨的机器学习研究者和实践者，此频道极具参考价值。",
     "is_seed": true,
-    "active_score": 10,
+    "active_score": 6,
     "added_at": "2026-05-13T09:25:12.030214+00:00",
-    "updated_at": "2026-11-18T05:58:57.139012+00:00"
+    "updated_at": "2026-11-18T20:00:13.647320+00:00"
   },
   {
     "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
     "name": "David Shapiro",
     "url": "https://www.youtube.com/@DaveShap",
     "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
-    "content_focus": "该YouTube频道的内容分析显示，其重点并非大型语言模型（LLM）相关话题。根据提供的视频摘要，频道主要围绕时事政治评论和个人观点展开，例如对特定事件或人物的看法。因此，该频道更适合对政治分析和时事讨论感兴趣的观众，而非寻求LLM技术内容的受众。",
+    "content_focus": "David Shapiro频道拥有大量（120部）关于大型语言模型（LLM）的视频，主要探讨LLM的哲学深层含义、伦理挑战及其对通用人工智能（AGI）发展的潜在影响。其独特视角在于将LLM技术与意识、智能本质等宏大议题结合，为那些关注LLM深远社会影响、理论探讨而非纯技术细节的观众提供了深入思考的平台。",
     "is_seed": true,
     "active_score": 2,
     "added_at": "2026-05-13T09:25:15.878631+00:00",
-    "updated_at": "2026-11-18T05:58:57.165970+00:00"
+    "updated_at": "2026-11-18T20:00:13.783365+00:00"
   }
 ]

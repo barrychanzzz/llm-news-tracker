@@ -7,7 +7,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:02:05.007303+00:00"
+    "generated_at": "2026-11-18T20:02:49.619197+00:00"
   },
   {
     "channel_a_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
@@ -17,7 +17,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:02:22.369545+00:00"
+    "generated_at": "2026-11-18T20:03:05.171255+00:00"
   },
   {
     "channel_a_id": "UCZHmQk67mSJgfCCTn7xBfew",
@@ -26,8 +26,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:02:37.482169+00:00"
+    "description": "Yannic Kilcher的频道预计将提供AI/LLM论文的深度解析，而Two Minute Papers则侧重于AI工具使用和应用成果的快速概览，两者内容互补。",
+    "generated_at": "2026-11-18T20:03:28.661066+00:00"
   },
   {
     "channel_a_id": "UCSdphiIAFdD_16nNOpliTIw",
@@ -36,8 +36,8 @@
     "channel_b_name": "Two Minute Papers",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:02:53.818423+00:00"
+    "description": "Two Minute Papers主要关注Tool Use，而Sam Witteveen频道内容数据不足，两者在LLM/AI大主题下目前虽无重叠，但可能在不同方面形成互补。",
+    "generated_at": "2026-11-18T20:03:59.954664+00:00"
   },
   {
     "channel_a_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
@@ -47,7 +47,7 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:03:08.938115+00:00"
+    "generated_at": "2026-11-18T20:04:16.648491+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -56,8 +56,8 @@
     "channel_b_name": "Prompt Engineering",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "Channel A 侧重于AI在工具使用和实际应用中的前沿展示，而Channel B 则深入探讨LLM模型的更新、训练及底层技术，两者形成互补。",
-    "generated_at": "2026-11-18T06:03:29.748614+00:00"
+    "description": "A侧重AI工具的使用与应用，B提供LLM模型及训练的综合视角，两者互补。",
+    "generated_at": "2026-11-18T20:04:37.301618+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -66,8 +66,8 @@
     "channel_b_name": "Machine Learning Street Talk",
     "topic_overlap": 0.0,
     "relation_type": "complementary",
-    "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:03:44.847452+00:00"
+    "description": "Channel A 侧重于AI工具的实际应用，而 Channel B 则深入探讨大型语言模型的内部机制与深层局限，两者在不同维度上互为补充。",
+    "generated_at": "2026-11-18T20:04:58.612295+00:00"
   },
   {
     "channel_a_id": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -77,6 +77,6 @@
     "topic_overlap": 0.0,
     "relation_type": "complementary",
     "description": "两个频道都在LLM领域，但侧重不同",
-    "generated_at": "2026-11-18T06:03:59.963208+00:00"
+    "generated_at": "2026-11-18T20:05:14.312514+00:00"
   }
 ]
