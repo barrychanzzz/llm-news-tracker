@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "Q0ShBenKyqo",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Gemini 4 Neon",
+    "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
+    "published_at": "2026-11-18T21:46:40+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Gemini 4 Neon is Google’s new model for complex coding, knowledge work and science, and it sits between Gemini 4 Hydrogen and Gemini 4 Carbon. I had early access, so this video skips the benchmarks and shows real outputs: a 3D dragon written as code, an animated SVG peacock in one file, a walkable house from a 1959 floor plan, a swarm of agents building a voxel diorama, an on-call agent deployed on Google Cloud Run, three GPU experiments on a DGX Spark, and a neural network written with no train",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-19T05:59:51.925182+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "gl2U4fGTr6g",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
