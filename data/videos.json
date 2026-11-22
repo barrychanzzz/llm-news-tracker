@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "TPtfyKEAk6c",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Looped Transformers: 2x Deeper Without More Weights",
+    "url": "https://www.youtube.com/watch?v=TPtfyKEAk6c",
+    "published_at": "2026-11-22T14:00:19+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Inkling 2 Mini is a looped transformer. Looped transformers explained: how a language model can run part of itself more than once for every token, getting more steps of reasoning without storing more weights. Using Thinking Machines' new open model Inkling 2 Mini as the example (24 layers, with the middle 12 running three times for 48 layer steps), we look at what the extra passes improve, the one thing they don't improve, what they cost, and why moving reasoning inside the loop worried people.\n",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-22T19:04:20.643192+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "INeNb0wwErg",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-21T18:44:17.742718+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-22T19:04:33.203361+00:00"
+    }
   },
   {
     "video_id": "KGA7B_c_S4s",
@@ -5443,33 +5470,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-26T12:49:55.145833+00:00"
-    }
-  },
-  {
-    "video_id": "wMl6c_r0ubw",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "This Small AI Will Change Everything",
-    "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-    "published_at": "2026-08-24T16:48:40+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Qwen3.8-27b is available here:\nhttps://huggingface.co/Qwen/Qwen3.8-27B\n\nSources:\nhttps://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/\nhttps://x.com/KyleHessling1/status/2088327667733180637\nhttps://www.reddit.com/r/LocalLLaMA/comments/1vqme4y/qwen3827b_q8_0_on_strix_halo_is_seriously/\n",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-25T01:11:03.301642+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-26T01:13:43.986409+00:00"
     }
   }
 ]
