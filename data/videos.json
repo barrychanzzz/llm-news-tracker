@@ -1,5 +1,41 @@
 [
   {
+    "video_id": "IUcrxIM0K-Y",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AI Just Pours Tokens Into the Problem (Kevin Buzzard)",
+    "url": "https://www.youtube.com/shorts/IUcrxIM0K-Y",
+    "published_at": "2026-11-23T10:51:27+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kevin Buzzard (Imperial College London) on why human mathematicians redesign definitions when a proof gets too complicated, while AI autoformalisation tools in Lean can just push through by brute force. Mathematics is changing; it isn't clear it will be better, just different.\n\nFrom our documentary \"Mathematics Just Changed Forever\" with Kevin Hartnett, Kevin Buzzard, Jeremy Avigad, Leo de Moura and Paul Lessard.\n\nWatch the full conversation: https://www.youtube.com/watch?v=IRJDwtAreB4",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-23T23:25:30.761724+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
+    "video_id": "1jPdehG3Hms",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Claude AI Solved The Secret Of Black Holes",
+    "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+    "published_at": "2026-11-23T07:37:52+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/claude-black-hole-physics\nhttps://hexagonmath.org/2611.00175v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sag",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-23T23:25:16.858350+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "TPtfyKEAk6c",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -13,9 +49,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-22T19:04:20.643192+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-23T23:25:49.838948+00:00"
+    }
   },
   {
     "video_id": "INeNb0wwErg",
@@ -5416,60 +5461,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-28T09:40:52.539813+00:00"
-    }
-  },
-  {
-    "video_id": "tNgj9-GMilw",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "Elon Musk says robots and AI will end money",
-    "url": "https://www.youtube.com/watch?v=tNgj9-GMilw",
-    "published_at": "2026-08-25T17:00:17+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link: https://dadbrand.com/SHAPI25 \n\nGet in touch with Dalibor at The Summit Leadership Alliance to inquire about consultations at Info@TheSummitLA.com\n\nAll other communication with Summit go through Greetings@TheSummitLA.com \n\nThis podcast will be available on YouTube, Substack, and Spotify at the following platforms:\n\nDalibor's YouTube channel is TechTonic Conversations: https://www.youtube.com/ch",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-26T01:13:25.522455+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-27T07:25:45.807035+00:00"
-    }
-  },
-  {
-    "video_id": "_9OT25ZvrWs",
-    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
-    "channel_name": "AI Jason",
-    "title": "How Boris prompt 1000+ agents overnight...",
-    "url": "https://www.youtube.com/watch?v=_9OT25ZvrWs",
-    "published_at": "2026-08-25T10:51:06+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "Get free Claude Code AI Coding course: https://clickhubspot.com/2dd2fb\n\n🔗 Links\n- Step-by-step workshop in AI builder club: https://www.aibuilderclub.com/lp/loop-engineer\n- Try treg.to (Give agents access to 2600+ API for free): http://treg.to/\n- Follow me on twitter: https://twitter.com/jasonzhou1993\n- Try Superdesign: http://superdesign.dev/",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-25T12:44:21.452771+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-26T12:49:55.145833+00:00"
     }
   }
 ]
