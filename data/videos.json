@@ -1,5 +1,23 @@
 [
   {
+    "video_id": "4NzM2hcWp1s",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Harness Adapters: Train Your Model for Any Coding Agent",
+    "url": "https://www.youtube.com/watch?v=4NzM2hcWp1s",
+    "published_at": "2026-11-24T14:00:18+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Hugging Face's harness adapters are small LoRA add-ons trained with reinforcement learning for one coding agent. With thinking off, the pi adapter takes Qwen 3.8 27B from 39% to about 65% on the hardest 51 SWE-bench Pro tasks. I explain how a harness adapter works, how you could train your own (RL inside the real agent, hidden tests, a fewer-steps bonus, and the safeagents guard against reward hacking), and what happened when I tested it on two DGX Sparks against the plain model and maximum thin",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-24T21:56:35.051548+00:00",
+    "analyzed": false,
+    "subtitle_retries": 1,
+    "no_subtitle_count": 1
+  },
+  {
     "video_id": "IUcrxIM0K-Y",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -13,9 +31,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-23T23:25:30.761724+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-24T21:56:52.482638+00:00"
+    }
   },
   {
     "video_id": "1jPdehG3Hms",
@@ -31,9 +58,18 @@
     "has_captions": false,
     "raw_transcript": "",
     "fetched_at": "2026-11-23T23:25:16.858350+00:00",
-    "analyzed": false,
-    "subtitle_retries": 2,
-    "no_subtitle_count": 2
+    "analyzed": true,
+    "subtitle_retries": 3,
+    "no_subtitle_count": 3,
+    "analysis": {
+      "summary": "No transcript available after multiple attempts",
+      "topics": [
+        "Other"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "N/A",
+      "analyzed_at": "2026-11-24T21:56:52.482647+00:00"
+    }
   },
   {
     "video_id": "TPtfyKEAk6c",
@@ -5434,33 +5470,6 @@
       "speaker": "Unknown",
       "technical_level": "N/A",
       "analyzed_at": "2026-08-28T21:45:13.485025+00:00"
-    }
-  },
-  {
-    "video_id": "L9mMfAFwbl4",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-    "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-    "published_at": "2026-08-26T13:10:13+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek Harness + paper are available here:\nhttps://deepseek.com/harness/en/\nhttps://github.com/cordiverse/paper\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie ",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-27T07:25:34.136676+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "No transcript available after multiple attempts",
-      "topics": [
-        "Other"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "N/A",
-      "analyzed_at": "2026-08-28T09:40:52.539813+00:00"
     }
   }
 ]
