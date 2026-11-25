@@ -303,6 +303,8 @@ def main():
                 print(f"    API failed, trying yt-dlp...")
                 transcript, has_captions = download_subtitles_ytdlp(vid["url"])
 
+            # 关键修复：无论有无字幕，入库时都生成兜底分析，杜绝"空壳"视频
+            from analysis_utils import rule_based_analysis
             entry = {
                 "video_id": vid_id,
                 "channel_id": ch_id,
@@ -317,7 +319,11 @@ def main():
                 "has_captions": has_captions,
                 "raw_transcript": transcript,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
-                "analyzed": False,
+                # 有字幕 → 待 Gemini 分析；无字幕 → 立即用规则兜底
+                "analyzed": not has_captions,
+                "analysis": rule_based_analysis(
+                    vid["title"], ch_name, vid.get("description", "")
+                ) if not has_captions else None,
             }
             existing_videos.append(entry)
             existing_ids.add(vid_id)
@@ -349,11 +355,18 @@ def main():
         if has_captions:
             v["raw_transcript"] = transcript
             v["has_captions"] = True
+            v["analyzed"] = False  # 有字幕了，重新走 AI 分析
             v["fetched_at"] = datetime.now(timezone.utc).isoformat()
             retry_count += 1
             print(f"    ✅ Got {len(transcript)} chars")
         else:
-            print(f"    ❌ Still no subtitles")
+            # 兜底：确保即使无字幕也有分析内容
+            from analysis_utils import rule_based_analysis
+            a = v.get("analysis") or {}
+            if not a.get("summary") or a.get("summary", "").startswith("No transcript"):
+                v["analysis"] = rule_based_analysis(v["title"], v["channel_name"], v.get("description", ""))
+                v["analyzed"] = True
+            print(f"    ❌ Still no subtitles (kept fallback analysis)")
 
     # Clean old videos
     existing_videos = clean_old_videos(existing_videos)

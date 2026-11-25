@@ -72,11 +72,12 @@ def main():
             data_line
         )
     else:
-        # Replace previous APP_DATA (if any)
+        # Replace previous APP_DATA (both old const and new window forms)
         html = re.sub(
-            r'const APP_DATA = \{.*?\};',
+            r'(?:const APP_DATA|window\.APP_DATA)\s*=\s*\{.*?\};',
             data_line,
             html,
+            count=1,
             flags=re.DOTALL
         )
 

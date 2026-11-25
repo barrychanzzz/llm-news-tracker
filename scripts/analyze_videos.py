@@ -141,22 +141,19 @@ def main():
     print(f"Videos without transcripts: {len(no_transcript)}")
     print()
 
-    # Mark videos without transcripts (but DON'T mark as analyzed, retry next run)
+    # 无字幕视频：立即用规则兜底，绝不产生 "No transcript available" 空壳
+    from analysis_utils import rule_based_analysis
     for v in no_transcript:
         if not v.get("no_subtitle_count"):
             v["no_subtitle_count"] = 0
         v["no_subtitle_count"] += 1
-        # Only give up after 3 failed subtitle attempts
-        if v["no_subtitle_count"] >= 3:
-            v["analyzed"] = True
-            v["has_captions"] = False
-            v["analysis"] = {
-                "summary": "No transcript available after multiple attempts",
-                "topics": ["Other"],
-                "speaker": "Unknown",
-                "technical_level": "N/A",
-                "analyzed_at": datetime.now(timezone.utc).isoformat(),
-            }
+        v["has_captions"] = False
+        a = v.get("analysis") or {}
+        # 总是用元数据兜底，保证有标签/摘要/主讲人/深度
+        v["analysis"] = rule_based_analysis(
+            v.get("title", ""), v.get("channel_name", ""), v.get("description", "")
+        )
+        v["analyzed"] = True
 
     # Analyze videos with transcripts
     success = 0
@@ -197,8 +194,14 @@ def main():
                   f"Level: {result['technical_level']}")
             success += 1
         else:
+            # Gemini 全部失败 → 规则兜底，保证不留空壳
+            from analysis_utils import rule_based_analysis
+            video["analyzed"] = True
+            video["analysis"] = rule_based_analysis(
+                video.get("title", ""), channel, video.get("description", "")
+            )
             failed += 1
-            print(f"  [FAIL] Analysis failed, will retry next run")
+            print(f"  [FALLBACK] Gemini failed, used rule-based analysis")
 
         # Rate limit: Gemini free tier allows 5 RPM
         if i < len(to_analyze) - 1:
