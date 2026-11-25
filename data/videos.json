@@ -17,16 +17,16 @@
     "subtitle_retries": 1,
     "no_subtitle_count": 1,
     "analysis": {
-      "summary": "【自动摘要】Hugging Face's harness adapters are small LoRA add-ons trained with reinforcement learning for one coding agent. With thinking off, the pi a",
+      "summary": "【自动摘要】Hugging Face's harness adapters are small LoRA add-ons trained with reinforcement learning for one coding agent. With thinking off, the pi adapter takes Qwen 3.",
       "topics": [
         "Agent",
         "Fine-tuning",
         "Evaluation & Benchmark",
-        "Reasoning"
+        "Tool Use"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:20.231674+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.851176+00:00",
       "_fallback": true
     }
   },
@@ -48,13 +48,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on why human mathematicians redesign definitions when a proof gets too complicated, while AI autofor",
+      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on why human mathematicians redesign definitions when a proof gets too complicated, while AI autoformalisation tools in ",
       "topics": [
-        "Tool Use"
+        "Tool Use",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Kevin Buzzard",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:19.885985+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.851652+00:00",
       "_fallback": true
     }
   },
@@ -76,13 +77,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The paper is available here:   🙏 We would like to thank our generous Patreon su",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Evaluation & Benchmark, Industry & Society：Claude AI Solved The Secret Of Black Holes",
       "topics": [
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:18.584266+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.851903+00:00",
       "_fallback": true
     }
   },
@@ -104,15 +107,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Inkling 2 Mini is a looped transformer. Looped transformers explained: how a language model can run part of itself more than once for every ",
+      "summary": "【自动摘要】Inkling 2 Mini is a looped transformer. Looped transformers explained: how a language model can run part of itself more than once for every token, getting more ",
       "topics": [
         "Model Architecture",
+        "Open Source",
         "Safety & Alignment",
         "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:21.009983+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.851976+00:00",
       "_fallback": true
     }
   },
@@ -134,13 +138,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Chimpanzees quit the moment they're paid. Children keep working until their partner gets paid too. Michael Tomasello, developmental psycholo",
+      "summary": "【自动摘要】Chimpanzees quit the moment they're paid. Children keep working until their partner gets paid too. Michael Tomasello, developmental psychologist at Duke Univers",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:21.060285+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852039+00:00",
       "_fallback": true
     }
   },
@@ -162,13 +167,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up ",
+      "summary": "【自动摘要】GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon ",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:20.163441+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852129+00:00",
       "_fallback": true
     }
   },
@@ -190,13 +195,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Michael Tomasello is a developmental psychologist who spent twenty years at the Max Planck Institute in Germany putting children and great a",
+      "summary": "【自动摘要】Michael Tomasello is a developmental psychologist who spent twenty years at the Max Planck Institute in Germany putting children and great apes into the same ex",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Reasoning",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:21.140796+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852201+00:00",
       "_fallback": true
     }
   },
@@ -218,13 +225,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The DeepMind AlphaGenome paper is available here:  Interview with creator Dr. P",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：DeepMind Just Released The Best Thing AI Ever Did",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:18.405704+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852294+00:00",
       "_fallback": true
     }
   },
@@ -246,7 +253,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Google just released Gemini 4 Neon, which sits between Gemini 4 Hydrogen and Gemini 4 Carbon. Google says it’s built for long agent sessions",
+      "summary": "【自动摘要】Google just released Gemini 4 Neon, which sits between Gemini 4 Hydrogen and Gemini 4 Carbon. Google says it’s built for long agent sessions, with four thinking",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -255,7 +262,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:19.955392+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852368+00:00",
       "_fallback": true
     }
   },
@@ -277,7 +284,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Neon is Google’s new model for complex coding, knowledge work and science, and it sits between Gemini 4 Hydrogen and Gemini 4 Carbo",
+      "summary": "【自动摘要】Gemini 4 Neon is Google’s new model for complex coding, knowledge work and science, and it sits between Gemini 4 Hydrogen and Gemini 4 Carbon. I had early acces",
       "topics": [
         "RAG",
         "Agent",
@@ -286,7 +293,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:21.154668+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852438+00:00",
       "_fallback": true
     }
   },
@@ -308,13 +315,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The paper is available here:   🙏 We would like to thank our generous Patreon su",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Reasoning, Research & Cognition：OpenAI's New Breakthrough Is... Utter Chaos",
       "topics": [
-        "Agent"
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:18.332388+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852520+00:00",
       "_fallback": true
     }
   },
@@ -336,15 +344,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its ",
+      "summary": "【自动摘要】Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its work fast. Here’s wh",
       "topics": [
         "Agent",
         "Prompt Engineering",
-        "Multimodal"
+        "Multimodal",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:21.085470+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852595+00:00",
       "_fallback": true
     }
   },
@@ -366,15 +375,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its ",
+      "summary": "【自动摘要】Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its work fast. Here’s wh",
       "topics": [
         "Agent",
         "Prompt Engineering",
-        "Multimodal"
+        "Multimodal",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:19.949271+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852666+00:00",
       "_fallback": true
     }
   },
@@ -396,13 +406,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Cloud Run for AI agents in about a minute: where your agent runs once it leaves your laptop, and when to run it as a Cloud Run service, a jo",
+      "summary": "【自动摘要】Cloud Run for AI agents in about a minute: where your agent runs once it leaves your laptop, and when to run it as a Cloud Run service, a job or a worker pool. ",
       "topics": [
-        "Agent"
+        "Agent",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:24.569011+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852749+00:00",
       "_fallback": true
     }
   },
@@ -426,11 +437,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:24.865007+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852782+00:00",
       "_fallback": true
     }
   },
@@ -452,7 +464,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】How to build a self-evolving agent harness: the agent starts with three tools (shell, read, write) and grows its own tools, lifecycle hooks ",
+      "summary": "【自动摘要】How to build a self-evolving agent harness: the agent starts with three tools (shell, read, write) and grows its own tools, lifecycle hooks and memory while it ",
       "topics": [
         "RAG",
         "Agent",
@@ -461,7 +473,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:25.852144+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852850+00:00",
       "_fallback": true
     }
   },
@@ -483,14 +495,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars ",
+      "summary": "【自动摘要】After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you ",
       "topics": [
         "RAG",
-        "Open Source"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:23.432287+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.852936+00:00",
       "_fallback": true
     }
   },
@@ -512,15 +524,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini Decision 1 is Google's new decision model: it answers yes/no, multiple-choice and score questions about text, images, audio, PDFs and",
+      "summary": "【自动摘要】Gemini Decision 1 is Google's new decision model: it answers yes/no, multiple-choice and score questions about text, images, audio, PDFs and video, and returns ",
       "topics": [
         "Multimodal",
         "Evaluation & Benchmark",
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:24.569923+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853014+00:00",
       "_fallback": true
     }
   },
@@ -544,11 +557,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:26.590739+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853045+00:00",
       "_fallback": true
     }
   },
@@ -570,14 +583,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Google just released Gemini 4 Hydrogen, its fastest Gemini 4 model and the successor to the Flash models. It scores one point above Gemini 4",
+      "summary": "【自动摘要】Google just released Gemini 4 Hydrogen, its fastest Gemini 4 model and the successor to the Flash models. It scores one point above Gemini 4 Argon on the Artifi",
       "topics": [
         "Evaluation & Benchmark",
-        "Reasoning"
+        "Reasoning",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:26.300014+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853113+00:00",
       "_fallback": true
     }
   },
@@ -599,13 +613,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The DeepMind paper AlphaProof Code is available here:   🙏 We would like to than",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Research & Cognition：DeepMind’s AI Just Did The Impossible",
       "topics": [
-        "Agent"
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:25.025009+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853200+00:00",
       "_fallback": true
     }
   },
@@ -627,13 +641,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】In 2010 Simon Prince spent a sabbatical in Toronto writing a book that recast computer vision as probabilistic graphical models, with Alex K",
+      "summary": "【自动摘要】In 2010 Simon Prince spent a sabbatical in Toronto writing a book that recast computer vision as probabilistic graphical models, with Alex Krizhevsky in the nex",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:26.029647+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853271+00:00",
       "_fallback": true
     }
   },
@@ -655,13 +670,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Lying only works because we're cooperative. \"If I tell you it's raining outside, it would never occur to you that I'm lying about that.\" Mic",
+      "summary": "【自动摘要】Lying only works because we're cooperative. \"If I tell you it's raining outside, it would never occur to you that I'm lying about that.\" Michael Tomasello, deve",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:26.855217+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853344+00:00",
       "_fallback": true
     }
   },
@@ -683,13 +698,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】How would you make a traffic light smart? Michael Tomasello, developmental psychologist at Duke University, on why there's only one solution",
+      "summary": "【自动摘要】How would you make a traffic light smart? Michael Tomasello, developmental psychologist at Duke University, on why there's only one solution: perception, a goal",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:25.554429+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853412+00:00",
       "_fallback": true
     }
   },
@@ -711,13 +726,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Humans didn't just learn language, we created it. Michael Tomasello, developmental psychologist at Duke University, on studies where childre",
+      "summary": "【自动摘要】Humans didn't just learn language, we created it. Michael Tomasello, developmental psychologist at Duke University, on studies where children cut off from talki",
       "topics": [
-        "Other"
+        "Reasoning",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:26.783328+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853479+00:00",
       "_fallback": true
     }
   },
@@ -739,13 +755,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Why say \"It was Fred that broke the window\" instead of \"Fred broke the window\"? Michael Tomasello, developmental psychologist at Duke Univer",
+      "summary": "【自动摘要】Why say \"It was Fred that broke the window\" instead of \"Fred broke the window\"? Michael Tomasello, developmental psychologist at Duke University, on how grammat",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Michael Tomasello",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:28.332304+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853544+00:00",
       "_fallback": true
     }
   },
@@ -767,13 +783,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Simon Prince on why AlexNet should never have worked. It had 60 million parameters, orders of magnitude more than the vision models of its t",
+      "summary": "【自动摘要】Simon Prince on why AlexNet should never have worked. It had 60 million parameters, orders of magnitude more than the vision models of its time. Its input was a",
       "topics": [
-        "Multimodal"
+        "Model Architecture",
+        "Multimodal",
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:30.182116+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853618+00:00",
       "_fallback": true
     }
   },
@@ -795,13 +814,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Every hand-built harness around an AI model has a shelf life. Edward Hughes explains why his team deliberately does not build harnesses for ",
+      "summary": "【自动摘要】Every hand-built harness around an AI model has a shelf life. Edward Hughes explains why his team deliberately does not build harnesses for their AI scientist w",
       "topics": [
-        "Agent"
+        "Agent",
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:27.085522+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853703+00:00",
       "_fallback": true
     }
   },
@@ -823,13 +843,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai and Answer.AI, on the endless online argument over whether LLMs \"really\" understand. His answer is that",
+      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai and Answer.AI, on the endless online argument over whether LLMs \"really\" understand. His answer is that both sides are righ",
       "topics": [
-        "Other"
+        "Reasoning",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Jeremy Howard",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:27.285304+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853773+00:00",
       "_fallback": true
     }
   },
@@ -851,13 +872,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai and Answer.AI, on Anthropic's \"clean-room\" C compiler written by Claude. Chris Lattner's LLVM, the most",
+      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai and Answer.AI, on Anthropic's \"clean-room\" C compiler written by Claude. Chris Lattner's LLVM, the most widely used foundat",
       "topics": [
-        "Fine-tuning"
+        "Fine-tuning",
+        "Industry & Society",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Jeremy Howard",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:27.037581+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853834+00:00",
       "_fallback": true
     }
   },
@@ -879,13 +902,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Blaise Agüera y Arcas on the BFF experiment. Start with a soup of 1,024 tapes, each 64 random bytes. Pluck two at random, join them end to e",
+      "summary": "【自动摘要】Blaise Agüera y Arcas on the BFF experiment. Start with a soup of 1,024 tapes, each 64 random bytes. Pluck two at random, join them end to end, run them, pull t",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:28.748026+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.853922+00:00",
       "_fallback": true
     }
   },
@@ -907,14 +930,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. The",
+      "summary": "【自动摘要】I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cov",
       "topics": [
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:34.121636+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854004+00:00",
       "_fallback": true
     }
   },
@@ -936,14 +960,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Google's Gemini 4 Carbon is out for developers: 60 on the Artificial Analysis Intelligence Index, a 1M-token context window, up to 1M output",
+      "summary": "【自动摘要】Google's Gemini 4 Carbon is out for developers: 60 on the Artificial Analysis Intelligence Index, a 1M-token context window, up to 1M output tokens, and an intr",
       "topics": [
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:32.345144+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854073+00:00",
       "_fallback": true
     }
   },
@@ -965,7 +990,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Carbon is Google's new model for long engineering tasks. I had early access, so this video skips the benchmarks and shows the outpu",
+      "summary": "【自动摘要】Gemini 4 Carbon is Google's new model for long engineering tasks. I had early access, so this video skips the benchmarks and shows the outputs: a Three.js open ",
       "topics": [
         "Prompt Engineering",
         "Fine-tuning",
@@ -974,7 +999,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:30.672732+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854140+00:00",
       "_fallback": true
     }
   },
@@ -998,11 +1023,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:28.329370+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854171+00:00",
       "_fallback": true
     }
   },
@@ -1052,13 +1078,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】When life began, something finally was at stake. Tom Froese on the origin of life as the moment values entered the universe: things stopped ",
+      "summary": "【自动摘要】When life began, something finally was at stake. Tom Froese on the origin of life as the moment values entered the universe: things stopped just happening and s",
       "topics": [
-        "Other"
+        "Industry & Society",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Tom Froese",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:31.460815+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854235+00:00",
       "_fallback": true
     }
   },
@@ -1080,13 +1107,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Tom Froese used to tell taxi drivers not to worry about AI. He didn't see today's systems coming, but one thing he still doesn't see in them",
+      "summary": "【自动摘要】Tom Froese used to tell taxi drivers not to worry about AI. He didn't see today's systems coming, but one thing he still doesn't see in them is initiative. Full",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Tom Froese",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:31.346522+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854298+00:00",
       "_fallback": true
     }
   },
@@ -1108,13 +1135,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Anthropic just released Claude Fable 5.2. Artificial Analysis ranks it number one on its Intelligence Index at 65, five points ahead of Gemi",
+      "summary": "【自动摘要】Anthropic just released Claude Fable 5.2. Artificial Analysis ranks it number one on its Intelligence Index at 65, five points ahead of Gemini 4 Carbon, but onl",
       "topics": [
-        "Agent"
+        "Agent",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:28.259133+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854375+00:00",
       "_fallback": true
     }
   },
@@ -1138,11 +1166,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:32.342478+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854406+00:00",
       "_fallback": true
     }
   },
@@ -1166,11 +1194,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:39.151078+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854438+00:00",
       "_fallback": true
     }
   },
@@ -1192,13 +1220,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The Weight Space Programming work is available here:  🙏 We would like to thank ",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Model Architecture, Industry & Society：The OpenAI Astra Weight Hack, Explained",
       "topics": [
-        "Agent"
+        "Model Architecture",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:38.367930+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854516+00:00",
       "_fallback": true
     }
   },
@@ -1222,11 +1252,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:39.604694+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854544+00:00",
       "_fallback": true
     }
   },
@@ -1248,7 +1279,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Try Progress Agentic RAG free for 14 days (video sponsor):  AI evals are how you know whether an AI agent actually works. In this video, you",
+      "summary": "【自动摘要】Try Progress Agentic RAG free for 14 days (video sponsor):  AI evals are how you know whether an AI agent actually works. In this video, you'll learn what evals",
       "topics": [
         "RAG",
         "Agent",
@@ -1257,7 +1288,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:39.356733+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854603+00:00",
       "_fallback": true
     }
   },
@@ -1281,11 +1312,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Model Architecture",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:40.754650+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854631+00:00",
       "_fallback": true
     }
   },
@@ -1307,13 +1339,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society, Research & Cognition：The Future of AI Is Absolutely Incredible (Spencer Huang)",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:37.920869+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854726+00:00",
       "_fallback": true
     }
   },
@@ -1337,11 +1370,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:39.500298+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854755+00:00",
       "_fallback": true
     }
   },
@@ -1365,11 +1398,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:40.770005+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854783+00:00",
       "_fallback": true
     }
   },
@@ -1391,13 +1425,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Joscha Bach on a dream he had when he was two or three. He was about to eat a chocolate with a very strong smell, and he woke up just before",
+      "summary": "【自动摘要】Joscha Bach on a dream he had when he was two or three. He was about to eat a chocolate with a very strong smell, and he woke up just before it reached his mout",
       "topics": [
-        "Other"
+        "Industry & Society",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Joscha Bach",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:40.298425+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854858+00:00",
       "_fallback": true
     }
   },
@@ -1419,13 +1454,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Joscha Bach on a joke that turned out to be true. In Minecraft, if you're on fire and jump into water, the fire goes out because you're wet.",
+      "summary": "【自动摘要】Joscha Bach on a joke that turned out to be true. In Minecraft, if you're on fire and jump into water, the fire goes out because you're wet. Someone then traine",
       "topics": [
-        "Other"
+        "Multimodal",
+        "Evaluation & Benchmark",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Joscha Bach",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:38.005949+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854930+00:00",
       "_fallback": true
     }
   },
@@ -1447,13 +1484,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Joscha Bach on why a computer is a \"causal insulator\". Minecraft runs just as well on a Mac as on a PC, and nothing inside the game can tell",
+      "summary": "【自动摘要】Joscha Bach on why a computer is a \"causal insulator\". Minecraft runs just as well on a Mac as on a PC, and nothing inside the game can tell what it's running o",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Joscha Bach",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:40.305124+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.854989+00:00",
       "_fallback": true
     }
   },
@@ -1475,16 +1513,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】GPT-6 Astra edited just 0.016% of Qwen3.5-0.8B's weights, and its MATH-500 score jumped from 7.9% to 48.1%, with no training and no gradient",
+      "summary": "【自动摘要】GPT-6 Astra edited just 0.016% of Qwen3.5-0.8B's weights, and its MATH-500 score jumped from 7.9% to 48.1%, with no training and no gradients. This is Weight-Sp",
       "topics": [
         "Fine-tuning",
+        "Model Architecture",
         "Multimodal",
-        "Evaluation & Benchmark",
-        "Reasoning"
+        "Evaluation & Benchmark"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:39.518560+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855053+00:00",
       "_fallback": true
     }
   },
@@ -1508,11 +1546,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Prompt Engineering",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:43.113880+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855081+00:00",
       "_fallback": true
     }
   },
@@ -1534,13 +1573,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - fr",
+      "summary": "【自动摘要】You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthro",
       "topics": [
-        "Other"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:44.708601+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855163+00:00",
       "_fallback": true
     }
   },
@@ -1564,11 +1604,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:45.344547+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855190+00:00",
       "_fallback": true
     }
   },
@@ -1590,14 +1630,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a singl",
+      "summary": "【自动摘要】Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a single platform for all y",
       "topics": [
         "Agent",
-        "Model Architecture"
+        "Model Architecture",
+        "Industry & Society",
+        "Research & Cognition"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Joscha Bach",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:44.717760+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855255+00:00",
       "_fallback": true
     }
   },
@@ -1621,11 +1663,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:47.012657+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855285+00:00",
       "_fallback": true
     }
   },
@@ -1649,11 +1691,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:45.712742+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855312+00:00",
       "_fallback": true
     }
   },
@@ -1675,13 +1717,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 OpenAI's paper is available here:  Our paper with the cherry splash ray tracing",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：OpenAI Claims It Just Did The Impossible",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:44.512061+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855402+00:00",
       "_fallback": true
     }
   },
@@ -1705,11 +1747,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:44.444851+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855431+00:00",
       "_fallback": true
     }
   },
@@ -1731,7 +1773,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Can a 27 billion parameter model teach a 4 billion model to be as good as itself? Last time, RL got Qwen 4B from 52% to 58.4% and then hit a",
+      "summary": "【自动摘要】Can a 27 billion parameter model teach a 4 billion model to be as good as itself? Last time, RL got Qwen 4B from 52% to 58.4% and then hit a wall. This time I u",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -1740,7 +1782,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:41.570147+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855508+00:00",
       "_fallback": true
     }
   },
@@ -1764,11 +1806,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:46.925096+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855536+00:00",
       "_fallback": true
     }
   },
@@ -1790,13 +1832,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Google just announced Gemini 4 Carbon, its second frontier model in about two weeks after Gemini 4 Argon. According to Artificial Analysis, ",
+      "summary": "【自动摘要】Google just announced Gemini 4 Carbon, its second frontier model in about two weeks after Gemini 4 Argon. According to Artificial Analysis, Carbon is now #1 on ",
       "topics": [
-        "Agent"
+        "Agent",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:45.780521+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855607+00:00",
       "_fallback": true
     }
   },
@@ -1818,14 +1861,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 DeepSeek v4.1 Flash 1017 is available here:  Sources:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Multimodal, Tool Use：Deepseek's New AI Has A Secret",
       "topics": [
         "Multimodal",
         "Tool Use"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:42:45.297180+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855684+00:00",
       "_fallback": true
     }
   },
@@ -1847,13 +1890,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Next-Concept Modeling (NCM) from Stanford’s Hazy Research writes an answer as a rough sketch first and the exact words last, in a handful of",
+      "summary": "【自动摘要】Next-Concept Modeling (NCM) from Stanford’s Hazy Research writes an answer as a rough sketch first and the exact words last, in a handful of passes instead of o",
       "topics": [
         "Evaluation & Benchmark"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:47.137389+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855773+00:00",
       "_fallback": true
     }
   },
@@ -1877,11 +1920,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:51.960442+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855803+00:00",
       "_fallback": true
     }
   },
@@ -1903,13 +1946,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Jeremy Avigad on why the AI debate should stay centred on us. What makes our goals special is that they're ours. AI can have its own discuss",
+      "summary": "【自动摘要】Jeremy Avigad on why the AI debate should stay centred on us. What makes our goals special is that they're ours. AI can have its own discussion on the side abou",
       "topics": [
         "Tool Use"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:52.695186+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855881+00:00",
       "_fallback": true
     }
   },
@@ -1931,13 +1974,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Paul Lessard on where AI has already replaced people. Translation was a white-collar job that has essentially disappeared, and whether these",
+      "summary": "【自动摘要】Paul Lessard on where AI has already replaced people. Translation was a white-collar job that has essentially disappeared, and whether these systems replace peo",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Paul Lessard",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:51.247802+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.855965+00:00",
       "_fallback": true
     }
   },
@@ -1959,13 +2002,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on the Liquid Tensor Experiment. At the end of 2020 the Fields medallist Peter Scholze asked whether",
+      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on the Liquid Tensor Experiment. At the end of 2020 the Fields medallist Peter Scholze asked whether anyone had carefull",
       "topics": [
+        "Evaluation & Benchmark",
         "Safety & Alignment"
       ],
-      "speaker": "Various Guests",
+      "speaker": "Kevin Buzzard",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:52.224620+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856043+00:00",
       "_fallback": true
     }
   },
@@ -1987,13 +2031,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on what happened when 50 theorems from the Annals of Mathematics were written down in the Lean proof",
+      "summary": "【自动摘要】Kevin Buzzard (Imperial College London) on what happened when 50 theorems from the Annals of Mathematics were written down in the Lean proof assistant: theorems",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:53.492676+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856125+00:00",
       "_fallback": true
     }
   },
@@ -2015,13 +2059,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Paul Lessard on why the representations we arrive at don't have to converge. Colour theory looks as if it simply is, but it carries politics",
+      "summary": "【自动摘要】Paul Lessard on why the representations we arrive at don't have to converge. Colour theory looks as if it simply is, but it carries politics and economics. His ",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:53.052105+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856200+00:00",
       "_fallback": true
     }
   },
@@ -2043,13 +2087,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Paul Lessard on what he actually wants from AI in mathematics. Proofs that don't get it wrong aren't enough: he wants provenance, the reason",
+      "summary": "【自动摘要】Paul Lessard on what he actually wants from AI in mathematics. Proofs that don't get it wrong aren't enough: he wants provenance, the reason a machine reaches a",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark",
+        "Reasoning",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:53.263764+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856277+00:00",
       "_fallback": true
     }
   },
@@ -2071,13 +2118,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kevin Hartnett, author of The Proof in the Code, on the catch in AI autoformalisation. An LLM can now turn a maths paper into Lean code in a",
+      "summary": "【自动摘要】Kevin Hartnett, author of The Proof in the Code, on the catch in AI autoformalisation. An LLM can now turn a maths paper into Lean code in a fraction of the tim",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:51.870210+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856353+00:00",
       "_fallback": true
     }
   },
@@ -2101,11 +2149,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:52.378720+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856381+00:00",
       "_fallback": true
     }
   },
@@ -2127,7 +2175,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Cohere says one of Alibaba’s newest Qwen models, Qwen3.8 Flash Next, tried to upload a test file to an Alibaba Cloud storage bucket in Beiji",
+      "summary": "【自动摘要】Cohere says one of Alibaba’s newest Qwen models, Qwen3.8 Flash Next, tried to upload a test file to an Alibaba Cloud storage bucket in Beijing, in under 1 in 10",
       "topics": [
         "RAG",
         "Agent",
@@ -2136,7 +2184,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:52.756124+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856461+00:00",
       "_fallback": true
     }
   },
@@ -2158,13 +2206,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kevin Hartnett is the author of *The Proof in the Code*. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that wer",
+      "summary": "【自动摘要】Kevin Hartnett is the author of *The Proof in the Code*. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that were impossible a year ",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:42:53.787219+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856547+00:00",
       "_fallback": true
     }
   },
@@ -2186,7 +2234,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Harness² lets an AI agent build and evolve its own harness (its instructions, tools and control loop) for every task, with no retraining. Wa",
+      "summary": "【自动摘要】Harness² lets an AI agent build and evolve its own harness (its instructions, tools and control loop) for every task, with no retraining. Watch the full explain",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -2195,7 +2243,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:54.077171+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856603+00:00",
       "_fallback": true
     }
   },
@@ -2219,11 +2267,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:56.184757+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856632+00:00",
       "_fallback": true
     }
   },
@@ -2245,15 +2293,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Kimi K3.1 Pro vs Claude Opus 5.5 on 13 long-horizon agentic coding tasks. Both models ran in the same Claude Code harness, with the same pro",
+      "summary": "【自动摘要】Kimi K3.1 Pro vs Claude Opus 5.5 on 13 long-horizon agentic coding tasks. Both models ran in the same Claude Code harness, with the same prompts, the same effor",
       "topics": [
         "Agent",
         "Prompt Engineering",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:56.569361+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856698+00:00",
       "_fallback": true
     }
   },
@@ -2277,11 +2326,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:42:55.833003+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856727+00:00",
       "_fallback": true
     }
   },
@@ -2303,7 +2352,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Harness² is a research framework from Google Cloud AI Research and Northwestern University that lets an AI agent rewrite its own harness (it",
+      "summary": "【自动摘要】Harness² is a research framework from Google Cloud AI Research and Northwestern University that lets an AI agent rewrite its own harness (its prompts, skills, s",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -2312,7 +2361,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.179759+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856801+00:00",
       "_fallback": true
     }
   },
@@ -2336,11 +2385,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:04.153304+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856829+00:00",
       "_fallback": true
     }
   },
@@ -2362,14 +2411,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Moonshot just released Kimi K3.1 Pro, an open-weight mixture of experts model with 2.8 trillion total parameters, about 104 billion active, ",
+      "summary": "【自动摘要】Moonshot just released Kimi K3.1 Pro, an open-weight mixture of experts model with 2.8 trillion total parameters, about 104 billion active, and a 1 million toke",
       "topics": [
         "Model Architecture",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.482118+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856906+00:00",
       "_fallback": true
     }
   },
@@ -2393,11 +2443,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.871406+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.856936+00:00",
       "_fallback": true
     }
   },
@@ -2419,13 +2470,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】In five days, almost every layer developers build on got hit: weak eMudhra certificate keys (one was the number 4), PHP2Shell, a Node.js Bro",
+      "summary": "【自动摘要】In five days, almost every layer developers build on got hit: weak eMudhra certificate keys (one was the number 4), PHP2Shell, a Node.js Brotli RCE, a CVSS 10 G",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.374750+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857015+00:00",
       "_fallback": true
     }
   },
@@ -2447,7 +2498,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Thanks to Neon for sponsoring this video. Try Neon here :  Google's TimesFM 3.0 forecasts time series without any training on your data. Han",
+      "summary": "【自动摘要】Thanks to Neon for sponsoring this video. Try Neon here :  Google's TimesFM 3.0 forecasts time series without any training on your data. Hand it the history, an",
       "topics": [
         "Fine-tuning",
         "Multimodal",
@@ -2456,7 +2507,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.692553+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857089+00:00",
       "_fallback": true
     }
   },
@@ -2480,11 +2531,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:04.774828+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857116+00:00",
       "_fallback": true
     }
   },
@@ -2506,15 +2557,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Anthropic just announced Claude Duet, a new app where Claude works as a proactive agent. It comes to you first instead of waiting for a prom",
+      "summary": "【自动摘要】Anthropic just announced Claude Duet, a new app where Claude works as a proactive agent. It comes to you first instead of waiting for a prompt. Duet runs on Cla",
       "topics": [
         "Agent",
         "Prompt Engineering",
-        "Model Architecture"
+        "Model Architecture",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:04.664830+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857188+00:00",
       "_fallback": true
     }
   },
@@ -2536,7 +2588,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek just open-sourced DeepInfer, the inference engine behind its own API, along with a detailed write-up of how it serves DeepSeek V4.1",
+      "summary": "【自动摘要】DeepSeek just open-sourced DeepInfer, the inference engine behind its own API, along with a detailed write-up of how it serves DeepSeek V4.1 Flash at scale: 155",
       "topics": [
         "Prompt Engineering",
         "Multimodal",
@@ -2545,7 +2597,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:02.960463+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857257+00:00",
       "_fallback": true
     }
   },
@@ -2569,11 +2621,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:04.908960+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857285+00:00",
       "_fallback": true
     }
   },
@@ -2597,11 +2649,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:03.819055+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857315+00:00",
       "_fallback": true
     }
   },
@@ -2623,15 +2676,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek calls V4.1 Flash 1017 a “minor update”, but it went up on every benchmark in their table, and it’s now the #1 open model on Arena’s",
+      "summary": "【自动摘要】DeepSeek calls V4.1 Flash 1017 a “minor update”, but it went up on every benchmark in their table, and it’s now the #1 open model on Arena’s WebDev leaderboard.",
       "topics": [
         "Prompt Engineering",
         "Evaluation & Benchmark",
+        "Open Source",
         "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:05.078271+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857401+00:00",
       "_fallback": true
     }
   },
@@ -2655,11 +2709,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:07.999584+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857428+00:00",
       "_fallback": true
     }
   },
@@ -2681,15 +2736,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 Gemini 4 Argon + report are available here:   Sources:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 RAG, Safety & Alignment：Gemini 4 Argon Really Surprised Me",
       "topics": [
         "RAG",
         "Safety & Alignment",
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:07.493206+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857493+00:00",
       "_fallback": true
     }
   },
@@ -2713,11 +2769,12 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:08.454610+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857521+00:00",
       "_fallback": true
     }
   },
@@ -2739,13 +2796,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek just released DeepSeek V4.1 Flash 1017. Its Hugging Face model card calls it a minor update, but it improved on all 11 benchmarks i",
+      "summary": "【自动摘要】DeepSeek just released DeepSeek V4.1 Flash 1017. Its Hugging Face model card calls it a minor update, but it improved on all 11 benchmarks in DeepSeek’s own tab",
       "topics": [
         "Evaluation & Benchmark"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:08.611427+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857605+00:00",
       "_fallback": true
     }
   },
@@ -2767,7 +2824,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Can RL Make a 4B Model Compete with 27B? My Open RL Environment Experiments (GRPO, LoRA, DGX) In this video I test whether open-source RL en",
+      "summary": "【自动摘要】Can RL Make a 4B Model Compete with 27B? My Open RL Environment Experiments (GRPO, LoRA, DGX) In this video I test whether open-source RL environments can make ",
       "topics": [
         "Fine-tuning",
         "Multimodal",
@@ -2776,7 +2833,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:10.507266+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857688+00:00",
       "_fallback": true
     }
   },
@@ -2800,11 +2857,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:10.755742+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857747+00:00",
       "_fallback": true
     }
   },
@@ -2826,7 +2883,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】This video is sponsored by Teleport. Learn more about Teleport’s Agentic Identity Framework:  AI agents can now read your tickets, query you",
+      "summary": "【自动摘要】This video is sponsored by Teleport. Learn more about Teleport’s Agentic Identity Framework:  AI agents can now read your tickets, query your databases and chan",
       "topics": [
         "Agent",
         "Multimodal",
@@ -2834,7 +2891,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:10.509012+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857858+00:00",
       "_fallback": true
     }
   },
@@ -2858,11 +2915,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:07.747287+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857892+00:00",
       "_fallback": true
     }
   },
@@ -2886,11 +2943,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:12.195150+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857923+00:00",
       "_fallback": true
     }
   },
@@ -2914,11 +2971,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:13.088432+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.857954+00:00",
       "_fallback": true
     }
   },
@@ -2940,13 +2997,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Argon wrote an entire coastal city in a single 1-million-token response, trained a neural network from a research paper on my DGX S",
+      "summary": "【自动摘要】Gemini 4 Argon wrote an entire coastal city in a single 1-million-token response, trained a neural network from a research paper on my DGX Spark, and rebuilt we",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:12.126926+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858090+00:00",
       "_fallback": true
     }
   },
@@ -2968,7 +3026,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Argon tested hands-on with early access: I pushed Google's new model to 1 million output tokens in a single response, had it rebuil",
+      "summary": "【自动摘要】Gemini 4 Argon tested hands-on with early access: I pushed Google's new model to 1 million output tokens in a single response, had it rebuild websites from one ",
       "topics": [
         "RAG",
         "Agent",
@@ -2977,7 +3035,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:10.484756+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858183+00:00",
       "_fallback": true
     }
   },
@@ -3001,11 +3059,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:14.314305+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858214+00:00",
       "_fallback": true
     }
   },
@@ -3027,13 +3085,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The papers are available here:   🙏 We would like to thank our generous Patreon ",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Research & Cognition：OpenAI’s New AI Is Doing Things We Barely Understand",
       "topics": [
-        "Agent"
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:12.504140+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858310+00:00",
       "_fallback": true
     }
   },
@@ -3055,14 +3113,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race ",
+      "summary": "【自动摘要】In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try",
       "topics": [
-        "Open Source",
-        "Safety & Alignment"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:13.465831+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858415+00:00",
       "_fallback": true
     }
   },
@@ -3084,7 +3142,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Meta just released Muse Wonder and Muse Wonder Full, and the whole launch is built around \"personal superintelligence\": models with Active M",
+      "summary": "【自动摘要】Meta just released Muse Wonder and Muse Wonder Full, and the whole launch is built around \"personal superintelligence\": models with Active Memory and Active Foc",
       "topics": [
         "RAG",
         "Evaluation & Benchmark",
@@ -3092,7 +3150,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:14.749273+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858492+00:00",
       "_fallback": true
     }
   },
@@ -3116,11 +3174,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:14.203949+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858521+00:00",
       "_fallback": true
     }
   },
@@ -3142,13 +3200,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The DeepSeek OCR paper is available here:  🙏 We would like to thank our generou",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Research & Cognition：Why DeepSeek Wants AI To Forget",
       "topics": [
-        "Agent"
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:14.659078+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858609+00:00",
       "_fallback": true
     }
   },
@@ -3172,11 +3230,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:16.694637+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858638+00:00",
       "_fallback": true
     }
   },
@@ -3198,7 +3256,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Thanks to Neon for sponsoring this video. Check out Neon for your backend needs for your apps and agents:  Google Research's TabFM is a zero",
+      "summary": "【自动摘要】Thanks to Neon for sponsoring this video.",
       "topics": [
         "Agent",
         "Fine-tuning",
@@ -3206,7 +3264,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:17.253871+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858717+00:00",
       "_fallback": true
     }
   },
@@ -3228,13 +3286,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai, on why AI-assisted coding works like a slot machine: you craft the prompt, pull the lever, and the occ",
+      "summary": "【自动摘要】Jeremy Howard, co-founder of fast.ai, on why AI-assisted coding works like a slot machine: you craft the prompt, pull the lever, and the occasional win feels li",
       "topics": [
-        "Prompt Engineering"
+        "Prompt Engineering",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:17.428166+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858792+00:00",
       "_fallback": true
     }
   },
@@ -3256,15 +3315,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】What is a software factory? It's an assembly line for your codebase: GitHub issues go in, AI coding agents fix them in parallel, an independ",
+      "summary": "【自动摘要】What is a software factory? It's an assembly line for your codebase: GitHub issues go in, AI coding agents fix them in parallel, an independent check runs the t",
       "topics": [
         "Agent",
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:17.497045+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858851+00:00",
       "_fallback": true
     }
   },
@@ -3288,11 +3348,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:18.128732+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858880+00:00",
       "_fallback": true
     }
   },
@@ -3314,13 +3374,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】A lot of people in AI treat evolution as a dumb fallback, basically random search for when you can't take a gradient. Akarsh Kumar thinks th",
+      "summary": "【自动摘要】A lot of people in AI treat evolution as a dumb fallback, basically random search for when you can't take a gradient. Akarsh Kumar thinks that is wrong. Selecti",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:18.050320+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.858959+00:00",
       "_fallback": true
     }
   },
@@ -3342,7 +3403,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】This video is sponsored by Upstash. Try Upstash Box:  What is a software factory, and how do you build one? In this video I explain the idea",
+      "summary": "【自动摘要】This video is sponsored by Upstash. Try Upstash Box:  What is a software factory, and how do you build one? In this video I explain the idea, then build a worki",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -3351,7 +3412,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:18.850604+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859025+00:00",
       "_fallback": true
     }
   },
@@ -3375,11 +3436,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:17.183230+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859056+00:00",
       "_fallback": true
     }
   },
@@ -3401,7 +3462,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】EmbeddingGemma 2 is Google’s open multimodal embedding model for on-device search. It puts photos, videos, voice notes and text into one vec",
+      "summary": "【自动摘要】EmbeddingGemma 2 is Google’s open multimodal embedding model for on-device search. It puts photos, videos, voice notes and text into one vector space, so a spok",
       "topics": [
         "RAG",
         "Multimodal",
@@ -3410,7 +3471,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:19.605037+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859137+00:00",
       "_fallback": true
     }
   },
@@ -3432,16 +3493,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Fine-tune Embedding Gemma 2 (EmbeddingGemma 2) on your own data with Unsloth and LoRA in a free Colab notebook. I show how fine-tuning an em",
+      "summary": "【自动摘要】Fine-tune Embedding Gemma 2 (EmbeddingGemma 2) on your own data with Unsloth and LoRA in a free Colab notebook. I show how fine-tuning an embedding model differ",
       "topics": [
         "RAG",
         "Fine-tuning",
-        "Multimodal",
-        "Open Source"
+        "Multimodal"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:18.823786+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859211+00:00",
       "_fallback": true
     }
   },
@@ -3463,13 +3523,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Akarsh Kumar on searching for artificial life with foundation models. Start from something as simple as Conway's Game of Life: \"From this su",
+      "summary": "【自动摘要】Akarsh Kumar on searching for artificial life with foundation models. Start from something as simple as Conway's Game of Life: \"From this super, super simple wo",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:26.246428+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859290+00:00",
       "_fallback": true
     }
   },
@@ -3491,13 +3551,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Akarsh Kumar wanted to see what would happen if you used LLMs to evolve small assembly programs that compete against each other. It's called",
+      "summary": "【自动摘要】Akarsh Kumar wanted to see what would happen if you used LLMs to evolve small assembly programs that compete against each other. It's called Core War. In his wo",
       "topics": [
-        "Other"
+        "Agent",
+        "Reasoning",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:24.902242+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859354+00:00",
       "_fallback": true
     }
   },
@@ -3519,14 +3582,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Anthropic just released Claude Haiku 5.5, which it calls its cheapest, fastest, and most capable small model yet. For prompts under 100,000 ",
+      "summary": "【自动摘要】Anthropic just released Claude Haiku 5.5, which it calls its cheapest, fastest, and most capable small model yet. For prompts under 100,000 tokens, it costs $0.",
       "topics": [
         "Prompt Engineering",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:23.784254+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859416+00:00",
       "_fallback": true
     }
   },
@@ -3548,13 +3612,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: ",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society, Research & Cognition：DeepMind's New AI Just Cracked The Code Of Life",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:23.772166+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859498+00:00",
       "_fallback": true
     }
   },
@@ -3576,7 +3641,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】EmbeddingGemma 2 is a new open embedding model from Google DeepMind that puts text, code, images, video and audio into one shared vector spa",
+      "summary": "【自动摘要】EmbeddingGemma 2 is a new open embedding model from Google DeepMind that puts text, code, images, video and audio into one shared vector space. It has 740M para",
       "topics": [
         "RAG",
         "Multimodal",
@@ -3585,7 +3650,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:23.698081+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859568+00:00",
       "_fallback": true
     }
   },
@@ -3607,15 +3672,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Mistral just announced Mistral Large 4, officially nicknamed \"le Chonk.\" It's a mixture-of-experts model with about 1 trillion total paramet",
+      "summary": "【自动摘要】Mistral just announced Mistral Large 4, officially nicknamed \"le Chonk.\" It's a mixture-of-experts model with about 1 trillion total parameters and around 50 bi",
       "topics": [
         "Agent",
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Open Source"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:26.435474+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859640+00:00",
       "_fallback": true
     }
   },
@@ -3637,7 +3703,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek Harness Desktop is a native app for DeepSeek's open-source agentic coding harness, and almost everything in it is a plugin. In this",
+      "summary": "【自动摘要】DeepSeek Harness Desktop is a native app for DeepSeek's open-source agentic coding harness, and almost everything in it is a plugin. In this video, I add TinyFi",
       "topics": [
         "Agent",
         "Multimodal",
@@ -3646,7 +3712,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:25.239923+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859720+00:00",
       "_fallback": true
     }
   },
@@ -3668,15 +3734,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Context management is one of the biggest bottlenecks for AI agents. When the context window fills up, most harnesses compact or summarize th",
+      "summary": "【自动摘要】Context management is one of the biggest bottlenecks for AI agents. When the context window fills up, most harnesses compact or summarize the conversation and l",
       "topics": [
         "Agent",
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Reasoning"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:24.037430+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859786+00:00",
       "_fallback": true
     }
   },
@@ -3698,7 +3765,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Context Language Models (CLM) are a new approach to context management for AI agents from Meta Superintelligence Labs and the University of ",
+      "summary": "【自动摘要】Context Language Models (CLM) are a new approach to context management for AI agents from Meta Superintelligence Labs and the University of Washington. Instead ",
       "topics": [
         "Agent",
         "Multimodal",
@@ -3707,7 +3774,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:23.577947+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859850+00:00",
       "_fallback": true
     }
   },
@@ -3729,13 +3796,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 Sonnet 5.5:  🙏 We would like to thank our generous Patreon supporters who make ",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society, Research & Cognition：The Billion Dollar AI Advantage Is Disappearing",
       "topics": [
-        "Agent"
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:24.040355+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859920+00:00",
       "_fallback": true
     }
   },
@@ -3757,15 +3825,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Claude Code mods are small functions that run inside Claude Code and can let an action through, change it, or stop it before it happens. Ski",
+      "summary": "【自动摘要】Claude Code mods are small functions that run inside Claude Code and can let an action through, change it, or stop it before it happens. Skills, hooks and MCP s",
       "topics": [
         "Agent",
         "Multimodal",
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:25.211452+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.859971+00:00",
       "_fallback": true
     }
   },
@@ -3787,7 +3856,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Claude Code mods let you run your own JavaScript or TypeScript functions inside Claude Code. A mod can watch, change or stop a tool call bef",
+      "summary": "【自动摘要】Claude Code mods let you run your own JavaScript or TypeScript functions inside Claude Code. A mod can watch, change or stop a tool call before it runs, and it ",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -3796,7 +3865,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:26.559826+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860033+00:00",
       "_fallback": true
     }
   },
@@ -3818,13 +3887,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】David Shapiro 发布的关于 Other 的视频：I can't do everything",
+      "summary": "【自动摘要】David Shapiro 发布，聚焦 Industry & Society：I can't do everything",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:30.293543+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860051+00:00",
       "_fallback": true
     }
   },
@@ -3848,11 +3917,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:29.526892+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860078+00:00",
       "_fallback": true
     }
   },
@@ -3876,11 +3945,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:31.061091+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860105+00:00",
       "_fallback": true
     }
   },
@@ -3902,13 +3971,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI),",
+      "summary": "【自动摘要】This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House com",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:27.416887+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860185+00:00",
       "_fallback": true
     }
   },
@@ -3930,14 +4001,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Shawn Wen of PolyAI on why voice agents should not sound generic. A regional flavour reads as human, and the most natural early voice agent ",
+      "summary": "【自动摘要】Shawn Wen of PolyAI on why voice agents should not sound generic. A regional flavour reads as human, and the most natural early voice agent was a French voice s",
       "topics": [
         "Agent",
-        "Multimodal"
+        "Multimodal",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:28.733283+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860248+00:00",
       "_fallback": true
     }
   },
@@ -3959,7 +4031,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Tsung-Hsien (Shawn) Wen, CTO of PolyAI, tells Tim Scarfe why voice agents are harder than text agents. Voice adds time, and a good conversat",
+      "summary": "【自动摘要】Tsung-Hsien (Shawn) Wen, CTO of PolyAI, tells Tim Scarfe why voice agents are harder than text agents. Voice adds time, and a good conversation depends on adapt",
       "topics": [
         "Agent",
         "Fine-tuning",
@@ -3968,7 +4040,7 @@
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:31.067094+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860322+00:00",
       "_fallback": true
     }
   },
@@ -3990,15 +4062,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Argon is Google's new frontier model, and the most interesting part isn't the benchmarks: it's a 1 million token output limit in a ",
+      "summary": "【自动摘要】Gemini 4 Argon is Google's new frontier model, and the most interesting part isn't the benchmarks: it's a 1 million token output limit in a single response, up ",
       "topics": [
         "Multimodal",
         "Evaluation & Benchmark",
-        "Reasoning"
+        "Reasoning",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:31.420158+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860384+00:00",
       "_fallback": true
     }
   },
@@ -4020,13 +4093,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini 4 Argon can generate up to 1 million output tokens in a single response, up from 64K in earlier Gemini models. Most frontier models t",
+      "summary": "【自动摘要】Gemini 4 Argon can generate up to 1 million output tokens in a single response, up from 64K in earlier Gemini models. Most frontier models today cap a single re",
       "topics": [
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:30.762379+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860452+00:00",
       "_fallback": true
     }
   },
@@ -4048,15 +4122,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Leonardo de Moura created Lean and co-created Z3. --- This episode is sponsored by Parallel. Parallel, where agents find answers: web search",
+      "summary": "【自动摘要】Leonardo de Moura created Lean and co-created Z3. --- This episode is sponsored by Parallel. Parallel, where agents find answers: web search, extraction and dee",
       "topics": [
         "Agent",
-        "Open Source",
         "Tool Use"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:31.975855+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860527+00:00",
       "_fallback": true
     }
   },
@@ -4078,15 +4151,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Thanks to Neon for making this video possible, check it out here:  Can a harness built around a System One model like TypeSafe's Jev make an",
+      "summary": "【自动摘要】Thanks to Neon for making this video possible, check it out here:  Can a harness built around a System One model like TypeSafe's Jev make an AI agent better? I ",
       "topics": [
         "Agent",
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:30.023728+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860594+00:00",
       "_fallback": true
     }
   },
@@ -4108,14 +4182,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Frank Hutter, co-founder of Prior Labs, on why deep learning struggled with tabular data for a decade: tables are messy and heterogeneous, h",
+      "summary": "【自动摘要】Frank Hutter, co-founder of Prior Labs, on why deep learning struggled with tabular data for a decade: tables are messy and heterogeneous, hyped models like Tab",
       "topics": [
         "Multimodal",
         "Evaluation & Benchmark"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:32.563093+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860667+00:00",
       "_fallback": true
     }
   },
@@ -4139,11 +4213,11 @@
     "analysis": {
       "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:31.600822+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860695+00:00",
       "_fallback": true
     }
   },
@@ -4165,7 +4239,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】PrismML says Bonsai 2 keeps 98% of Qwen3.8 27B's performance in a 6 GB file, so I tested it against the full model in the same agent harness",
+      "summary": "【自动摘要】PrismML says Bonsai 2 keeps 98% of Qwen3.8 27B's performance in a 6 GB file, so I tested it against the full model in the same agent harness, with thinking off ",
       "topics": [
         "Agent",
         "Evaluation & Benchmark",
@@ -4173,7 +4247,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:31.186855+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860763+00:00",
       "_fallback": true
     }
   },
@@ -4195,15 +4269,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Bonsai 2 from PrismML squeezes Qwen3.8 27B into a 6 GB file by retraining every weight to −1, 0 or +1, and PrismML claims it keeps 98% of th",
+      "summary": "【自动摘要】Bonsai 2 from PrismML squeezes Qwen3.8 27B into a 6 GB file by retraining every weight to −1, 0 or +1, and PrismML claims it keeps 98% of the full model's perfo",
       "topics": [
         "Agent",
         "Fine-tuning",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:31.975274+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860843+00:00",
       "_fallback": true
     }
   },
@@ -4225,13 +4300,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:  The voiceover in this video was recorded organi",
+      "summary": "【自动摘要】My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order:  The voiceover in this video was recorded organically, by hand. The ",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:35.599837+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860892+00:00",
       "_fallback": true
     }
   },
@@ -4253,14 +4329,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Weco AI's research agent wrote a gigantic monkey patch to their eval script. Reward hacking? No: it was fixing a bug. Zhengyao Jiang (co-fou",
+      "summary": "【自动摘要】Weco AI's research agent wrote a gigantic monkey patch to their eval script. Reward hacking? No: it was fixing a bug. Zhengyao Jiang (co-founder and CEO, Weco A",
       "topics": [
         "Agent",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:35.849130+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.860951+00:00",
       "_fallback": true
     }
   },
@@ -4282,13 +4359,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Jev made System 1 models hot. CLM from Stanford and NVIDIA Research takes a completely different approach: it never generates an answer. Ins",
+      "summary": "【自动摘要】Jev made System 1 models hot. CLM from Stanford and NVIDIA Research takes a completely different approach: it never generates an answer. Instead, it embeds the ",
       "topics": [
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:34.764823+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861022+00:00",
       "_fallback": true
     }
   },
@@ -4310,7 +4389,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Weco let an AI coding agent rewrite the harness around another agent for eight days: its code, prompts and tools, while the underlying langu",
+      "summary": "【自动摘要】Weco let an AI coding agent rewrite the harness around another agent for eight days: its code, prompts and tools, while the underlying language model stayed fix",
       "topics": [
         "Agent",
         "Prompt Engineering",
@@ -4319,7 +4398,7 @@
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:35.373540+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861099+00:00",
       "_fallback": true
     }
   },
@@ -4341,7 +4420,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】CLM is a new System 1 model from Stanford and NVIDIA Research that works like CLIP for decisions, embedding the situation and every possible",
+      "summary": "【自动摘要】CLM is a new System 1 model from Stanford and NVIDIA Research that works like CLIP for decisions, embedding the situation and every possible action into one spa",
       "topics": [
         "RAG",
         "Model Architecture",
@@ -4350,7 +4429,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:34.760545+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861172+00:00",
       "_fallback": true
     }
   },
@@ -4372,13 +4451,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】NVIDIA just dropped Nemotron 3 Diarization, a 100M-parameter open model that tells apart up to 8 speakers in real-time streaming audio. Pair",
+      "summary": "【自动摘要】NVIDIA just dropped Nemotron 3 Diarization, a 100M-parameter open model that tells apart up to 8 speakers in real-time streaming audio. Pair it with a speech-to",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Open Source",
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:34.403706+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861251+00:00",
       "_fallback": true
     }
   },
@@ -4400,13 +4482,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about,",
+      "summary": "【自动摘要】Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recurs",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:36.848505+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861342+00:00",
       "_fallback": true
     }
   },
@@ -4428,7 +4510,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】A System 1 model like Jev takes one look: a single pass, no scratchpad. A System 2 model runs the same brain in a loop, writing notes and bu",
+      "summary": "【自动摘要】A System 1 model like Jev takes one look: a single pass, no scratchpad. A System 2 model runs the same brain in a loop, writing notes and building on them step ",
       "topics": [
         "Evaluation & Benchmark",
         "Tool Use",
@@ -4436,7 +4518,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:34.481519+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861420+00:00",
       "_fallback": true
     }
   },
@@ -4458,15 +4540,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】System 1 vs System 2 AI models: what's actually different, and when should you use each one? With the release of Jev, everyone is talking ab",
+      "summary": "【自动摘要】System 1 vs System 2 AI models: what's actually different, and when should you use each one? With the release of Jev, everyone is talking about System 1 and Sys",
       "topics": [
         "Multimodal",
         "Evaluation & Benchmark",
-        "Reasoning"
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:36.023212+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861490+00:00",
       "_fallback": true
     }
   },
@@ -4488,13 +4571,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  Note: in the walking creatures experiment, Astra used a simplified model and was ",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Multimodal, Industry & Society：Claude Opus 5.5 AI: An Incredible Leap Forward",
       "topics": [
-        "Multimodal"
+        "Multimodal",
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:35.528056+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861566+00:00",
       "_fallback": true
     }
   },
@@ -4516,13 +4600,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Frank Hutter, co-founder and CEO of Prior Labs, on why a model that predicts perfectly can still point you to the wrong decision. If patient",
+      "summary": "【自动摘要】Frank Hutter, co-founder and CEO of Prior Labs, on why a model that predicts perfectly can still point you to the wrong decision. If patients who get a medicine",
       "topics": [
-        "Other"
+        "Evaluation & Benchmark"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:36.237213+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861635+00:00",
       "_fallback": true
     }
   },
@@ -4544,13 +4628,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Frank Hutter, co-founder of Prior Labs, talks about TabPFN, a tabular foundation model that makes predictions in a single forward pass, and ",
+      "summary": "【自动摘要】Frank Hutter, co-founder of Prior Labs, talks about TabPFN, a tabular foundation model that makes predictions in a single forward pass, and the research behind ",
       "topics": [
-        "Fine-tuning"
+        "Fine-tuning",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:36.791693+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861715+00:00",
       "_fallback": true
     }
   },
@@ -4574,11 +4659,11 @@
     "analysis": {
       "summary": "【自动摘要】LABOR ZERO PREORDER ON AMAZON:",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:37.546630+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861740+00:00",
       "_fallback": true
     }
   },
@@ -4600,16 +4685,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Get free Claude Code AI Coding course:  🔗 Links - Treg repo (Give agents access to 3000+ API for free):  - Step-by-step workshop in AI build",
+      "summary": "【自动摘要】Get free Claude Code AI Coding course:  🔗",
       "topics": [
         "Agent",
         "Multimodal",
-        "Open Source",
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society"
       ],
       "speaker": "AI Jason",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:39.289568+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861791+00:00",
       "_fallback": true
     }
   },
@@ -4631,7 +4716,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Opus 5.5 from Anthropic is here. Its cheaper, faster and better than Opus 5 and beats Fable 5.1 and Astra on a number of key benchmarks. LIN",
+      "summary": "【自动摘要】Opus 5.5 from Anthropic is here. Its cheaper, faster and better than Opus 5 and beats Fable 5.1 and Astra on a number of key benchmarks.",
       "topics": [
         "RAG",
         "Prompt Engineering",
@@ -4640,7 +4725,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:43.528026+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861858+00:00",
       "_fallback": true
     }
   },
@@ -4662,14 +4747,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Xiaomi just released MiMo v2.6, now the top open model on the Artificial Analysis index, and they livestreamed the entire RL run that produc",
+      "summary": "【自动摘要】Xiaomi just released MiMo v2.6, now the top open model on the Artificial Analysis index, and they livestreamed the entire RL run that produced it, which cost ab",
       "topics": [
         "Agent",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Open Source"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:43.541715+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.861934+00:00",
       "_fallback": true
     }
   },
@@ -4691,13 +4777,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 Jev:  Full song:  Previous papers, implementations, models:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：Yes, Jev Is Insane, But There's A Catch",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:42.547950+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862019+00:00",
       "_fallback": true
     }
   },
@@ -4719,13 +4805,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Alexander Mattick (Fraunhofer IIS, UTN): a perfect world model of chess still will not beat Magnus Carlsen, because predicting the future an",
+      "summary": "【自动摘要】Alexander Mattick (Fraunhofer IIS, UTN): a perfect world model of chess still will not beat Magnus Carlsen, because predicting the future and choosing the right",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:43.498445+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862083+00:00",
       "_fallback": true
     }
   },
@@ -4747,13 +4833,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Alexander Mattick is a researcher at Fraunhofer IIS and a PhD researcher at the University of Technology Nuremberg (UTN), and a regular on Y",
+      "summary": "【自动摘要】Alexander Mattick is a researcher at Fraunhofer IIS and a PhD researcher at the University of Technology Nuremberg (UTN), and a regular on Yannic Kilcher's Disc",
       "topics": [
         "Inference Optimization"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:42.633245+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862161+00:00",
       "_fallback": true
     }
   },
@@ -4775,7 +4861,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Thanks to Redis for making this video possible. Your AI agents don't fail because the model isn't smart enough. They fail because of the con",
+      "summary": "【自动摘要】Thanks to Redis for making this video possible. Your AI agents don't fail because the model isn't smart enough. They fail because of the context you give them. ",
       "topics": [
         "RAG",
         "Agent",
@@ -4784,7 +4870,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:45.162848+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862234+00:00",
       "_fallback": true
     }
   },
@@ -4806,14 +4892,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Get prompt for my Jev automation workflow:  Treg github repo:  🔗 Links - Step-by-step workshop in AI builder club:  - Follow me on twitter:",
+      "summary": "【自动摘要】Get prompt for my Jev automation workflow:  Treg github repo:  🔗",
       "topics": [
         "Agent",
         "Prompt Engineering"
       ],
       "speaker": "AI Jason",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:45.925668+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862287+00:00",
       "_fallback": true
     }
   },
@@ -4835,13 +4921,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link:  Get in touch with Dalibor at The Su",
+      "summary": "【自动摘要】Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link:  Get in touch with Dalibor at The Summit Leadership Alli",
       "topics": [
         "Tool Use"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:44.656307+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862360+00:00",
       "_fallback": true
     }
   },
@@ -4863,7 +4949,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】JEV from TypeSafe AI can fix the reranker in RAG 🔗 Helpful Resources & Links: Blogpost:  Colab:  If you found this breakdown helpful, make s",
+      "summary": "【自动摘要】JEV from TypeSafe AI can fix the reranker in RAG 🔗 Helpful Resources &",
       "topics": [
         "RAG",
         "Prompt Engineering",
@@ -4872,7 +4958,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:42.698141+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862436+00:00",
       "_fallback": true
     }
   },
@@ -4894,15 +4980,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】JEV is being called a brand new model category, but single pass classifiers date back to 2018 and zero-shot label pipelines to 2019. I bench",
+      "summary": "【自动摘要】JEV is being called a brand new model category, but single pass classifiers date back to 2018 and zero-shot label pipelines to 2019. I benchmarked JEV against t",
       "topics": [
         "Prompt Engineering",
-        "Evaluation & Benchmark",
-        "Open Source"
+        "Evaluation & Benchmark"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:43.599057+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862509+00:00",
       "_fallback": true
     }
   },
@@ -4924,7 +5009,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Needle 3: A 35MB parameter model that runs function calling on a CPU in 66 milliseconds, with no GPU and no JSON parser. In this video I wal",
+      "summary": "【自动摘要】Needle 3: A 35MB parameter model that runs function calling on a CPU in 66 milliseconds, with no GPU and no JSON parser. In this video I walk through Cactus Nee",
       "topics": [
         "Model Architecture",
         "Multimodal",
@@ -4933,7 +5018,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:42.297814+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862579+00:00",
       "_fallback": true
     }
   },
@@ -4955,14 +5040,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The DeepSeek V4.1 Flash paper is available here:  Erratum: Opus 5.1 label at 3:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Model Architecture, Multimodal：DeepSeek’s Insane New Architecture",
       "topics": [
         "Model Architecture",
         "Multimodal"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:43.625789+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862659+00:00",
       "_fallback": true
     }
   },
@@ -4984,7 +5069,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】In this video, we run an in-depth benchmark and stress-test on the stealth \"Union Alpha\" model across complex real-world agentic coding task",
+      "summary": "【自动摘要】In this video, we run an in-depth benchmark and stress-test on the stealth \"Union Alpha\" model across complex real-world agentic coding tasks. From building rea",
       "topics": [
         "Agent",
         "Model Architecture",
@@ -4993,7 +5078,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:45.472902+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862729+00:00",
       "_fallback": true
     }
   },
@@ -5015,13 +5100,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader me",
+      "summary": "【自动摘要】Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explor",
       "topics": [
-        "Safety & Alignment"
+        "Safety & Alignment",
+        "Research & Cognition"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:47.693313+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862817+00:00",
       "_fallback": true
     }
   },
@@ -5043,13 +5129,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】How can a robot test an action without moving? NVIDIA's Ming-Yu Liu explains how a world model predicts the outcome first. Cosmos 3 learns t",
+      "summary": "【自动摘要】How can a robot test an action without moving? NVIDIA's Ming-Yu Liu explains how a world model predicts the outcome first. Cosmos 3 learns three abilities toget",
       "topics": [
         "Evaluation & Benchmark"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:45.585024+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862895+00:00",
       "_fallback": true
     }
   },
@@ -5071,14 +5157,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】The car making a left turn at the start of this episode was never filmed. Cosmos 3 generated it. Ming-Yu Liu, who leads the Cosmos research ",
+      "summary": "【自动摘要】The car making a left turn at the start of this episode was never filmed. Cosmos 3 generated it. Ming-Yu Liu, who leads the Cosmos research at NVIDIA, explains ",
       "topics": [
         "Model Architecture",
-        "Multimodal"
+        "Multimodal",
+        "Reasoning",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:48.159751+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.862969+00:00",
       "_fallback": true
     }
   },
@@ -5100,7 +5188,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Treg:  (OpenRouter for data & tools, scrape trending posts & 60% cheaper seedance 2.5 API) 🔗 Links - Henry's twitter:  - portrait-clone skil",
+      "summary": "【自动摘要】Treg:  (OpenRouter for data & tools, scrape trending posts & 60% cheaper seedance 2.5 API) 🔗",
       "topics": [
         "Agent",
         "Multimodal",
@@ -5108,7 +5196,7 @@
       ],
       "speaker": "AI Jason",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:47.571455+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863046+00:00",
       "_fallback": true
     }
   },
@@ -5130,13 +5218,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Weights & Biases and sign up for a free demo here:  📝 The papers and sources are available here:    🙏 We would like to thank ou",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Model Architecture, Industry & Society：Claude Is Now Leaving Invisible Fingerprints In Its Text",
       "topics": [
-        "Open Source"
+        "Model Architecture",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:47.716247+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863119+00:00",
       "_fallback": true
     }
   },
@@ -5158,13 +5248,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Ordering food by voice alone is harder than it sounds: without a menu in front of you, you have to hold every item in your head while you de",
+      "summary": "【自动摘要】Ordering food by voice alone is harder than it sounds: without a menu in front of you, you have to hold every item in your head while you decide. Pavankumar Red",
       "topics": [
         "Multimodal"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:47.798214+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863195+00:00",
       "_fallback": true
     }
   },
@@ -5186,15 +5276,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Pavankumar Reddy Muddireddy leads audio research at Mistral AI. He joins Tim Scarfe for a deep technical tour of Voxtral — and explains why,",
+      "summary": "【自动摘要】Pavankumar Reddy Muddireddy leads audio research at Mistral AI. He joins Tim Scarfe for a deep technical tour of Voxtral — and explains why, after everything th",
       "topics": [
         "Model Architecture",
         "Multimodal",
-        "Evaluation & Benchmark"
+        "Evaluation & Benchmark",
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:48.339644+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863273+00:00",
       "_fallback": true
     }
   },
@@ -5216,7 +5307,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek V4.1 Flash is built around one idea: make long-context AI dramatically more efficient. In this video, I break down how DeepSeek shr",
+      "summary": "【自动摘要】DeepSeek V4.1 Flash is built around one idea: make long-context AI dramatically more efficient. In this video, I break down how DeepSeek shrinks KV-cache memory",
       "topics": [
         "RAG",
         "Agent",
@@ -5225,7 +5316,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:46.810422+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863346+00:00",
       "_fallback": true
     }
   },
@@ -5247,7 +5338,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】DeepSeek V4.1 Flash is built around one idea: make long-context AI dramatically more efficient. In this video, I break down how DeepSeek shr",
+      "summary": "【自动摘要】DeepSeek V4.1 Flash is built around one idea: make long-context AI dramatically more efficient. In this video, I break down how DeepSeek shrinks KV-cache memory",
       "topics": [
         "RAG",
         "Agent",
@@ -5256,7 +5347,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:47.832075+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863416+00:00",
       "_fallback": true
     }
   },
@@ -5278,13 +5369,14 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Edward Hughes explains why open weights remove a constraint that once helped produce human creativity — and why the emerging job is constrai",
+      "summary": "【自动摘要】Edward Hughes explains why open weights remove a constraint that once helped produce human creativity — and why the emerging job is constraint engineering. Watc",
       "topics": [
-        "Agent"
+        "Model Architecture",
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:49.495523+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863466+00:00",
       "_fallback": true
     }
   },
@@ -5306,13 +5398,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Edward Hughes argues that AlphaGo’s Move 37 was innovative, but creativity requires another step: recognising the value of what you have don",
+      "summary": "【自动摘要】Edward Hughes argues that AlphaGo’s Move 37 was innovative, but creativity requires another step: recognising the value of what you have done. In his account, t",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:52.256538+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863531+00:00",
       "_fallback": true
     }
   },
@@ -5334,13 +5426,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Can a machine learn the judgement that separates a plausible-looking result from a faithful experiment? Edward Hughes, Chief Scientist and c",
+      "summary": "【自动摘要】Can a machine learn the judgement that separates a plausible-looking result from a faithful experiment? Edward Hughes, Chief Scientist and co-founder of Inheren",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:50.444513+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863616+00:00",
       "_fallback": true
     }
   },
@@ -5362,13 +5454,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】00:00 - Exciting News 45:44 - Practical Business Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or a",
+      "summary": "【自动摘要】00:00 - Exciting News 45:44 - Practical Business Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link:  Get in",
       "topics": [
         "Tool Use"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:50.509377+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863688+00:00",
       "_fallback": true
     }
   },
@@ -5390,13 +5482,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Train a model on maths written in pirate-speak, and it can learn both. Tom McGrath of Goodfire explains the tricky challenge: improve the ma",
+      "summary": "【自动摘要】Train a model on maths written in pirate-speak, and it can learn both. Tom McGrath of Goodfire explains the tricky challenge: improve the maths without picking ",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:52.001186+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863743+00:00",
       "_fallback": true
     }
   },
@@ -5418,13 +5510,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The Navier-Stokes solution paper is available here:  My fluid simulations and p",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Research & Cognition：I Never Thought I’d See This Happen",
       "topics": [
-        "Other"
+        "Research & Cognition"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:51.888416+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863830+00:00",
       "_fallback": true
     }
   },
@@ -5446,13 +5538,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】The hardest AI alignment failure to spot may be the one that looks like success. Daniel Kokotajlo explains why more capable models could beh",
+      "summary": "【自动摘要】The hardest AI alignment failure to spot may be the one that looks like success. Daniel Kokotajlo explains why more capable models could behave correctly while ",
       "topics": [
         "Safety & Alignment"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:52.542377+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863889+00:00",
       "_fallback": true
     }
   },
@@ -5474,7 +5566,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Thanks to TrueFoundry for making this video possible. TrueForge is an MIT licensed open-source general purpose agentic harness that you can ",
+      "summary": "【自动摘要】Thanks to TrueFoundry for making this video possible. TrueForge is an MIT licensed open-source general purpose agentic harness that you can deploy on your own i",
       "topics": [
         "RAG",
         "Agent",
@@ -5483,7 +5575,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:51.052086+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.863950+00:00",
       "_fallback": true
     }
   },
@@ -5505,13 +5597,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Could slowing AI development make superintelligence safer? Daniel Kokotajlo and Thomas Larsen of the AI Futures Project join Tim Scarfe to e",
+      "summary": "【自动摘要】Could slowing AI development make superintelligence safer? Daniel Kokotajlo and Thomas Larsen of the AI Futures Project join Tim Scarfe to examine AI 2040: Plan",
       "topics": [
-        "Agent"
+        "Research & Cognition"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:52.498810+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864030+00:00",
       "_fallback": true
     }
   },
@@ -5533,13 +5625,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Vi",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：GPT-6 Astra Changes Everything",
       "topics": [
-        "Other"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:51.660867+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864103+00:00",
       "_fallback": true
     }
   },
@@ -5561,13 +5653,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link:  Get in touch with Dalibor at The Su",
+      "summary": "【自动摘要】Today's sponsor is Dad Brand hats. Get 25% off any purchase over $30 with code SHAPI25 or at this link:  Get in touch with Dalibor at The Summit Leadership Alli",
       "topics": [
-        "Tool Use"
+        "Tool Use",
+        "Industry & Society",
+        "Research & Cognition"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:53.774581+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864166+00:00",
       "_fallback": true
     }
   },
@@ -5589,7 +5683,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】GPT-6 Astra just solved ARC-AGI 3 thanks to its native harness that preserves thinking and compaction. This video explores how to use these ",
+      "summary": "【自动摘要】GPT-6 Astra just solved ARC-AGI 3 thanks to its native harness that preserves thinking and compaction. This video explores how to use these learning in your own",
       "topics": [
         "RAG",
         "Agent",
@@ -5598,7 +5692,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:52.136518+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864224+00:00",
       "_fallback": true
     }
   },
@@ -5620,15 +5714,16 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unn",
+      "summary": "【自动摘要】Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitora",
       "topics": [
         "Inference Optimization",
         "Evaluation & Benchmark",
-        "Safety & Alignment"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:54.363809+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864294+00:00",
       "_fallback": true
     }
   },
@@ -5650,13 +5745,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 The Claude Fable 5.1 paper is available here:   Sources:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：Claude Fable AI Is Much Stranger Than The Headlines Suggest",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:53.345944+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864366+00:00",
       "_fallback": true
     }
   },
@@ -5678,13 +5773,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Tom McGrath is co-founder and Chief Scientist at Goodfire, and a former Google DeepMind researcher. He joins Tim Scarfe to ask what neural n",
+      "summary": "【自动摘要】Tom McGrath is co-founder and Chief Scientist at Goodfire, and a former Google DeepMind researcher. He joins Tim Scarfe to ask what neural networks actually lea",
       "topics": [
-        "RAG"
+        "Industry & Society"
       ],
       "speaker": "Various Guests",
       "technical_level": "Advanced",
-      "analyzed_at": "2026-11-25T06:43:55.881406+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864447+00:00",
       "_fallback": true
     }
   },
@@ -5706,7 +5801,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】Gemini Flash 3.8 is the best agentic coding model from Google. LINKS:     Prompt Caching video:  My voice to text App: whryte.com Website:  ",
+      "summary": "【自动摘要】Gemini Flash 3.8 is the best agentic coding model from Google.",
       "topics": [
         "RAG",
         "Agent",
@@ -5715,7 +5810,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:53.929876+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864495+00:00",
       "_fallback": true
     }
   },
@@ -5737,7 +5832,7 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】In this video, I break down Anthropic’s new Claude Fable 5.1 release, including its improved token efficiency, benchmark results, and what t",
+      "summary": "【自动摘要】In this video, I break down Anthropic’s new Claude Fable 5.1 release, including its improved token efficiency, benchmark results, and what the new cache-read pr",
       "topics": [
         "Prompt Engineering",
         "Multimodal",
@@ -5746,7 +5841,7 @@
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:55.508344+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864552+00:00",
       "_fallback": true
     }
   },
@@ -5768,13 +5863,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Lambda here and sign up for their GPU Cloud:  📝 GLM 5.3 Flash:  Sources:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：GLM 5.3: Powerful AI Is Becoming Almost Free",
       "topics": [
-        "Open Source"
+        "Industry & Society"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:55.701020+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864631+00:00",
       "_fallback": true
     }
   },
@@ -5796,13 +5891,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】❤️ Check out Weights & Biases and sign up for a free demo here:  📝 The paper and Qwen3.8-Flash-Next are available here:   Sources:",
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Model Architecture：This Free AI Just Caught The Billion Dollar Giants",
       "topics": [
-        "Open Source"
+        "Model Architecture"
       ],
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T06:43:58.717361+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864713+00:00",
       "_fallback": true
     }
   },
@@ -5824,14 +5919,15 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and ME",
+      "summary": "【自动摘要】First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first gl",
       "topics": [
         "Fine-tuning",
-        "Safety & Alignment"
+        "Safety & Alignment",
+        "Industry & Society"
       ],
       "speaker": "Unknown",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:59.494343+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864794+00:00",
       "_fallback": true
     }
   },
@@ -5853,13 +5949,13 @@
     "subtitle_retries": 3,
     "no_subtitle_count": 3,
     "analysis": {
-      "summary": "【自动摘要】David Shapiro 发布的关于 Agent 的视频：The OpenAI HuggingFace attack is pure stupidity",
+      "summary": "【自动摘要】David Shapiro 发布，聚焦 Industry & Society：The OpenAI HuggingFace attack is pure stupidity",
       "topics": [
-        "Agent"
+        "Industry & Society"
       ],
       "speaker": "David Shapiro",
       "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T06:43:59.501155+00:00",
+      "analyzed_at": "2026-11-25T07:00:12.864814+00:00",
       "_fallback": true
     }
   }

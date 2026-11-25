@@ -1,83 +1,95 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme-choice="system">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>LLM News Tracker — YouTube LLM 频道监控</title>
+<meta name="description" content="自动监控 YouTube LLM 频道的资讯聚合器，AI 驱动的中文摘要、主题标签与技术深度分析，每 12 小时更新。">
+<meta name="theme-color" content="#2563eb">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LLM News Tracker — YouTube LLM 频道监控">
+<meta property="og:description" content="AI 驱动的 YouTube LLM 视频内容追踪：中文摘要、主题标签、主讲人、技术深度分析。">
+<meta property="og:url" content="https://barrychanzzz.github.io/llm-news-tracker/">
+<meta property="og:locale" content="zh_CN">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="stylesheet" href="style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "LLM News Tracker",
+  "description": "YouTube LLM 频道视频的 AI 分析结果数据集",
+  "creator": { "@type": "Person", "name": "barrychanzzz" },
+  "license": "https://github.com/barrychanzzz/llm-news-tracker/blob/main/README.md",
+  "url": "https://barrychanzzz.github.io/llm-news-tracker/"
+}
+</script>
 </head>
 <body>
 <header>
   <div class="header-inner">
-    <h1>🧠 LLM News Tracker</h1>
-    <p class="subtitle">自动监控 YouTube LLM 频道 · AI 驱动内容分析 · 每 12 小时更新</p>
-    <p class="update-time" id="update-time"></p>
+    <div class="header-top">
+      <div>
+        <h1>🧠 LLM News Tracker</h1>
+        <p class="subtitle">自动监控 YouTube LLM 频道 · AI 驱动内容分析 · 每 12 小时更新</p>
+        <p class="update-time" id="update-time"></p>
+      </div>
+      <div class="theme-toggle" role="group" aria-label="主题切换">
+        <button type="button" data-theme-option="light" aria-label="浅色主题" title="浅色">☀</button>
+        <button type="button" data-theme-option="dark" aria-label="深色主题" title="深色">☾</button>
+        <button type="button" data-theme-option="system" aria-label="跟随系统" title="跟随系统">◐</button>
+      </div>
+    </div>
   </div>
 </header>
 
 <main>
-  <!-- Stats Bar -->
   <section class="stats-bar" id="stats-bar">
-    <div class="stat">
-      <span class="stat-value" id="stat-channels">0</span>
-      <span class="stat-label">监控频道</span>
-    </div>
-    <div class="stat">
-      <span class="stat-value" id="stat-videos">0</span>
-      <span class="stat-label">分析视频</span>
-    </div>
-    <div class="stat">
-      <span class="stat-value" id="stat-relations">0</span>
-      <span class="stat-label">频道关联</span>
-    </div>
+    <div class="stat"><span class="stat-value" id="stat-channels">0</span><span class="stat-label">监控频道</span></div>
+    <div class="stat"><span class="stat-value" id="stat-videos">0</span><span class="stat-label">分析视频</span></div>
+    <div class="stat"><span class="stat-value" id="stat-relations">0</span><span class="stat-label">频道关联</span></div>
   </section>
 
-  <!-- Search & Filter -->
   <section class="controls">
     <div class="control-row">
-      <input type="text" id="search-input" class="search-box"
-             placeholder="搜索视频标题、摘要、主讲人或标签...">
-      <select id="channel-filter" class="filter-select">
+      <input type="text" id="search-input" class="search-box" placeholder="搜索视频标题、摘要、主讲人或标签..." aria-label="搜索视频">
+      <select id="channel-filter" class="filter-select" aria-label="按频道筛选">
         <option value="">全部频道</option>
       </select>
+      <button type="button" id="clear-filters" class="clear-btn" title="清除所有筛选">清除</button>
     </div>
-    <div class="topic-filters" id="topic-filters">
-      <!-- Dynamically populated -->
+    <div class="topic-filters-row">
+      <div class="topic-filters" id="topic-filters"></div>
+      <span class="filter-count" id="filter-count"></span>
     </div>
   </section>
 
-  <!-- Video Table -->
   <section class="table-section">
     <div class="table-wrapper">
       <table id="video-table">
-        <thead>
-          <tr>
-            <th class="col-channel">频道</th>
-            <th class="col-title">视频标题</th>
-            <th class="col-date">发布时间</th>
-            <th class="col-views">播放量</th>
-            <th class="col-topics">主题标签</th>
-            <th class="col-speaker">主讲人</th>
-            <th class="col-level">深度</th>
-            <th class="col-summary">AI 内容摘要</th>
-          </tr>
-        </thead>
-        <tbody id="table-body">
-        </tbody>
+        <thead><tr id="table-head-row"></tr></thead>
+        <tbody id="table-body"></tbody>
       </table>
     </div>
-    <p class="result-count" id="result-count"></p>
+    <div class="table-footer">
+      <p class="result-count" id="result-count"></p>
+      <div class="page-size-control">
+        <label for="page-size">每页</label>
+        <select id="page-size" aria-label="每页显示条数">
+          <option value="20">20</option>
+          <option value="30" selected>30</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+    </div>
+    <nav id="pagination" class="pagination" aria-label="分页导航"></nav>
   </section>
 
-  <!-- Channel Relations -->
   <section class="relations-section">
     <h2>📊 频道内容侧重 & 关联分析</h2>
-    <div id="channel-focus-grid" class="focus-grid">
-      <!-- Dynamically populated -->
-    </div>
-    <div id="relations-list" class="relations-list">
-      <!-- Dynamically populated -->
-    </div>
+    <div id="channel-focus-grid" class="focus-grid"></div>
+    <div id="relations-list" class="relations-list"></div>
   </section>
 </main>
 
@@ -86,9 +98,9 @@
 </footer>
 
 <script>
-// DATA_PLACEHOLDER — replace by generate_site.py
+// DATA_PLACEHOLDER — replaced by generate_site.py
 const DATA_PLACEHOLDER = null;
 </script>
-<script src="app.js"></script>
+<script type="module" src="js/main.js"></script>
 </body>
 </html>
