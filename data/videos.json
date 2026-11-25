@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "DvQ08TWOCtM",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Grokking Is Just Expensive Therapy for Bad Representations #shorts",
+    "url": "https://www.youtube.com/shorts/DvQ08TWOCtM",
+    "published_at": "2026-11-25T06:43:28+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kenneth Stanley (Lila Sciences) explains why neural networks trained on fractured, entangled representations spend huge compute grokking their way back to the clean, factored structure that open-ended evolution builds naturally.\n\nWatch the full Kenneth Stanley episode early on Patreon:\nhttps://www.patreon.com/posts/176307990\n\nSubscribe to Machine Learning Street Talk on YouTube for the public premiere:\nhttps://youtube.com/@MachineLearningStreetTalk\n\n#AI #MachineLearning #Grokking #KennethStanley",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-25T07:05:43.846964+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Kenneth Stanley (Lila Sciences) explains why neural networks trained on fractured, entangled representations spend huge compute grokking their way back to the c",
+      "topics": [
+        "Industry & Society"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-25T07:05:43.847356+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
+    "video_id": "ZeplNfEg0WQ",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
+    "url": "https://www.youtube.com/shorts/ZeplNfEg0WQ",
+    "published_at": "2026-11-25T06:43:03+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why scaling one monolithic AI model runs into a hard wall, and why real open-ended discovery looks more like an ecosystem of diverse specialists than a single giant brain.\n\nWatch the full Kenneth Stanley episode early on Patreon:\nhttps://www.patreon.com/posts/176307990\n\nSubscribe to Machine Learning Street Talk on YouTube for the public premiere:\nhttps://youtube.com/@MachineLearningStreetTalk\n\n#AI #MachineLearnin",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-25T07:06:00.581574+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why scaling one monolithic AI model runs into a hard wall, and why real open",
+      "topics": [
+        "Research & Cognition"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-25T07:06:00.581739+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
     "video_id": "4NzM2hcWp1s",
     "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
     "channel_name": "Prompt Engineering",
@@ -14,7 +68,7 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-24T21:56:35.051548+00:00",
     "analyzed": true,
-    "subtitle_retries": 1,
+    "subtitle_retries": 2,
     "no_subtitle_count": 1,
     "analysis": {
       "summary": "【自动摘要】Hugging Face's harness adapters are small LoRA add-ons trained with reinforcement learning for one coding agent. With thinking off, the pi adapter takes Qwen 3.",
