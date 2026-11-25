@@ -1,5 +1,59 @@
 [
   {
+    "video_id": "KaraiGjLJAQ",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
+    "url": "https://www.youtube.com/shorts/KaraiGjLJAQ",
+    "published_at": "2026-11-25T12:44:54+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why benchmark-driven AI and tree search miss truly transformative discoveries, because you cannot write a grading rubric for ideas that have not been invented yet.\n\nWatch the full Kenneth Stanley episode early on Patreon:\nhttps://www.patreon.com/posts/176307990\n\nSubscribe to Machine Learning Street Talk on YouTube for the public premiere:\nhttps://youtube.com/@MachineLearningStreetTalk\n\n#AI #MachineLearning #Kenne",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-25T21:05:47.881564+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why benchmark-driven AI and tree search miss truly transformative discoverie",
+      "topics": [
+        "Evaluation & Benchmark"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-25T21:05:47.881721+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
+    "video_id": "hwWlEuI359w",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+    "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+    "published_at": "2026-11-25T09:54:23+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://nasqret.github.io/riemann-rev/guide/proof-guide.pdf\nhttps://alpo.ge/remark.pdf\n\nCompression and building in public:\nhttps://x.com/altryne/status/2124585496013926707\nhttps://x.com/slimer48484/status/2124414071349104804\nhttps://riemann.verifytask.cn/\nhttps://pequalnp.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridg",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-25T21:05:32.362170+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Industry & Society：Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "topics": [
+        "Industry & Society"
+      ],
+      "speaker": "Dr. Károly Zsolnai-Fehér",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-11-25T21:05:32.362596+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
     "video_id": "DvQ08TWOCtM",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -24,7 +78,7 @@
       "analyzed_at": "2026-11-25T07:05:43.847356+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "ZeplNfEg0WQ",
@@ -51,7 +105,7 @@
       "analyzed_at": "2026-11-25T07:06:00.581739+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "4NzM2hcWp1s",
@@ -68,7 +122,7 @@
     "raw_transcript": "",
     "fetched_at": "2026-11-24T21:56:35.051548+00:00",
     "analyzed": true,
-    "subtitle_retries": 2,
+    "subtitle_retries": 3,
     "no_subtitle_count": 1,
     "analysis": {
       "summary": "【自动摘要】Hugging Face's harness adapters are small LoRA add-ons trained with reinforcement learning for one coding agent. With thinking off, the pi adapter takes Qwen 3.",
@@ -5952,64 +6006,6 @@
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
       "analyzed_at": "2026-11-25T07:00:12.864713+00:00",
-      "_fallback": true
-    }
-  },
-  {
-    "video_id": "KL9_1GbmCic",
-    "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-    "channel_name": "AI Explained",
-    "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
-    "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
-    "published_at": "2026-08-27T19:16:24+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk reports, to Chinese Labs, pre-training debacles to questionable cybersecurity calls, a lot has happened recently, beneath the headlines…\n\nhttps://80000hours.org/aiexplained\n\n\npablo2004romero@gmail.com\nhttps://integrity-bench.c",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-27T21:48:56.177058+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "【自动摘要】First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first gl",
-      "topics": [
-        "Fine-tuning",
-        "Safety & Alignment",
-        "Industry & Society"
-      ],
-      "speaker": "Unknown",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T07:00:12.864794+00:00",
-      "_fallback": true
-    }
-  },
-  {
-    "video_id": "ekimKKpDRPE",
-    "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
-    "channel_name": "David Shapiro",
-    "title": "The OpenAI HuggingFace attack is pure stupidity",
-    "url": "https://www.youtube.com/watch?v=ekimKKpDRPE",
-    "published_at": "2026-08-27T18:52:47+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-27T21:49:12.571802+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "【自动摘要】David Shapiro 发布，聚焦 Industry & Society：The OpenAI HuggingFace attack is pure stupidity",
-      "topics": [
-        "Industry & Society"
-      ],
-      "speaker": "David Shapiro",
-      "technical_level": "Intermediate",
-      "analyzed_at": "2026-11-25T07:00:12.864814+00:00",
       "_fallback": true
     }
   }
