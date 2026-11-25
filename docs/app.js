@@ -270,7 +270,7 @@
   }
 
   function formatNumber(n) {
-    if (!n || n === 0) return '—';
+    if (!n || n === 0) return '<span title="YouTube 限制了播放量数据的自动获取" style="opacity:.5;font-size:.8em">N/A</span>';
     if (n >= 10000) {
       return (n / 10000).toFixed(1) + '万';
     }
