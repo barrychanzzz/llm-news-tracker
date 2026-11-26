@@ -1,5 +1,113 @@
 [
   {
+    "video_id": "vDDRbEOyEVc",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "AI Engineering Is a Decade Ahead of the Maths #shorts",
+    "url": "https://www.youtube.com/shorts/vDDRbEOyEVc",
+    "published_at": "2026-11-26T05:52:46+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Is deep learning alchemy? Julian Gould (Sakana AI) pushes back on that claim and explains why AI carries a growing maths debt, with modern engineering running a decade ahead of our theoretical framework.\n\nSubscribe to Machine Learning Street Talk on YouTube for the full conversation:\nhttps://www.youtube.com/@MachineLearningStreetTalk\n\n#DeepLearning #Mathematics #AIResearch #AITheory #AI #MachineLearning #MLST #Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-26T06:57:11.382359+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Is deep learning alchemy? Julian Gould (Sakana AI) pushes back on that claim and explains why AI carries a growing maths debt, with modern engineering running a",
+      "topics": [
+        "Industry & Society"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-26T06:57:11.382697+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
+    "video_id": "4HGQvNT8guw",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "The Paradox of Random Noise and Algorithmic Statistics #shorts",
+    "url": "https://www.youtube.com/shorts/4HGQvNT8guw",
+    "published_at": "2026-11-26T05:32:42+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "TV static has maximum Kolmogorov complexity, yet it is completely meaningless. Julian Gould (Sakana AI) explains the paradox of random noise, sophistication, and why algorithmic statistics spent forty years waiting to find its use in modern AI.\n\nSubscribe to Machine Learning Street Talk on YouTube for the full conversation:\nhttps://www.youtube.com/@MachineLearningStreetTalk\n\n#AlgorithmicStatistics #InformationTheory #Complexity #KolmogorovComplexity #AI #MachineLearning #MLST #Shorts",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-26T06:57:24.205856+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】TV static has maximum Kolmogorov complexity, yet it is completely meaningless. Julian Gould (Sakana AI) explains the paradox of random noise, sophistication, an",
+      "topics": [
+        "Industry & Society"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-26T06:57:24.206005+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
+    "video_id": "nD1X9iYsHT4",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Why Rewarding AI for Creativity Causes Mode Collapse #shorts",
+    "url": "https://www.youtube.com/shorts/nD1X9iYsHT4",
+    "published_at": "2026-11-26T02:19:31+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why training AI with reinforcement learning to reward creative outputs causes mode collapse immediately, and how Creative Priming avoids collapsing to a single safe answer.\n\nWatch the full Kenneth Stanley episode early on Patreon:\nhttps://www.patreon.com/posts/176307990\n\nSubscribe to Machine Learning Street Talk on YouTube for the public premiere:\nhttps://youtube.com/@MachineLearningStreetTalk\n\n#AI #MachineLearni",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-26T06:57:36.894108+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why training AI with reinforcement learning to reward creative outputs cause",
+      "topics": [
+        "Fine-tuning"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-26T06:57:36.894260+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
+    "video_id": "cgveN7Hc8bE",
+    "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+    "channel_name": "Machine Learning Street Talk",
+    "title": "Why Naive PhD Students Beat Entrenched Experts in AI #Shorts",
+    "url": "https://www.youtube.com/shorts/cgveN7Hc8bE",
+    "published_at": "2026-11-26T02:19:08+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why naive PhD students often have a better shot at paradigm-shifting breakthroughs than deeply entrenched experts, drawing on ideas from The Value of Not Knowing (arXiv:2611.11725).\n\nWatch the full Kenneth Stanley episode early on Patreon:\nhttps://www.patreon.com/posts/176307990\n\nSubscribe to Machine Learning Street Talk on YouTube for the public premiere:\nhttps://youtube.com/@MachineLearningStreetTalk\n\n#AI #Mach",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-26T06:57:49.359853+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Kenneth Stanley (Lila Sciences, author of Why Greatness Cannot Be Planned) explains why naive PhD students often have a better shot at paradigm-shifting breakth",
+      "topics": [
+        "Industry & Society"
+      ],
+      "speaker": "Various Guests",
+      "technical_level": "Advanced",
+      "analyzed_at": "2026-11-26T06:57:49.359998+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
     "video_id": "KaraiGjLJAQ",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
@@ -24,7 +132,7 @@
       "analyzed_at": "2026-11-25T21:05:47.881721+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "hwWlEuI359w",
@@ -51,7 +159,7 @@
       "analyzed_at": "2026-11-25T21:05:32.362596+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "DvQ08TWOCtM",
@@ -78,7 +186,7 @@
       "analyzed_at": "2026-11-25T07:05:43.847356+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 2
+    "subtitle_retries": 3
   },
   {
     "video_id": "ZeplNfEg0WQ",
@@ -105,7 +213,7 @@
       "analyzed_at": "2026-11-25T07:06:00.581739+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 2
+    "subtitle_retries": 3
   },
   {
     "video_id": "4NzM2hcWp1s",
