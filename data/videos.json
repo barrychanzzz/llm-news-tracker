@@ -24,7 +24,7 @@
       "analyzed_at": "2026-11-26T06:57:11.382697+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "4HGQvNT8guw",
@@ -51,7 +51,7 @@
       "analyzed_at": "2026-11-26T06:57:24.206005+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "nD1X9iYsHT4",
@@ -78,7 +78,7 @@
       "analyzed_at": "2026-11-26T06:57:36.894260+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "cgveN7Hc8bE",
@@ -105,7 +105,7 @@
       "analyzed_at": "2026-11-26T06:57:49.359998+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 1
+    "subtitle_retries": 2
   },
   {
     "video_id": "KaraiGjLJAQ",
@@ -132,7 +132,7 @@
       "analyzed_at": "2026-11-25T21:05:47.881721+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 2
+    "subtitle_retries": 3
   },
   {
     "video_id": "hwWlEuI359w",
@@ -159,7 +159,7 @@
       "analyzed_at": "2026-11-25T21:05:32.362596+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 2
+    "subtitle_retries": 3
   },
   {
     "video_id": "DvQ08TWOCtM",
@@ -6086,34 +6086,6 @@
       "speaker": "Dr. Károly Zsolnai-Fehér",
       "technical_level": "Beginner",
       "analyzed_at": "2026-11-25T07:00:12.864631+00:00",
-      "_fallback": true
-    }
-  },
-  {
-    "video_id": "LBiNcdGNgrg",
-    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-    "channel_name": "Two Minute Papers",
-    "title": "This Free AI Just Caught The Billion Dollar Giants",
-    "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-    "published_at": "2026-08-28T09:44:44+00:00",
-    "view_count": 0,
-    "duration": 0,
-    "duration_string": "",
-    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\nhttps://qwen.ai/blog?id=qwen3.8-flash-next\n\nSources:\nhttps://x.com/analogalok/status/2092697021790708148\nhttps://www.reddit.com/r/unsloth/comments/1vzf6j7/mind_blowing_qwen38flashnext_rtx_3090_128ddr5\nhttps://www.reddit.com/r/LocalLLM/comments/1vz1w00/first_gif_cooked_by_qwen38flashne",
-    "has_captions": false,
-    "raw_transcript": "",
-    "fetched_at": "2026-08-28T21:44:55.060174+00:00",
-    "analyzed": true,
-    "subtitle_retries": 3,
-    "no_subtitle_count": 3,
-    "analysis": {
-      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 Model Architecture：This Free AI Just Caught The Billion Dollar Giants",
-      "topics": [
-        "Model Architecture"
-      ],
-      "speaker": "Dr. Károly Zsolnai-Fehér",
-      "technical_level": "Beginner",
-      "analyzed_at": "2026-11-25T07:00:12.864713+00:00",
       "_fallback": true
     }
   }
