@@ -1,5 +1,35 @@
 [
   {
+    "video_id": "u6UYsl-KEoc",
+    "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "channel_name": "Two Minute Papers",
+    "title": "DeepMind’s New AI Just Changed The AI Race",
+    "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+    "published_at": "2026-11-27T08:42:30+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The security report is available here:\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf\n\nSources:\n- https://x.com/PromptLLM/status/2124894800654504419\n- https://x.com/thebuggeddev/status/2123170821250400282\n- https://x.com/ai_for_success/status/2123467103110078747\n- https://x.com/thtbee_/status/2123843882937155607\n- https://x.com/crtvTeknologist/status/2123175626039304496\n- ",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-27T20:42:57.620986+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Two Minute Papers 发布与 Dr. Károly Zsolnai-Fehér 的对话，聚焦 RAG, Prompt Engineering：DeepMind’s New AI Just Changed The AI Race",
+      "topics": [
+        "RAG",
+        "Prompt Engineering",
+        "Safety & Alignment",
+        "Tool Use"
+      ],
+      "speaker": "Dr. Károly Zsolnai-Fehér",
+      "technical_level": "Beginner",
+      "analyzed_at": "2026-11-27T20:42:57.621516+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
     "video_id": "vDDRbEOyEVc",
     "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
     "channel_name": "Machine Learning Street Talk",
