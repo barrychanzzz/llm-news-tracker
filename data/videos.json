@@ -1,5 +1,35 @@
 [
   {
+    "video_id": "N3lMEjynpr8",
+    "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+    "channel_name": "Prompt Engineering",
+    "title": "Context Rot Is Mostly Solved. Except This One",
+    "url": "https://www.youtube.com/watch?v=N3lMEjynpr8",
+    "published_at": "2026-11-28T14:00:05+00:00",
+    "view_count": 0,
+    "duration": 0,
+    "duration_string": "",
+    "description": "Long-running agents fill their context windows with files, terminal logs, and their own notes, and any of those can push them in the wrong direction. Researchers call this context rot and describe five ways it happens: context poisoning, context distraction, context confusion, context clash, and self-conditioning. This video explains each failure mode using a coding agent that migrates a codebase to a new database driver. It also covers the standard fix for each one: validation, compaction, tool",
+    "has_captions": false,
+    "raw_transcript": "",
+    "fetched_at": "2026-11-28T19:37:14.117866+00:00",
+    "analyzed": true,
+    "analysis": {
+      "summary": "【自动摘要】Long-running agents fill their context windows with files, terminal logs, and their own notes, and any of those can push them in the wrong direction. Researcher",
+      "topics": [
+        "Agent",
+        "Multimodal",
+        "Evaluation & Benchmark",
+        "Tool Use"
+      ],
+      "speaker": "Unknown",
+      "technical_level": "Intermediate",
+      "analyzed_at": "2026-11-28T19:37:14.118218+00:00",
+      "_fallback": true
+    },
+    "subtitle_retries": 1
+  },
+  {
     "video_id": "u6UYsl-KEoc",
     "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
     "channel_name": "Two Minute Papers",
@@ -27,7 +57,7 @@
       "analyzed_at": "2026-11-27T20:42:57.621516+00:00",
       "_fallback": true
     },
-    "subtitle_retries": 2
+    "subtitle_retries": 3
   },
   {
     "video_id": "vDDRbEOyEVc",
